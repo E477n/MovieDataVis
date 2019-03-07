@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'quicksand-l';
+    src: url('./Quicksand-Light.ttf');
+}
+@font-face {
+    font-family: 'quicksand-m';
+    src: url('./Quicksand-Medium.ttf');
+}
+
+body{
+    margin: 0;
+}
+canvas{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-family:quicksand-l, Georgia, sans-serif;
+    font-size: 20px;
+}
