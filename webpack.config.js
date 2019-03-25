@@ -16,6 +16,10 @@ module.exports = {
                 ]
             },
             {
+                test: /\.js$/,
+                loader: 'ify-loader'
+            },
+            {
                 test: /\.(woff|woff2|eot|ttf|otf)$/,
                 use: [
                     'file-loader'

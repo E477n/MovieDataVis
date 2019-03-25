@@ -1,29 +1,48 @@
 import _ from 'lodash';
 import './index.css';
+import './plotly-latest.min.js/dist/plotly';
+
+var TESTER = document.getElementById('tester');
+Plotly.plot( TESTER, [{
+x: [1, 2, 3, 4, 5],
+y: [1, 2, 4, 8, 16] }], {
+margin: { t: 0 } } );
 
 // create scene, camera and renderer
 var THREE = require('three');
 var scene = new THREE.Scene();
-var camera = new THREE.PerspectiveCamera(50, window.innerWidth/window.innerHeight, 0.1, 1000);
+var camera = new THREE.PerspectiveCamera(200, window.innerWidth/window.innerHeight, 1, 500);
 // PerspectiveCamera is one of the cameras
 //PerspectiveCamera(field of view (degrees), aspect ratio, near, far)
+camera.position.set(0, 0, 100);
+camera.lookAt(0, 0, 0);
+
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
-var geometry = new THREE.BoxGeometry(1, 1, 1);
-var material = new THREE.MeshBasicMaterial({
-	color: 0xC0C0C0 //hex colors
+var material = new THREE.LineBasicMaterial({
+	color: 0xC0C0C0
 });
-var cube = new THREE.Mesh(geometry, material);
-scene.add(cube);
+var geometry = new THREE.Geometry();
+geometry.vertices.push(new THREE.Vector3(-10, 0, 0));
+geometry.vertices.push(new THREE.Vector3(0, 10, 0));
+geometry.vertices.push(new THREE.Vector3(10, 0, 0));
+var line = new THREE.Line(geometry, material);
+scene.add(line);
+// var geometry = new THREE.BoxGeometry(1, 1, 1);
+// var material = new THREE.MeshBasicMaterial({
+// 	color: 0xC0C0C0 //hex colors
+// });
+// var cube = new THREE.Mesh(geometry, material);
+// scene.add(cube);
 
 camera.position.z = 5;
 
 function animate(){
 	requestAnimationFrame(animate); //this function pauses when user navigates to another browser tab
-	cube.rotation.x += 0.02;
-	cube.rotation.y += 0.01; //run every frame (60 times.second)
+	line.rotation.x += 0.02;
+	line.rotation.y += 0.02; //run every frame (60 times.second)
 	renderer.render(scene, camera);
 }
 
