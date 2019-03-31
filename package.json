@@ -29,6 +29,7 @@
   "dependencies": {
     "ify-loader": "^1.1.0",
     "lodash": "^4.17.11",
+    "plotly.js": "^1.45.3",
     "three": "^0.102.1"
   }
 }

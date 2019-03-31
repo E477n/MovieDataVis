@@ -1,12 +1,5 @@
-import _ from 'lodash';
 import './index.css';
-import './plotly-latest.min.js/dist/plotly';
 
-var TESTER = document.getElementById('tester');
-Plotly.plot( TESTER, [{
-x: [1, 2, 3, 4, 5],
-y: [1, 2, 4, 8, 16] }], {
-margin: { t: 0 } } );
 
 // create scene, camera and renderer
 var THREE = require('three');
@@ -30,12 +23,6 @@ geometry.vertices.push(new THREE.Vector3(0, 10, 0));
 geometry.vertices.push(new THREE.Vector3(10, 0, 0));
 var line = new THREE.Line(geometry, material);
 scene.add(line);
-// var geometry = new THREE.BoxGeometry(1, 1, 1);
-// var material = new THREE.MeshBasicMaterial({
-// 	color: 0xC0C0C0 //hex colors
-// });
-// var cube = new THREE.Mesh(geometry, material);
-// scene.add(cube);
 
 camera.position.z = 5;
 
@@ -45,6 +32,8 @@ function animate(){
 	line.rotation.y += 0.02; //run every frame (60 times.second)
 	renderer.render(scene, camera);
 }
+
+
 
 /**
  * @author alteredq / http://alteredqualia.com/
