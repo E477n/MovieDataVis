@@ -24,6 +24,17 @@ geometry.vertices.push(new THREE.Vector3(10, 0, 0));
 var line = new THREE.Line(geometry, material);
 scene.add(line);
 
+var geometry1 = new THREE.SphereBufferGeometry( 100, 100, 100 );
+
+var wireframe = new THREE.WireframeGeometry( geometry1 );
+
+var line2 = new THREE.LineSegments( wireframe );
+line2.material.depthTest = false;
+line2.material.opacity = 0.25;
+line2.material.transparent = true;
+
+scene.add( line2 );
+
 camera.position.z = 5;
 
 function animate(){
