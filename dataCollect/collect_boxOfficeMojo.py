@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from pyquery import PyQuery as pq
 from bson import json_util as jsonb
-import urllib2
 import pymongo
 
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
@@ -296,9 +295,7 @@ def update_genre_details():
         genre = (a.find('td:first-child a').text().encode('raw_unicode_escape'))
         try:
             html2 = pq(url + 'genres/' + addurl)
-        except urllib2.HTTPError, e:
-            print(e.code)
-            print(e.msg)
+        except:
             html2 = ""
             continue
 
