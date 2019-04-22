@@ -1,5 +1,5 @@
 # MovieDataVis
-##Python Dependencies
+## Python Dependencies
 - dash
 - pymongo
 - pyquery
