@@ -107,56 +107,6 @@ app.layout = html.Div(children=[
         id='stackedgraph',
         figure=go.Figure(
             data=data2,
-            # data=[
-            #     go.Bar(
-            #         # date
-            #         x=res2[0][1],
-            #         # count
-            #         y=res2[0][2],
-            #         # genre
-            #         name=res2[0][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[1][1],
-            #         y=res2[1][2],
-            #         name=res2[1][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[2][1],
-            #         y=res2[2][2],
-            #         name=res2[2][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[3][1],
-            #         y=res2[3][2],
-            #         name=res2[3][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[4][1],
-            #         y=res2[4][2],
-            #         name=res2[4][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[5][1],
-            #         y=res2[5][2],
-            #         name=res2[5][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[6][1],
-            #         y=res2[6][2],
-            #         name=res2[6][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[7][1],
-            #         y=res2[7][2],
-            #         name=res2[7][0]
-            #     ),
-            #     go.Bar(
-            #         x=res2[8][1],
-            #         y=res2[8][2],
-            #         name=res2[8][0]
-            #     )
-            # ],
             layout=go.Layout(
                 barmode='stack',
                 title='Competitor Genre',

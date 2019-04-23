@@ -1,11 +1,16 @@
 import pymongo
+import datetime
 from bson.son import SON
 from dateutil import parser
+
+
+from dataProcess import processInput as pi
 
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
 db = client['movie_db']
 
 col_cd = db['competitor_detail']
+col_cc = db['competitor_count']
 
 def groupbyDate():
     # groupby release date and count
@@ -71,7 +76,25 @@ def updateDate():
         myDatetime = parser.parse(dateStr)
         col_cd.update_one({"Movie": movieName}, {"$set": {"ReleaseDate": myDatetime}}, upsert=False)
 
+def gradeFridaywithCompetitor(start_date, end_date, genre):
+    res = pi.extractFriday(start_date, end_date)
+    for date in res:
+        date_time = datetime.datetime.strptime(date, '%Y-%m-%d')
+        competitor_number = 0
+        same_genre_number = 0
+        for record in col_cc.find({"ReleaseDate": date_time}):
+            competitor_number += record["Count"]
+            for g in genre:
+                if g in record["Genre"]:
+                    same_genre_number += 1
+        print("competitor number:", competitor_number)
+        print("same genre number:", same_genre_number)
+
+
+
+
 if __name__ == "__main__":
     # updateDate()
-    groupbyDate()
+    # groupbyDate()
     # groupbyDateandCountGenre()
+    gradeFridaywithCompetitor("2019-07-01", "2019-10-30", ["Animation","Comedy"])

@@ -8,7 +8,3 @@ def extractFriday(start, end):
         res.append(date_list[i])
     return res
 
-
-if __name__ == "__main__":
-    res = extractFriday('2019-04-01', '2019-05-11')
-    print(res)
