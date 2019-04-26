@@ -74,6 +74,20 @@ def weeklyGrossTrendByYear():
         res.append(row)
     return [xaxis, res]
 
+def blockbusterBudget():
+    col_bg = db['budget']
+    xaxis = []
+    yaxis = []
+    size = []
+    title = []
+    for record in col_bg.find():
+        xaxis.append(record["week#"])
+        yaxis.append(record["budget"])
+        size.append(record["budget"]/7)
+        title.append(record["title"])
+    return [xaxis, yaxis, size, title]
+
+
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -102,6 +116,19 @@ for i in res3[1]:
     )
     d3year += 1
     data3.append(trace)
+
+res4 = blockbusterBudget()
+data4 = []
+trace = go.Scatter(
+    x=res4[0],
+    y=res4[1],
+    text=res4[3],
+    mode='markers',
+    marker=dict(
+        size=res4[2],
+    )
+)
+data4.append(trace)
 
 app.layout = html.Div(children=[
     html.H1(children='Movie Data Visualization'),
@@ -176,7 +203,38 @@ app.layout = html.Div(children=[
 '''),
     html.Div(children='''
     Graduate Design by Chen Chen.
+'''),
+
+    dcc.Graph(
+        style={'height': 700},
+        id='bubblechart',
+        figure=go.Figure(
+            data=data4,
+            layout=go.Layout(
+                title='movie budget and release date for factor 5',
+                xaxis=dict(
+                    title='week#'
+                ),
+                yaxis=dict(
+                    title='Budget'
+                ),
+                showlegend=True,
+                legend=go.layout.Legend(
+                    x=0,
+                    y=1.0
+                ),
+                margin=go.layout.Margin(l=100, r=100, t=40, b=30)
+            )
+        ),
+    ),
+
+    html.Div(children='''
+    Movie Data Visualization, Apr 2019
+'''),
+    html.Div(children='''
+    Graduate Design by Chen Chen.
 ''')
+
 
 
 
