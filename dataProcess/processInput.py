@@ -11,6 +11,3 @@ def extractFriday(start, end):
     for i in range(offset[weekday], len(date_list), 5):
         res.append(date_list[i])
     return res
-
-if __name__ == "__main__":
-    print(extractFriday("2020-05-01", "2020-09-30"))

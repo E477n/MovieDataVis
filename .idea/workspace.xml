@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="60f9bf06-7a8a-4121-90db-62603ffe928a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProcess/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataProcess/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProcess/factor1.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dataProcess/processInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataProcess/processInput.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +41,7 @@
           <entry key="js" value="25" />
           <entry key="json" value="16" />
           <entry key="md" value="3" />
-          <entry key="py" value="38" />
+          <entry key="py" value="44" />
           <entry key="rnc" value="1" />
           <entry key="webpack" value="1" />
         </counts>
@@ -52,7 +54,7 @@
           <entry key="JavaScript" value="25" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="44" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -65,7 +67,7 @@
           <entry key="js" value="2343" />
           <entry key="json" value="335" />
           <entry key="md" value="90" />
-          <entry key="py" value="15654" />
+          <entry key="py" value="17678" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -76,7 +78,7 @@
           <entry key="JavaScript" value="2343" />
           <entry key="Markdown" value="90" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="15723" />
+          <entry key="Python" value="17747" />
         </counts>
       </usages-collector>
     </session>
@@ -86,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataProcess/factor5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="21" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <marker date="1556281245568" expanded="true" signature="767:770" ph="..." />
@@ -97,27 +99,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
+        <entry file="file://$PROJECT_DIR$/dataProcess/processInput.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+            <state relative-caret-position="180">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
-                <element signature="e#24#38#0" expanded="true" />
-                <marker date="1556282379458" expanded="true" signature="1933:2249" ph="..." />
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1556293789675" expanded="true" signature="423:424" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataProcess/processInput.py">
+        <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="244">
+              <caret line="130" column="28" lean-forward="true" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="28" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1556293331154" expanded="true" signature="525:526" ph="..." />
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1556303721630" expanded="true" signature="695:699" ph="..." />
+                <marker date="1556303721630" expanded="true" signature="2313:4007" ph="..." />
+                <marker date="1556303721630" expanded="true" signature="3209:3960" ph="..." />
+                <marker date="1556303721630" expanded="true" signature="4002:4007" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_monthly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -175,13 +189,14 @@
         <option value="$USER_HOME$/Downloads/weekday-master/weekday.py" />
         <option value="$PROJECT_DIR$/dataProcess/test.py" />
         <option value="$PROJECT_DIR$/dataProcess/Factor2_competitors.py" />
-        <option value="$PROJECT_DIR$/dataProcess/factor1.py" />
         <option value="$PROJECT_DIR$/dataProcess/factor2.py" />
         <option value="$PROJECT_DIR$/dataCollect/collect_boxOfficeMojo.py" />
         <option value="$PROJECT_DIR$/dataCollect/insertBudget.py" />
         <option value="$PROJECT_DIR$/dataProcess/factor5.py" />
-        <option value="$PROJECT_DIR$/dataProcess/app.py" />
         <option value="$PROJECT_DIR$/dataProcess/processInput.py" />
+        <option value="$PROJECT_DIR$/dataProcess/app.py" />
+        <option value="$PROJECT_DIR$/dataProcess/factor1.py" />
+        <option value="$PROJECT_DIR$/algoMerge/algoMerge.py" />
       </list>
     </option>
   </component>
@@ -269,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.processInput">
+  <component name="RunManager" selected="Python.algoMerge">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MovieDataVis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,6 +307,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="algoMerge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MovieDataVis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoMerge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoMerge/algoMerge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MovieDataVis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,28 +337,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataProcess/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="collect_boxOfficeMojo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MovieDataVis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataCollect" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataCollect/collect_boxOfficeMojo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,17 +411,17 @@
     <list>
       <item itemvalue="Python.app" />
       <item itemvalue="Python.factor5" />
-      <item itemvalue="Python.collect_boxOfficeMojo" />
       <item itemvalue="Python.insertBudget" />
       <item itemvalue="Python.processInput" />
+      <item itemvalue="Python.algoMerge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.algoMerge" />
         <item itemvalue="Python.processInput" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.factor5" />
         <item itemvalue="Python.insertBudget" />
-        <item itemvalue="Python.collect_boxOfficeMojo" />
       </list>
     </recent_temporary>
   </component>
@@ -428,9 +440,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="702" y="23" width="738" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23275863" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21839081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -445,7 +456,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50287354" side_tool="true" weight="0.564539" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49762282" weight="0.35602838" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49712643" visible="true" weight="0.27943262" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49712643" visible="true" weight="0.48652482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -564,20 +575,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/AR.py" />
-    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_monthly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="248" lean-forward="true" selection-start-line="228" selection-end-line="229" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_weekly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1779">
-          <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -631,16 +628,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/test.py" />
-    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_daily.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-889">
-          <caret line="252" column="49" selection-start-line="252" selection-start-column="49" selection-end-line="252" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/factor1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/factor2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -667,19 +654,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+        <state relative-caret-position="441">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
-            <marker date="1556282379458" expanded="true" signature="1933:2249" ph="..." />
+            <marker date="1556293789471" expanded="true" signature="1933:2249" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/factor1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_daily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="375" column="23" lean-forward="true" selection-start-line="375" selection-start-column="23" selection-end-line="375" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_weekly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="69" selection-start-line="53" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/processInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1556293789675" expanded="true" signature="423:424" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/factor5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <marker date="1556281245568" expanded="true" signature="767:770" ph="..." />
@@ -687,13 +706,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/processInput.py">
+    <entry file="file://$PROJECT_DIR$/dataProcess/Factor1_monthly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="130" column="28" lean-forward="true" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="28" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1556293331154" expanded="true" signature="525:526" ph="..." />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1556303721630" expanded="true" signature="695:699" ph="..." />
+            <marker date="1556303721630" expanded="true" signature="2313:4007" ph="..." />
+            <marker date="1556303721630" expanded="true" signature="3209:3960" ph="..." />
+            <marker date="1556303721630" expanded="true" signature="4002:4007" ph="..." />
           </folding>
         </state>
       </provider>
