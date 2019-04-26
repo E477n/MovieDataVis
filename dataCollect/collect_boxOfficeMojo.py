@@ -405,6 +405,13 @@ def update_competitor_datails():
         except:
             continue
 
+def collectBudget():
+    col_bg = db['budget']
+    html = pq('https://en.wikipedia.org/wiki/List_of_most_expensive_films')
+    html = html.find('table .wikitable .sortable .plainrowheaders')
+    print(html)
+
+
 if __name__ == "__main__":
     # update_domestic_yearly()
     # update_seasonal()
@@ -420,4 +427,5 @@ if __name__ == "__main__":
     # update_genre_details()
     # update_franchises()
     # update_competitors()
-    update_competitor_datails()
+    # update_competitor_datails()
+    collectBudget()
