@@ -144,8 +144,15 @@ def quantifyFactor2(dateStart, dateEnd, genre):
     print(f2_res)
 
 def quantifyFactor3(dateSet, genre):
+    f3_res = []
     res = factor3.calTotalGrossofSameGenreSameWeek(dateSet, genre)
-    print(res)
+    print("factor3", res)
+
+    max_gross = max(res)
+    for item in res:
+        item = round(item / max_gross * 100, 2)
+        f3_res.append(item)
+    print(f3_res)
 
 def merge(input):
     movieName = input[0]

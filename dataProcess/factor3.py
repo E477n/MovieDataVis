@@ -35,7 +35,7 @@ def calTotalGrossofSameGenreSameWeek(dateSet, genre):
             if record["Genre"] in genre:
                 weeksum += record["OpeningGross($)"]
         res.append(weeksum)
-    print(res)
+    return res
 
 if __name__ == "__main__":
     # updateWeek()

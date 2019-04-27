@@ -10,12 +10,16 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 
+from dataProcess import factor3
+
 plotly.tools.set_credentials_file(username='MerestNora', api_key='hIxgd4Os9A0YzkNYnfn9')
 
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
 db = client['movie_db']
 col_cd = db['competitor_detail']
 col_wl = db['weekly']
+
+input = ["Moana2", "2020-05-01", "2020-09-30", ["Animation", "Adventure"], "Moana", 200]
 
 def groupbyDate():
     # groupby release date and count
@@ -75,6 +79,23 @@ def weeklyGrossTrendByYear():
         res.append(row)
     return [xaxis, res]
 
+def factor3chart():
+    # bubble chart + time series for each genre, interactive
+    col_g = db['genres']
+    xaxis = []
+    yaxis = []
+    size = []
+    name = []
+    for record in col_g.find():
+        xaxis.append(record['Genre'])
+        yaxis.append(record['Movies#'])
+        size.append(record['Gross']/20)
+        name.append(record['#1Picture'])
+    res = [xaxis, yaxis, size, name]
+    print(res)
+    return res
+
+
 def blockbusterBudget():
     col_bg = db['budget']
     xaxis = []
@@ -88,6 +109,26 @@ def blockbusterBudget():
         title.append(record["title"])
     return [xaxis, yaxis, size, title]
 
+def create_time_series(dff, axis_type, title):
+    return {
+        'data': [go.Scatter(
+            x=dff['Year'],
+            y=dff['Value'],
+            mode='lines+markers'
+        )],
+        'layout': {
+            'height': 225,
+            'margin': {'l': 20, 'b': 30, 'r': 10, 't': 10},
+            'annotations': [{
+                'x': 0, 'y': 0.85, 'xanchor': 'left', 'yanchor': 'bottom',
+                'xref': 'paper', 'yref': 'paper', 'showarrow': False,
+                'align': 'left', 'bgcolor': 'rgba(255, 255, 255, 0.5)',
+                'text': title
+            }],
+            'yaxis': {'type': 'linear' if axis_type == 'Linear' else 'log'},
+            'xaxis': {'showgrid': False}
+        }
+    }
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -130,6 +171,20 @@ trace = go.Scatter(
     )
 )
 data4.append(trace)
+
+res5 = factor3chart()
+data5 = []
+trace = go.Scatter(
+    x=res5[0],
+    y=res5[1],
+    text=res5[3],
+    mode='markers',
+    marker=dict(
+        size=res5[2],
+    )
+)
+data5.append(trace)
+
 
 app.layout = html.Div(children=[
     html.H1(children='Movie Data Visualization'),
@@ -195,7 +250,48 @@ def render_content(tab):
         ])
     elif tab == 'tab-3':
         return html.Div([
-
+            html.Div([
+                dcc.Graph(
+                    style={'height': 700},
+                    id='bubblechart3',
+                    figure=go.Figure(
+                        data=data5,
+                        layout=go.Layout(
+                            title='Genre & Time series',
+                            xaxis=dict(
+                                title='Gross'
+                            ),
+                            yaxis=dict(
+                                title='Movies#'
+                            ),
+                            showlegend=True,
+                            legend=go.layout.Legend(
+                                x=0,
+                                y=1.0
+                            ),
+                            margin=go.layout.Margin(t=100, b=180)
+                        )
+                    ),
+                ),
+            ],
+            style={'width': '100%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Graph(
+                    id='x-time-series',
+                    # figure=go.Figure(
+                    #     data=data3,
+                    #     layout=go.Layout(
+                    #         title='Gross Time Series for Single Genre',
+                    #         showlegend=True,
+                    #         legend=go.layout.Legend(
+                    #             x=0,
+                    #             y=1.0
+                    #         ),
+                    #         # margin=go.layout.Margin(l=40, r=0, t=40, b=30)
+                    #     )
+                    # ),
+                )
+            ], style={'display': 'inline-block', 'width': '70%', 'height': 700}),
         ])
     elif tab == 'tab-4':
         return html.Div([
