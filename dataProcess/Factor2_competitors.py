@@ -78,17 +78,20 @@ def updateDate():
 
 def gradeFridaywithCompetitor(start_date, end_date, genre):
     res = pi.extractFriday(start_date, end_date)
+    ele1 = []
+    ele2 = []
     for date in res:
         date_time = datetime.datetime.strptime(date, '%Y-%m-%d')
         competitor_number = 0
         same_genre_number = 0
         for record in col_cc.find({"ReleaseDate": date_time}):
             competitor_number += record["Count"]
-            for g in genre:
-                if g in record["Genre"]:
-                    same_genre_number += 1
-        print("competitor number:", competitor_number)
-        print("same genre number:", same_genre_number)
+            if record['Genre'] in genre:
+                same_genre_number += 1
+        ele1.append(competitor_number)
+        ele2.append(same_genre_number)
+    factor2_res = [ele1, ele2]
+    return factor2_res
 
 
 
@@ -97,4 +100,4 @@ if __name__ == "__main__":
     # updateDate()
     # groupbyDate()
     # groupbyDateandCountGenre()
-    gradeFridaywithCompetitor("2019-07-01", "2019-10-30", ["Animation","Comedy"])
+    gradeFridaywithCompetitor("2020-05-01", "2020-09-30", ["Animation", "Adventure"])

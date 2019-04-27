@@ -2,11 +2,12 @@ import pymongo
 import datetime
 from statsmodels.tsa.arima_model import ARMA
 from dataProcess import processInput
+from dataProcess import Factor2_competitors
 
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
 db = client['movie_db']
 
-input = ["Moana2", "2020-05-01", "2020-09-30", ["3d", "Animation"], "Moana", 200]
+input = ["Moana2", "2020-05-01", "2020-09-30", ["Animation", "Adventure"], "Moana", 200]
 startYear = 8
 monthConvert = {1: "Jan.", 2: "Feb.", 3: "Mar.", 4: "Apr.", 5: "May", 6: "Jun.", 7: "Jul.", 8: "Aug.", 9: "Sept.", 10: "Oct.", 11: "Nov.", 12: "Dec."}
 monthConvert2 = {1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun", 7: "Jul", 8: "Aug", 9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec"}
@@ -111,24 +112,47 @@ def quantifyFactor1(dateSet):
         item = round(item / monthly_max * 100, 2)
         q_monthly.append(item)
 
-    print(q_daily)
-    print(q_weekly)
-    print(q_monthly)
+    # print(q_daily)
+    # print(q_weekly)
+    # print(q_monthly)
     for i in range(0, len(q_daily)):
         q = round((q_daily[i] + q_weekly[i] + q_monthly[i]) / 3, 2)
         f1_res.append(q)
     print(f1_res)
 
+def quantifyFactor2(dateStart, dateEnd, genre):
+    q_1 = []
+    q_2 = []
+    f2_res = []
+
+    res = Factor2_competitors.gradeFridaywithCompetitor(dateStart, dateEnd, genre)
+
+    # 100 - 10 * V_21i
+    for item in res[0]:
+        item = 100 - 10 * item
+        q_1.append(item)
+    for item in res[1]:
+        item = 100 - 10 * item
+        q_2.append(item)
+    for i in range(0, len(q_1)):
+        q = round((q_1[i] + q_2[i]) / 2, 2)
+        f2_res.append(q)
+
+    print(q_1)
+    print(q_2)
+    print(f2_res)
 
 
 def merge(input):
     movieName = input[0]
     dateStart = input[1]
     dateEnd = input[2]
+    genre = input[3]
 
     dateSet = processInput.extractFriday(dateStart, dateEnd)
 
     quantifyFactor1(dateSet)
+    quantifyFactor2(dateStart, dateEnd, genre)
 
 if __name__ == "__main__":
     merge(input)
