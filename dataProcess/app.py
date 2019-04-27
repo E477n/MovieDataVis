@@ -8,6 +8,7 @@ import dash_html_components as html
 import plotly
 import plotly.plotly as py
 import plotly.graph_objs as go
+from dash.dependencies import Input, Output
 
 plotly.tools.set_credentials_file(username='MerestNora', api_key='hIxgd4Os9A0YzkNYnfn9')
 
@@ -133,110 +134,127 @@ data4.append(trace)
 app.layout = html.Div(children=[
     html.H1(children='Movie Data Visualization'),
 
-    # Future Movie Release, group by date, count
-    dcc.Graph(
-        style={'height': 700},
-        id='example-graph',
-        figure={
-            'data': [
-                {'x': res[0], 'y': res[1], 'type': 'bar', 'name': 'SF'},
-            ],
-            'layout': {
-                'title': 'Future Movie Release',
-                'xaxis': {'title': 'Date'},
-                'yaxis': {'title': 'Number of Movie Release'}
-            }
-        }
-    ),
-    html.Div(children='''
-    Movie Data Visualization, Apr 2019
-'''),
-    html.Div(children='''
-    Graduate Design by Chen Chen.
-'''),
+    dcc.Tabs(id="tabs-styled-with-props", value='tab-1', children=[
+        dcc.Tab(label='Result', value='tab-0'),
+        dcc.Tab(label='Factor1 - Historical Box Office Receipts', value='tab-1'),
+        dcc.Tab(label='Factor2 - Competitors', value='tab-2'),
+        dcc.Tab(label='Factor3 - Same Genre Movies', value='tab-3'),
+        dcc.Tab(label='Factor4 - Franchise', value='tab-4'),
+        dcc.Tab(label='Factor5 - Budget', value='tab-5'),
 
-    dcc.Graph(
-        style={'height': 700},
-        id='stackedgraph',
-        figure=go.Figure(
-            data=data2,
-            layout=go.Layout(
-                barmode='stack',
-                title='Competitor Genre',
-                showlegend=True,
-                legend=go.layout.Legend(
-                    x=0,
-                    y=1.0
-                ),
-                margin=go.layout.Margin(l=40, r=0, t=40, b=30)
-            )
-        ),
-    ),
+    ],
+    colors={
+        "border": "white",
+        "primary": "navy",
+        "background": "lightblue"
+    },
+    style={
+        "height": 80
+    }),
+    html.Div(id='tabs-content-props'),
 
-    html.Div(children='''
-    Movie Data Visualization, Apr 2019
-'''),
-    html.Div(children='''
-    Graduate Design by Chen Chen.
-'''),
-
-    # factor5 history box office in weeks
-    dcc.Graph(
-        style={'height': 700},
-        id='linechart',
-        figure=go.Figure(
-            data=data3,
-            layout=go.Layout(
-                title='Weekly Gross for Factor 5',
-                showlegend=True,
-                legend=go.layout.Legend(
-                    x=0,
-                    y=1.0
-                ),
-                margin=go.layout.Margin(l=40, r=0, t=40, b=30)
-            )
-        ),
-    ),
-
-    html.Div(children='''
-    Movie Data Visualization, Apr 2019
-'''),
-    html.Div(children='''
-    Graduate Design by Chen Chen.
-'''),
-
-    dcc.Graph(
-        style={'height': 700},
-        id='bubblechart',
-        figure=go.Figure(
-            data=data4,
-            layout=go.Layout(
-                title='movie budget and release date for factor 5',
-                xaxis=dict(
-                    title='week#'
-                ),
-                yaxis=dict(
-                    title='Budget'
-                ),
-                showlegend=True,
-                legend=go.layout.Legend(
-                    x=0,
-                    y=1.0
-                ),
-                margin=go.layout.Margin(l=100, r=100, t=40, b=30)
-            )
-        ),
-    ),
-
-    html.Div(children='''
-    Movie Data Visualization, Apr 2019
-'''),
-    html.Div(children='''
-    Graduate Design by Chen Chen.
-''')
-
-
+    html.Div(children='''Movie Data Visualization, Apr 2019'''),
+    html.Div(children='''Graduate Design by Chen Chen.'''),
 ])
+
+@app.callback(Output('tabs-content-props', 'children'),
+              [Input('tabs-styled-with-props', 'value')])
+def render_content(tab):
+    if tab == 'tab-1':
+        return html.Div([
+            # Future Movie Release, group by date, count
+            dcc.Graph(
+                style={'height': 600},
+                id='example-graph',
+                figure={
+                    'data': [
+                        {'x': res[0], 'y': res[1], 'type': 'bar', 'name': 'SF'},
+                    ],
+                    'layout': {
+                        'title': 'Future Movie Release',
+                        'xaxis': {'title': 'Date'},
+                        'yaxis': {'title': 'Number of Movie Release'}
+                    }
+                }
+            ),
+        ])
+    elif tab == 'tab-2':
+        return html.Div([
+            dcc.Graph(
+                style={'height': 600},
+                id='stackedgraph',
+                figure=go.Figure(
+                    data=data2,
+                    layout=go.Layout(
+                        barmode='stack',
+                        title='Competitor Genre',
+                        showlegend=True,
+                    )
+                ),
+            ),
+        ])
+    elif tab == 'tab-3':
+        return html.Div([
+
+        ])
+    elif tab == 'tab-4':
+        return html.Div([
+
+        ])
+    elif tab == 'tab-5':
+        return html.Div([
+            # factor5 history box office in weeks
+            dcc.Graph(
+                style={'height': 700},
+                id='linechart',
+                figure=go.Figure(
+                    data=data3,
+                    layout=go.Layout(
+                        title='Weekly Gross for Factor 5',
+                        showlegend=True,
+                        legend=go.layout.Legend(
+                            x=0,
+                            y=1.0
+                        ),
+                        # margin=go.layout.Margin(l=40, r=0, t=40, b=30)
+                    )
+                ),
+            ),
+
+            html.Div(children='''
+            Movie Data Visualization, Apr 2019
+        '''),
+            html.Div(children='''
+            Graduate Design by Chen Chen.
+        '''),
+
+            dcc.Graph(
+                style={'height': 600},
+                id='bubblechart',
+                figure=go.Figure(
+                    data=data4,
+                    layout=go.Layout(
+                        title='movie budget and release date for factor 5',
+                        xaxis=dict(
+                            title='week#'
+                        ),
+                        yaxis=dict(
+                            title='Budget'
+                        ),
+                        showlegend=True,
+                        legend=go.layout.Legend(
+                            x=0,
+                            y=1.0
+                        ),
+                        # margin=go.layout.Margin(l=100, r=100, t=40, b=30)
+                    )
+                ),
+            ),
+        ])
+    elif tab == 'tab-0':
+        html.Div(children='''Movie Data Visualization, Apr 2019'''),
+        html.Div(children='''Graduate Design by Chen Chen.'''),
+
 
 if __name__ == '__main__':
     get_cc()

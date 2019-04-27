@@ -23,11 +23,15 @@ def updateWeek():
         col_gd.find_one_and_update({"_id": id},
                             {"$set": {"week#": wk}})
 
-def calTotalGrossofSameGenreSameWeek(weekset, genre):
+def calTotalGrossofSameGenreSameWeek(dateSet, genre):
     res = []
-    for week in weekset:
+    for day in dateSet:
+        # convert date to corresponding week
+        rd = day.split('-')
+        dt = datetime.date(int(rd[0]), int(rd[1]), int(rd[2]))
+        wk = dt.isocalendar()[1]
         weeksum = 0
-        for record in col_gd.find({"week#": week}):
+        for record in col_gd.find({"week#": wk}):
             if record["Genre"] in genre:
                 weeksum += record["OpeningGross($)"]
         res.append(weeksum)

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f9bf06-7a8a-4121-90db-62603ffe928a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoMerge/algoMerge.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoMerge/algoMerge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProcess/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataProcess/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProcess/factor2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProcess/factor3.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataProcess/factor3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,7 @@
           <entry key="js" value="25" />
           <entry key="json" value="16" />
           <entry key="md" value="4" />
-          <entry key="py" value="50" />
+          <entry key="py" value="52" />
           <entry key="rnc" value="1" />
           <entry key="webpack" value="1" />
         </counts>
@@ -51,7 +55,7 @@
           <entry key="JavaScript" value="25" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="50" />
+          <entry key="Python" value="52" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -64,7 +68,7 @@
           <entry key="js" value="2343" />
           <entry key="json" value="335" />
           <entry key="md" value="328" />
-          <entry key="py" value="19001" />
+          <entry key="py" value="19374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -75,21 +79,34 @@
           <entry key="JavaScript" value="2343" />
           <entry key="Markdown" value="328" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="19070" />
+          <entry key="Python" value="19443" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataProcess/factor3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="239">
+              <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1556355293072" expanded="true" signature="711:947" ph="..." />
+                <marker date="1556363819999" expanded="true" signature="711:1113" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+                <marker date="1556366796045" expanded="true" signature="1977:2293" ph="..." />
               </folding>
             </state>
           </provider>
@@ -98,11 +115,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2187">
-              <caret line="147" column="24" lean-forward="true" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+            <state relative-caret-position="222">
+              <caret line="162" column="16" lean-forward="true" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1556350938711" expanded="true" signature="746:750" ph="..." />
+                <marker date="1556363819993" expanded="true" signature="778:782" ph="..." />
+                <marker date="1556363819993" expanded="true" signature="4593:4677" ph="..." />
               </folding>
             </state>
           </provider>
@@ -164,12 +182,12 @@
         <option value="$PROJECT_DIR$/dataCollect/insertBudget.py" />
         <option value="$PROJECT_DIR$/dataProcess/factor5.py" />
         <option value="$PROJECT_DIR$/dataProcess/processInput.py" />
-        <option value="$PROJECT_DIR$/dataProcess/app.py" />
         <option value="$PROJECT_DIR$/dataProcess/factor1.py" />
         <option value="$PROJECT_DIR$/dataProcess/Factor2_competitors.py" />
-        <option value="$PROJECT_DIR$/algoMerge/algoMerge.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/dataProcess/factor3.py" />
+        <option value="$PROJECT_DIR$/algoMerge/algoMerge.py" />
+        <option value="$PROJECT_DIR$/dataProcess/app.py" />
       </list>
     </option>
   </component>
@@ -257,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.factor3">
+  <component name="RunManager" selected="Python.app">
     <configuration name="Factor2_competitors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MovieDataVis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -384,11 +402,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.factor3" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.algoMerge" />
+        <item itemvalue="Python.factor3" />
         <item itemvalue="Python.Factor2_competitors" />
         <item itemvalue="Python.processInput" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +427,7 @@
     <frame x="706" y="23" width="734" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21965317" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21965317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,7 +442,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50287354" side_tool="true" weight="0.564539" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49762282" weight="0.35602838" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49712643" visible="true" weight="0.48652482" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49712643" visible="true" weight="0.25815603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -629,9 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/factor2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/processInput.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -639,17 +654,6 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <marker date="1556293789675" expanded="true" signature="423:424" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3322">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-          <folding>
-            <element signature="e#24#38#0" expanded="true" />
-            <marker date="1556293789471" expanded="true" signature="1933:2249" ph="..." />
           </folding>
         </state>
       </provider>
@@ -686,24 +690,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
+    <entry file="file://$PROJECT_DIR$/dataProcess/factor2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/factor3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2187">
-          <caret line="147" column="24" lean-forward="true" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+        <state relative-caret-position="239">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1556350938711" expanded="true" signature="746:750" ph="..." />
+            <marker date="1556363819999" expanded="true" signature="711:1113" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataProcess/factor3.py">
+    <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <caret line="162" column="16" lean-forward="true" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1556355293072" expanded="true" signature="711:947" ph="..." />
+            <marker date="1556363819993" expanded="true" signature="778:782" ph="..." />
+            <marker date="1556363819993" expanded="true" signature="4593:4677" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+            <marker date="1556366796045" expanded="true" signature="1977:2293" ph="..." />
           </folding>
         </state>
       </provider>
