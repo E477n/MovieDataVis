@@ -3,7 +3,7 @@ import datetime
 from statsmodels.tsa.arima_model import ARMA
 from dataProcess import processInput
 from dataProcess import Factor2_competitors
-from dataProcess import factor3, factor4
+from dataProcess import factor3, factor4, factor5
 
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
 db = client['movie_db']
@@ -165,6 +165,13 @@ def quantifyFactor4(fran, dateSet):
             f4_res.append(0)
     print(f4_res)
 
+def quantifyFactor5(dateSet):
+    f5_res = []
+    quantifyTable = factor5.quantifyFactor5()
+    weekset = processInput.extractWeek(dateSet)
+    for week in weekset:
+        f5_res.append(quantifyTable[week-1])
+    print(f5_res)
 
 def merge(input):
     movieName = input[0]
@@ -179,6 +186,7 @@ def merge(input):
     quantifyFactor2(dateStart, dateEnd, genre)
     quantifyFactor3(dateSet, genre)
     quantifyFactor4(franchise, dateSet)
+    quantifyFactor5(dateSet)
 
 if __name__ == "__main__":
     merge(input)

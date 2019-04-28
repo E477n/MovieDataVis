@@ -301,12 +301,18 @@ def render_content(tab):
         return html.Div([
             # factor5 history box office in weeks
             dcc.Graph(
-                style={'height': 700},
+                style={'height': 600},
                 id='linechart',
                 figure=go.Figure(
                     data=data3,
                     layout=go.Layout(
                         title='Weekly Gross for Factor 5',
+                        xaxis=dict(
+                            title='week#'
+                        ),
+                        yaxis=dict(
+                            title='Weekly Total Gross'
+                        ),
                         showlegend=True,
                         legend=go.layout.Legend(
                             x=0,
@@ -316,14 +322,6 @@ def render_content(tab):
                     )
                 ),
             ),
-
-            html.Div(children='''
-            Movie Data Visualization, Apr 2019
-        '''),
-            html.Div(children='''
-            Graduate Design by Chen Chen.
-        '''),
-
             dcc.Graph(
                 style={'height': 600},
                 id='bubblechart',

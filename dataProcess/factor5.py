@@ -26,7 +26,24 @@ def updateBudgetWeek():
         col_bg.find_one_and_update({"title": tt},
                             {"$set": {"week#": wk}})
 
+def countMovieNumberbyWeek():
+    weekset = []
+    for i in range(0, 53):
+        weekset.append(0)
+    for record in col_bg.find():
+        weekset[record['week#']-1] += 1
+    return weekset
+
+def quantifyFactor5():
+    f5_res = []
+    res = countMovieNumberbyWeek()
+    maxn = max(res)
+    for item in res:
+        item = round(item / maxn * 100, 2)
+        f5_res.append(item)
+    return f5_res
 
 if __name__ == "__main__":
     # weeklyGrossTrendByYear()
-    updateBudgetWeek()
+    # updateBudgetWeek()
+    print(quantifyFactor5())
