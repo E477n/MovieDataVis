@@ -187,7 +187,7 @@ data5.append(trace)
 
 
 app.layout = html.Div(children=[
-    html.H1(children='Movie Data Visualization'),
+    html.H3(children='Movie Data Visualization'),
 
     dcc.Tabs(id="tabs-styled-with-props", value='tab-1', children=[
         dcc.Tab(label='Result', value='tab-0'),
@@ -342,6 +342,7 @@ def render_content(tab):
                             x=0,
                             y=1.0
                         ),
+                        hovermode='closest'
                         # margin=go.layout.Margin(l=100, r=100, t=40, b=30)
                     )
                 ),

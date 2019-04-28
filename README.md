@@ -19,5 +19,15 @@ The decision making of movie release date is a multi dimension problem. Factors 
 Other factors like casting, director and studio can also be effective influencers, but they are not considered at the moment.
 
 
-## Data Collecting
+## Process Data
+### Collecting
 Up to 90% of data in database was collected from BoxOfficeMojo, and the python scrapy file can be found in dataCollect/collect_boxOfficeMojo.py. Manual collecting was also adopted since a little part of data was missing.
+### Cleaning
+### Quantifying
+### Merge
+
+## Input & Output
+### Input
+### Output
+
+## User Interface

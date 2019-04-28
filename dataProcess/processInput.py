@@ -11,3 +11,15 @@ def extractFriday(start, end):
     for i in range(offset[weekday], len(date_list), 5):
         res.append(date_list[i])
     return res
+
+def extractWeek(dateSet):
+    weekSet = []
+    for day in dateSet:
+        # convert date to corresponding week
+        rd = day.split('-')
+        dt = datetime.date(int(rd[0]), int(rd[1]), int(rd[2]))
+        wk = dt.isocalendar()[1]
+        weekSet.append(wk)
+    return weekSet
+
+
