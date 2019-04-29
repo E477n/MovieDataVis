@@ -32,7 +32,7 @@ Here we use
 CR = CI/RI
 
 
-to do this. CI = (λ-n)/(n-1), λ is the largest eigenvalue of the built 5 * 5 matrix, while RI, the Random Consistency Index, is 1.12 when index = 5.
+to do this. CI = (λ-n)/(n-1), λ is the largest eigenvalue of the built 5 * 5 matrix, while RI, the Random Consistency Index, equals 1.12 when index = 5.
 
 The consistency checking can be passed if CR < 0.1 . Otherwise the RCP matrix need to be rebuilt until it passes the consistency checking. Then we could use the normalized eigenvector corresponding to the largest eigenvalue as the weight vector for the Weighted Sum Model.
 

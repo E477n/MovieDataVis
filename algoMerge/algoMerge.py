@@ -119,7 +119,7 @@ def quantifyFactor1(dateSet):
     for i in range(0, len(q_daily)):
         q = round((q_daily[i] + q_weekly[i] + q_monthly[i]) / 3, 2)
         f1_res.append(q)
-    print(f1_res)
+    return f1_res
 
 def quantifyFactor2(dateStart, dateEnd, genre):
     q_1 = []
@@ -139,20 +139,20 @@ def quantifyFactor2(dateStart, dateEnd, genre):
         q = round((q_1[i] + q_2[i]) / 2, 2)
         f2_res.append(q)
 
-    print(q_1)
-    print(q_2)
-    print(f2_res)
+    # print(q_1)
+    # print(q_2)
+    return f2_res
 
 def quantifyFactor3(dateSet, genre):
     f3_res = []
     res = factor3.calTotalGrossofSameGenreSameWeek(dateSet, genre)
-    print("factor3", res)
+    # print("factor3", res)
 
     max_gross = max(res)
     for item in res:
         item = round(item / max_gross * 100, 2)
         f3_res.append(item)
-    print(f3_res)
+    return f3_res
 
 def quantifyFactor4(fran, dateSet):
     f4_res = []
@@ -163,7 +163,7 @@ def quantifyFactor4(fran, dateSet):
             f4_res.append(100)
         else:
             f4_res.append(0)
-    print(f4_res)
+    return f4_res
 
 def quantifyFactor5(dateSet):
     f5_res = []
@@ -171,7 +171,7 @@ def quantifyFactor5(dateSet):
     weekset = processInput.extractWeek(dateSet)
     for week in weekset:
         f5_res.append(quantifyTable[week-1])
-    print(f5_res)
+    return f5_res
 
 def merge(input):
     movieName = input[0]
@@ -182,11 +182,19 @@ def merge(input):
 
     dateSet = processInput.extractFriday(dateStart, dateEnd)
 
-    quantifyFactor1(dateSet)
-    quantifyFactor2(dateStart, dateEnd, genre)
-    quantifyFactor3(dateSet, genre)
-    quantifyFactor4(franchise, dateSet)
-    quantifyFactor5(dateSet)
+    r1 = quantifyFactor1(dateSet)
+    r2 = quantifyFactor2(dateStart, dateEnd, genre)
+    r3 = quantifyFactor3(dateSet, genre)
+    r4 = quantifyFactor4(franchise, dateSet)
+    r5 = quantifyFactor5(dateSet)
+
+    # weighted sum
+    # weight vector [0.0426, 0.0862, 0.2009, 0.4690, 0.2009]
+    final_grade = []
+    for i in range(0, len(r1)):
+        add = r1[i]*0.0426 + r2[i]*0.0862 + r3[i]*0.2009 + r4[i]*0.4690 + r5[i]*0.2009
+        final_grade.append(add)
+    return final_grade
 
 if __name__ == "__main__":
-    merge(input)
+    print(merge(input))
