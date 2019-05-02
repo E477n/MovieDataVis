@@ -1,5 +1,6 @@
 import pymongo
 import datetime
+import numpy as np
 from statsmodels.tsa.arima_model import ARMA
 from dataProcess import processInput
 from dataProcess import Factor2_competitors
@@ -8,7 +9,9 @@ from dataProcess import factor3, factor4, factor5
 client = pymongo.MongoClient(host='127.0.0.1', port=27017)
 db = client['movie_db']
 
-input = ["Moana2", "2020-05-01", "2020-09-30", ["Animation", "Adventure"], "Moana", 200]
+# input = ["Moana2", "2020-05-01", "2020-09-30", ["Animation", "Adventure"], "Moana", 200]
+input = ["Avengers: Endgame", "2019-04-01", "2019-09-30", ["3D"], "Avengers", 200]
+
 startYear = 8
 monthConvert = {1: "Jan.", 2: "Feb.", 3: "Mar.", 4: "Apr.", 5: "May", 6: "Jun.", 7: "Jul.", 8: "Aug.", 9: "Sept.", 10: "Oct.", 11: "Nov.", 12: "Dec."}
 monthConvert2 = {1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun", 7: "Jul", 8: "Aug", 9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec"}
@@ -146,7 +149,6 @@ def quantifyFactor2(dateStart, dateEnd, genre):
 def quantifyFactor3(dateSet, genre):
     f3_res = []
     res = factor3.calTotalGrossofSameGenreSameWeek(dateSet, genre)
-    # print("factor3", res)
 
     max_gross = max(res)
     for item in res:
@@ -181,6 +183,8 @@ def merge(input):
     franchise = input[4]
 
     dateSet = processInput.extractFriday(dateStart, dateEnd)
+    # weekset = processInput.extractWeek(dateSet)
+    # print("date set:", dateSet)
 
     r1 = quantifyFactor1(dateSet)
     r2 = quantifyFactor2(dateStart, dateEnd, genre)
@@ -194,7 +198,12 @@ def merge(input):
     for i in range(0, len(r1)):
         add = r1[i]*0.0426 + r2[i]*0.0862 + r3[i]*0.2009 + r4[i]*0.4690 + r5[i]*0.2009
         final_grade.append(add)
-    return final_grade
+    rdateset = []
+    for i in dateSet:
+        rdateset.append(str(i))
+        print(str(i))
+    return [[final_grade, r1, r2, r3, r4, r5],rdateset]
 
 if __name__ == "__main__":
+    print(np.random.poisson())
     print(merge(input))

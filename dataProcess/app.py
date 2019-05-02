@@ -11,6 +11,7 @@ import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 
 from dataProcess import factor3
+from algoMerge import algoMerge
 
 plotly.tools.set_credentials_file(username='MerestNora', api_key='hIxgd4Os9A0YzkNYnfn9')
 
@@ -19,7 +20,7 @@ db = client['movie_db']
 col_cd = db['competitor_detail']
 col_wl = db['weekly']
 
-input = ["Moana2", "2020-05-01", "2020-09-30", ["Animation", "Adventure"], "Moana", 200]
+input = ["Avengers: Endgame", "2019-04-01", "2019-09-30", ["3D"], "Avengers", 200]
 
 def groupbyDate():
     # groupby release date and count
@@ -92,7 +93,6 @@ def factor3chart():
         size.append(record['Gross']/20)
         name.append(record['#1Picture'])
     res = [xaxis, yaxis, size, name]
-    print(res)
     return res
 
 
@@ -129,6 +129,18 @@ def create_time_series(dff, axis_type, title):
             'xaxis': {'showgrid': False}
         }
     }
+
+def getFinalSet():
+    res = algoMerge.merge(input)
+    f_res = []
+    for i in range(0, len(res[0][0])):
+        row = []
+        for j in range(0, len(res[0])):
+            row.append(res[0][j][i])
+        f_res.append(row)
+    print(res[1])
+    return [f_res, res[1]]
+
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -185,11 +197,24 @@ trace = go.Scatter(
 )
 data5.append(trace)
 
+data0 = []
+res0 = getFinalSet()
+print(res0)
+trace0 = go.Heatmap(
+    # z=[[1, 20, 30, 50, 1], [20, 1, 60, 80, 30], [30, 60, 1, -10, 20]],
+    # x=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    # y=['Morning', 'Afternoon', 'Evening']
+    z=res0[0],
+    y=res0[1],
+    x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise", "Budget"],
+    colorscale='Viridis',
+)
+data0.append(trace0)
 
 app.layout = html.Div(children=[
     html.H3(children='Movie Data Visualization'),
 
-    dcc.Tabs(id="tabs-styled-with-props", value='tab-1', children=[
+    dcc.Tabs(id="tabs-styled-with-props", value='tab-0', children=[
         dcc.Tab(label='Result', value='tab-0'),
         dcc.Tab(label='Factor1 - Historical Box Office Receipts', value='tab-1'),
         dcc.Tab(label='Factor2 - Competitors', value='tab-2'),
@@ -215,7 +240,33 @@ app.layout = html.Div(children=[
 @app.callback(Output('tabs-content-props', 'children'),
               [Input('tabs-styled-with-props', 'value')])
 def render_content(tab):
-    if tab == 'tab-1':
+    if tab == 'tab-0':
+        return html.Div([
+            # heat map for the final results
+            dcc.Graph(
+                style={'height': 700},
+                id="finalHeatmap",
+                figure=go.Figure(
+                    data=data0,
+                    layout=go.Layout(
+                        title="Heat Map for Final Results",
+                        xaxis=dict(
+                            title='Factors',
+                            ticks='',
+                            nticks=10
+                        ),
+                        yaxis=dict(
+                            title='Date',
+                            ticks='',
+                            nticks=12
+                        ),
+                        showlegend=True
+                    ),
+                )
+            ),
+        ])
+
+    elif tab == 'tab-1':
         return html.Div([
             # Future Movie Release, group by date, count
             dcc.Graph(
@@ -346,9 +397,6 @@ def render_content(tab):
                 ),
             ),
         ])
-    elif tab == 'tab-0':
-        html.Div(children='''Movie Data Visualization, Apr 2019'''),
-        html.Div(children='''Graduate Design by Chen Chen.'''),
 
 
 if __name__ == '__main__':
