@@ -158,13 +158,17 @@ def quantifyFactor3(dateSet, genre):
 
 def quantifyFactor4(fran, dateSet):
     f4_res = []
-    wk = factor4.findFranchise(fran)
-    weekset = processInput.extractWeek(dateSet)
-    for week in weekset:
-        if wk-2 <= week <=wk+2:
-            f4_res.append(100)
-        else:
+    if fran == "":
+        for date in dateSet:
             f4_res.append(0)
+    else:
+        wk = factor4.findFranchise(fran)
+        weekset = processInput.extractWeek(dateSet)
+        for week in weekset:
+            if wk-2 <= week <=wk+2:
+                f4_res.append(100)
+            else:
+                f4_res.append(0)
     return f4_res
 
 def quantifyFactor5(dateSet):
@@ -181,6 +185,7 @@ def merge(input):
     dateEnd = input[2]
     genre = input[3]
     franchise = input[4]
+    budget = input[5]
 
     dateSet = processInput.extractFriday(dateStart, dateEnd)
     # weekset = processInput.extractWeek(dateSet)
@@ -192,17 +197,36 @@ def merge(input):
     r4 = quantifyFactor4(franchise, dateSet)
     r5 = quantifyFactor5(dateSet)
 
-    # weighted sum
-    # weight vector [0.0426, 0.0862, 0.2009, 0.4690, 0.2009]
-    final_grade = []
-    for i in range(0, len(r1)):
-        add = r1[i]*0.0426 + r2[i]*0.0862 + r3[i]*0.2009 + r4[i]*0.4690 + r5[i]*0.2009
-        final_grade.append(add)
     rdateset = []
     for i in dateSet:
         rdateset.append(str(i))
-        print(str(i))
-    return [[final_grade, r1, r2, r3, r4, r5],rdateset]
+
+    # weighted sum
+    final_grade = []
+    # weight vector [0.0679, 0.1523, 0.3898, 0.3898]
+    if franchise == "" and budget >= 200:
+        for i in range(0, len(r1)):
+            add = r1[i] * 0.0679 + r2[i] * 0.1523 + r3[i] * 0.3898 + r5[i] * 0.3898
+            final_grade.append(add)
+        return [[final_grade, r1, r2, r3, r5], rdateset]
+    # weight vector [0.1047, 0.2582, 0.6369]
+    elif franchise == "" and budget < 200:
+        for i in range(0, len(r1)):
+            add = r1[i]*0.1047 + r2[i]*0.2582 + r3[i]*0.6369
+            final_grade.append(add)
+        return [[final_grade, r1, r2, r3], rdateset]
+    # weight vector [0.0552, 0.1175, 0.2622, 0.5650]
+    elif franchise != "" and budget < 200:
+        for i in range(0, len(r1)):
+            add = r1[i]*0.0552 + r2[i]*0.1175 + r3[i]*0.2622 + r4[i]*0.5650
+            final_grade.append(add)
+        return [[final_grade, r1, r2, r3, r4],rdateset]
+    # weight vector [0.0426, 0.0862, 0.2009, 0.4690, 0.2009]
+    else:
+        for i in range(0, len(r1)):
+            add = r1[i]*0.0426 + r2[i]*0.0862 + r3[i]*0.2009 + r4[i]*0.4690 + r5[i]*0.2009
+            final_grade.append(add)
+        return [[final_grade, r1, r2, r3, r4, r5],rdateset]
 
 if __name__ == "__main__":
     print(np.random.poisson())

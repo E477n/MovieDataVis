@@ -20,7 +20,7 @@ db = client['movie_db']
 col_cd = db['competitor_detail']
 col_wl = db['weekly']
 
-input = ["Avengers: Endgame", "2019-04-01", "2019-09-30", ["3D"], "Avengers", 200]
+input = ["Avengers: Endgame", "2019-01-01", "2019-12-30", ["3D"], "Avengers", 200]
 
 def groupbyDate():
     # groupby release date and count
@@ -130,6 +130,7 @@ def create_time_series(dff, axis_type, title):
         }
     }
 
+# A -> A^T
 def getFinalSet():
     res = algoMerge.merge(input)
     f_res = []
@@ -200,14 +201,33 @@ data5.append(trace)
 data0 = []
 res0 = getFinalSet()
 print(res0)
-trace0 = go.Heatmap(
-    # z=[[1, 20, 30, 50, 1], [20, 1, 60, 80, 30], [30, 60, 1, -10, 20]],
-    # x=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-    # y=['Morning', 'Afternoon', 'Evening']
-    z=res0[0],
-    y=res0[1],
-    x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise", "Budget"],
-    colorscale='Viridis',
+if input[4] == "":
+    trace0 = go.Heatmap(
+        z=res0[0],
+        y=res0[1],
+        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Budget"],
+        colorscale='Viridis',
+    )
+elif input[4] == "" and input[5] < 200:
+    trace0 = go.Heatmap(
+        z=res0[0],
+        y=res0[1],
+        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies"],
+        colorscale='Viridis',
+    )
+elif input[4] != "" and input[5] < 200:
+    trace0 = go.Heatmap(
+        z=res0[0],
+        y=res0[1],
+        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise"],
+        colorscale='Viridis',
+    )
+else:
+    trace0 = go.Heatmap(
+        z=res0[0],
+        y=res0[1],
+        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise", "Budget"],
+        colorscale='Viridis',
 )
 data0.append(trace0)
 
@@ -249,7 +269,7 @@ def render_content(tab):
                 figure=go.Figure(
                     data=data0,
                     layout=go.Layout(
-                        title="Heat Map for Final Results",
+                        title="Grading Heat Map for Final Results",
                         xaxis=dict(
                             title='Factors',
                             ticks='',
