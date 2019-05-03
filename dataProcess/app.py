@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 import pymongo
 from bson.son import SON
+from datetime import datetime as dt
 
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly
@@ -141,6 +143,34 @@ def getFinalSet():
         f_res.append(row)
     print(res[1])
     return [f_res, res[1]]
+def getFinalTable(res0):
+    i = 0
+    modified_list = []
+    for item in res0[0]:
+        item.append(res0[1][i])
+        i += 1
+        modified_list.append(item)
+
+    sorted_list = sorted(modified_list, key=lambda x: x[0], reverse=True)
+
+    # list of dict
+    f_res_table = []
+    i = 0
+    for record in sorted_list:
+        i += 1
+        row = {}
+        row = {
+            "Rank": i,
+            "Date": record[6],
+            "Final Grade": record[0],
+            "History Box Office Receipts": record[1],
+            "Competitors": record[2],
+            "Performance of Same Genre Movies": record[3],
+            "Franchise": record[4],
+            "Budget": record[5]
+        }
+        f_res_table.append(row)
+    return f_res_table
 
 
 
@@ -230,59 +260,226 @@ else:
         colorscale='Viridis',
 )
 data0.append(trace0)
+table_data0 = getFinalTable(res0)
 
 app.layout = html.Div(children=[
-    html.H3(children='Movie Data Visualization'),
+    html.Div(
+        style={
+            'width': '30%',
+            'height': '500px',
+            'display': 'inline-block',
+        }
+    ),
+
+    html.Div([
+
+        html.H5(children='Movie Release Date Decision',
+                style={
+                    'marginTop': '60px',
+                }
+                ),
+
+        html.Div(children=[
+            html.Label(children='Movie Name:'),
+            dcc.Input(
+                placeholder='Enter a movie name',
+                type='text',
+                value=''
+            ),
+        ],
+            style={
+                'marginTop': '30px',
+            }
+        ),
+        html.Div([
+            html.Label(children='Release Date Range:'),
+            dcc.DatePickerRange(
+                id='date-picker-range',
+                start_date=dt(2019, 5, 4),
+                end_date_placeholder_text='Select a date',
+                style={
+                    'width': '400px',
+                }
+            ),
+        ],
+            style={
+                'marginTop': '30px',
+            }
+        ),
+        html.Div([
+            html.Label(children='Genres:'),
+            dcc.Dropdown(
+                options=[
+                    {'label': '3D', 'value': '3D'},
+                    {'label': 'Animation', 'value': 'Animation'},
+                    {'label': 'Action', 'value': 'Action'}
+                ],
+                multi=True,
+                value="Animation"
+            ),
+        ],
+            style={
+                'marginTop': '30px',
+            }
+        ),
+        html.Div([
+            html.Label(children='Franchise:'),
+            dcc.Dropdown(
+                options=[
+                    {'label': 'Avengers', 'value': 'Avengers'},
+                    {'label': 'Moana', 'value': 'Moana'},
+                    {'label': 'Toy', 'value': 'Toy'}
+                ],
+                value='Avengers'
+            ),
+        ],
+            style={
+                'marginTop': '30px',
+            }
+        ),
+        html.Div([
+            html.Label(children='Production Budget (million):'),
+            dcc.Slider(
+                min=0,
+                max=400,
+                step=5,
+                marks={
+                   i: '{}'.format(i) for i in range(0, 400, 50)
+                },
+                value=200,
+            )
+        ],
+            style={
+                'marginTop': '30px',
+            }
+        ),
+        html.Div([
+            html.Button('Make Decisions', id='button',
+                        style={
+                            'color': 'white',
+                            'backgroundColor': 'rgb(61, 153, 112)',
+                        }
+                        ),
+        ],
+            style={
+                'marginTop': '60px',
+                'textAlign': 'center'
+            }
+        ),
+
+    ],
+    style={
+        'width': '40%',
+        'height': '500px',
+        'display': 'inline-block',
+    }
+    ),
+
+    html.Div(
+    style={
+        'width': '29%',
+        'height': '500px',
+        'display': 'inline-block',
+    }
+    ),
+
 
     dcc.Tabs(id="tabs-styled-with-props", value='tab-0', children=[
         dcc.Tab(label='Result', value='tab-0'),
-        dcc.Tab(label='Factor1 - Historical Box Office Receipts', value='tab-1'),
-        dcc.Tab(label='Factor2 - Competitors', value='tab-2'),
-        dcc.Tab(label='Factor3 - Same Genre Movies', value='tab-3'),
-        dcc.Tab(label='Factor4 - Franchise', value='tab-4'),
-        dcc.Tab(label='Factor5 - Budget', value='tab-5'),
+        dcc.Tab(label='Historical Box Office', value='tab-1'),
+        dcc.Tab(label='Competitors', value='tab-2'),
+        dcc.Tab(label='Same Genre Movies', value='tab-3'),
+        dcc.Tab(label='Franchise', value='tab-4'),
+        dcc.Tab(label='Budget', value='tab-5'),
 
     ],
     colors={
         "border": "white",
         "primary": "navy",
-        "background": "lightblue"
+        "background": "#3c996526"
     },
     style={
-        "height": 80
+        "height": '60px',
+        'marginTop': '100px',
     }),
     html.Div(id='tabs-content-props'),
 
     html.Div(children='''Movie Data Visualization, Apr 2019'''),
     html.Div(children='''Graduate Design by Chen Chen.'''),
-])
+],
+    style={
+        "margin": '20px'
+    }
+)
 
 @app.callback(Output('tabs-content-props', 'children'),
               [Input('tabs-styled-with-props', 'value')])
 def render_content(tab):
     if tab == 'tab-0':
         return html.Div([
-            # heat map for the final results
-            dcc.Graph(
-                style={'height': 700},
-                id="finalHeatmap",
-                figure=go.Figure(
-                    data=data0,
-                    layout=go.Layout(
-                        title="Grading Heat Map for Final Results",
-                        xaxis=dict(
-                            title='Factors',
-                            ticks='',
-                            nticks=10
+            html.Div([
+                # heat map for the final results
+                dcc.Graph(
+                    style={
+                        'height': 800,
+                    },
+                    id="finalHeatmap",
+                    figure=go.Figure(
+                        data=data0,
+                        layout=go.Layout(
+                            title="Grading Heat Map for Final Results",
+                            xaxis=dict(
+                                title='Factors',
+                                ticks='',
+                                nticks=10
+                            ),
+                            yaxis=dict(
+                                title='Date',
+                                ticks='',
+                                nticks=12
+                            ),
+                            showlegend=True
                         ),
-                        yaxis=dict(
-                            title='Date',
-                            ticks='',
-                            nticks=12
-                        ),
-                        showlegend=True
-                    ),
+                    )
+                ),
+            ],
+                style={
+                    'width': '60%',
+                    'display': 'inline-block'
+                   },
+            ),
+            html.Div([
+                dash_table.DataTable(
+                    id='finaltable',
+                    columns=[{"name": i, "id": i} for i in
+                             ["Rank", "Date", "Final Grade", "History Box Office Receipts", "Competitors",
+                              "Performance of Same Genre Movies", "Franchise", "Budget"]],
+                    data=table_data0,
+                    n_fixed_rows=1,
+                    style_cell={
+                        'minWidth': '10px',
+                        'maxWidth': '70px',
+                        'whiteSpace': 'normal'
+                    },
+                    style_table={
+                        'maxHeight': '600px',
+                        'overflowY': 'scroll',
+                        'maxWidth': '300',
+                    },
+                    style_data_conditional=[{
+                        'if': {'column_id': 'Final Grade'},
+                        'backgroundColor': '#3D9970',
+                        'color': 'white',
+                    }]
                 )
+
+            ],
+                style={
+                    'float': 'right',
+                    'width': '35%',
+                    'marginRight': '30px',
+                    'marginTop': '100px',
+                }
             ),
         ])
 
@@ -418,7 +615,5 @@ def render_content(tab):
             ),
         ])
 
-
 if __name__ == '__main__':
-    get_cc()
     app.run_server(debug=True)

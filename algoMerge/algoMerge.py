@@ -207,25 +207,25 @@ def merge(input):
     if franchise == "" and budget >= 200:
         for i in range(0, len(r1)):
             add = r1[i] * 0.0679 + r2[i] * 0.1523 + r3[i] * 0.3898 + r5[i] * 0.3898
-            final_grade.append(add)
+            final_grade.append(round(add, 2))
         return [[final_grade, r1, r2, r3, r5], rdateset]
     # weight vector [0.1047, 0.2582, 0.6369]
     elif franchise == "" and budget < 200:
         for i in range(0, len(r1)):
             add = r1[i]*0.1047 + r2[i]*0.2582 + r3[i]*0.6369
-            final_grade.append(add)
+            final_grade.append(round(add, 2))
         return [[final_grade, r1, r2, r3], rdateset]
     # weight vector [0.0552, 0.1175, 0.2622, 0.5650]
     elif franchise != "" and budget < 200:
         for i in range(0, len(r1)):
             add = r1[i]*0.0552 + r2[i]*0.1175 + r3[i]*0.2622 + r4[i]*0.5650
-            final_grade.append(add)
+            final_grade.append(round(add, 2))
         return [[final_grade, r1, r2, r3, r4],rdateset]
     # weight vector [0.0426, 0.0862, 0.2009, 0.4690, 0.2009]
     else:
         for i in range(0, len(r1)):
             add = r1[i]*0.0426 + r2[i]*0.0862 + r3[i]*0.2009 + r4[i]*0.4690 + r5[i]*0.2009
-            final_grade.append(add)
+            final_grade.append(round(add, 2))
         return [[final_grade, r1, r2, r3, r4, r5],rdateset]
 
 if __name__ == "__main__":
