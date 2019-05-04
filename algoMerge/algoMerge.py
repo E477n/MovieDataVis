@@ -151,9 +151,13 @@ def quantifyFactor3(dateSet, genre):
     res = factor3.calTotalGrossofSameGenreSameWeek(dateSet, genre)
 
     max_gross = max(res)
-    for item in res:
-        item = round(item / max_gross * 100, 2)
-        f3_res.append(item)
+    if max_gross == 0:
+        for item in res:
+            f3_res.append(0)
+    else:
+        for item in res:
+            item = round(item / max_gross * 100, 2)
+            f3_res.append(item)
     return f3_res
 
 def quantifyFactor4(fran, dateSet):
@@ -164,10 +168,14 @@ def quantifyFactor4(fran, dateSet):
     else:
         wk = factor4.findFranchise(fran)
         weekset = processInput.extractWeek(dateSet)
-        for week in weekset:
-            if wk-2 <= week <=wk+2:
-                f4_res.append(100)
-            else:
+        if wk != None:
+            for week in weekset:
+                if wk-2 <= week <=wk+2:
+                    f4_res.append(100)
+                else:
+                    f4_res.append(0)
+        else:
+            for week in weekset:
                 f4_res.append(0)
     return f4_res
 

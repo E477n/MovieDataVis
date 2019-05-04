@@ -14,6 +14,7 @@ from dash.dependencies import Input, Output
 
 from dataProcess import factor3
 from algoMerge import algoMerge
+from dataProcess import interfaceData
 
 plotly.tools.set_credentials_file(username='MerestNora', api_key='hIxgd4Os9A0YzkNYnfn9')
 
@@ -22,7 +23,13 @@ db = client['movie_db']
 col_cd = db['competitor_detail']
 col_wl = db['weekly']
 
-input = ["Avengers: Endgame", "2019-01-01", "2019-12-30", ["3D"], "Avengers", 200]
+# input = ["Dumbo", "2019-01-29", "2019-5-29", ["3D", "Family - Remake"], "", 170]
+# input = ["Avengers: Endgame", "2019-02-26", "2019-6-26", ["3D"], "Avengers", 200]
+# input = ["Gifted", "2019-02-07", "2019-06-07", ["Drama - Summer"], "", 7]
+# input = ["Monster University", "2019-04-05", "2019-08-05", ["3D", "Animation"], "Monsters, Inc.", 200]
+# input = ["The Hobbit:The Battle of the Five Armies", "2019-10-17", "2020-02-17", ["Fantasy - Live Action"], "Middle Earth", 250]
+# input = ["Beauty and the Beast", "2019-01-17", "2019-05-17", ["Romantic Fantasy"], "", 255]
+input = ["2012", "2019-09-13", "2020-01-13", ["Disaster"], "", 200]
 
 def groupbyDate():
     # groupby release date and count
@@ -133,17 +140,16 @@ def create_time_series(dff, axis_type, title):
     }
 
 # A -> A^T
-def getFinalSet():
-    res = algoMerge.merge(input)
+def getFinalSet(inputs):
+    res = algoMerge.merge(inputs)
     f_res = []
     for i in range(0, len(res[0][0])):
         row = []
         for j in range(0, len(res[0])):
             row.append(res[0][j][i])
         f_res.append(row)
-    print(res[1])
     return [f_res, res[1]]
-def getFinalTable(res0):
+def getFinalTable(res0, inputs):
     i = 0
     modified_list = []
     for item in res0[0]:
@@ -156,27 +162,107 @@ def getFinalTable(res0):
     # list of dict
     f_res_table = []
     i = 0
-    for record in sorted_list:
-        i += 1
-        row = {}
-        row = {
-            "Rank": i,
-            "Date": record[6],
-            "Final Grade": record[0],
-            "History Box Office Receipts": record[1],
-            "Competitors": record[2],
-            "Performance of Same Genre Movies": record[3],
-            "Franchise": record[4],
-            "Budget": record[5]
-        }
-        f_res_table.append(row)
-    return f_res_table
+    table_header = []
+    if inputs[4] == "" and inputs[5] >= 200:
+        for record in sorted_list:
+            i += 1
+            row = {
+                "Rank": i,
+                "Date": record[5],
+                "Final Grade": record[0],
+                "History Box Office": record[1],
+                "Competitors": record[2],
+                "Same Genre Movies": record[3],
+                "Budget": record[4]
+            }
+            table_header = [
+                {"name": "Rank", "id": "Rank"},
+                {"name": "Date", "id": "Date"},
+                {"name": "Final Grade", "id": "Final Grade"},
+                {"name": "History Box Office", "id": "History Box Office"},
+                {"name": "Competitors", "id": "Competitors"},
+                {"name": "Same Genre Movies", "id": "Same Genre Movies"},
+                {"name": "Budget", "id": "Budget"}
+            ]
+            f_res_table.append(row)
+    elif inputs[4] == "" and inputs[5] < 200:
+        for record in sorted_list:
+            i += 1
+            row = {
+                "Rank": i,
+                "Date": record[4],
+                "Final Grade": record[0],
+                "History Box Office": record[1],
+                "Competitors": record[2],
+                "Same Genre Movies": record[3],
+            }
+            table_header = [
+                {"name": "Rank", "id": "Rank"},
+                {"name": "Date", "id": "Date"},
+                {"name": "Final Grade", "id": "Final Grade"},
+                {"name": "History Box Office", "id": "History Box Office"},
+                {"name": "Competitors", "id": "Competitors"},
+                {"name": "Same Genre Movies", "id": "Same Genre Movies"}
+            ]
+            f_res_table.append(row)
+    elif inputs[4] != "" and inputs[5] < 200:
+        for record in sorted_list:
+            i += 1
+            row = {
+                "Rank": i,
+                "Date": record[5],
+                "Final Grade": record[0],
+                "History Box Office": record[1],
+                "Competitors": record[2],
+                "Same Genre Movies": record[3],
+                "Franchise": record[4],
+            }
+            table_header = [
+                {"name": "Rank", "id": "Rank"},
+                {"name": "Date", "id": "Date"},
+                {"name": "Final Grade", "id": "Final Grade"},
+                {"name": "History Box Office", "id": "History Box Office"},
+                {"name": "Competitors", "id": "Competitors"},
+                {"name": "Same Genre Movies", "id": "Same Genre Movies"},
+                {"name": "Franchise", "id": "Franchise"},
+            ]
+            f_res_table.append(row)
+    else:
+        for record in sorted_list:
+            i += 1
+            row = {
+                "Rank": i,
+                "Date": record[6],
+                "Final Grade": record[0],
+                "History Box Office": record[1],
+                "Competitors": record[2],
+                "Same Genre Movies": record[3],
+                "Franchise": record[4],
+                "Budget": record[5]
+            }
+            table_header = [
+                {"name": "Rank", "id": "Rank"},
+                {"name": "Date", "id": "Date"},
+                {"name": "Final Grade", "id": "Final Grade"},
+                {"name": "History Box Office", "id": "History Box Office"},
+                {"name": "Competitors", "id": "Competitors"},
+                {"name": "Same Genre Movies", "id": "Same Genre Movies"},
+                {"name": "Franchise", "id": "Franchise"},
+                {"name": "Budget", "id": "Budget"}
+            ]
+            f_res_table.append(row)
+    return [f_res_table, table_header]
 
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
+# data for input user interface
+genre_set = interfaceData.findAllGenre()
+fran_set = interfaceData.findAllFran()
+
 
 res = groupbyDate()
 
@@ -229,38 +315,38 @@ trace = go.Scatter(
 data5.append(trace)
 
 data0 = []
-res0 = getFinalSet()
+res0 = getFinalSet(input)
 print(res0)
 if input[4] == "":
     trace0 = go.Heatmap(
         z=res0[0],
         y=res0[1],
-        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Budget"],
+        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Budget"],
         colorscale='Viridis',
     )
 elif input[4] == "" and input[5] < 200:
     trace0 = go.Heatmap(
         z=res0[0],
         y=res0[1],
-        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies"],
+        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies"],
         colorscale='Viridis',
     )
 elif input[4] != "" and input[5] < 200:
     trace0 = go.Heatmap(
         z=res0[0],
         y=res0[1],
-        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise"],
+        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise"],
         colorscale='Viridis',
     )
 else:
     trace0 = go.Heatmap(
         z=res0[0],
         y=res0[1],
-        x=["Final Grade", "History Box Office Receipts", "Competitors", "Performance of Same Genre Movies", "Franchise", "Budget"],
+        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise", "Budget"],
         colorscale='Viridis',
 )
 data0.append(trace0)
-table_data0 = getFinalTable(res0)
+table_data0 = getFinalTable(res0, input)
 
 app.layout = html.Div(children=[
     html.Div(
@@ -282,6 +368,7 @@ app.layout = html.Div(children=[
         html.Div(children=[
             html.Label(children='Movie Name:'),
             dcc.Input(
+                id='input1',
                 placeholder='Enter a movie name',
                 type='text',
                 value=''
@@ -294,7 +381,7 @@ app.layout = html.Div(children=[
         html.Div([
             html.Label(children='Release Date Range:'),
             dcc.DatePickerRange(
-                id='date-picker-range',
+                id='input2-3',
                 start_date=dt(2019, 5, 4),
                 end_date_placeholder_text='Select a date',
                 style={
@@ -309,13 +396,9 @@ app.layout = html.Div(children=[
         html.Div([
             html.Label(children='Genres:'),
             dcc.Dropdown(
-                options=[
-                    {'label': '3D', 'value': '3D'},
-                    {'label': 'Animation', 'value': 'Animation'},
-                    {'label': 'Action', 'value': 'Action'}
-                ],
+                id='input4',
+                options=genre_set,
                 multi=True,
-                value="Animation"
             ),
         ],
             style={
@@ -325,12 +408,8 @@ app.layout = html.Div(children=[
         html.Div([
             html.Label(children='Franchise:'),
             dcc.Dropdown(
-                options=[
-                    {'label': 'Avengers', 'value': 'Avengers'},
-                    {'label': 'Moana', 'value': 'Moana'},
-                    {'label': 'Toy', 'value': 'Toy'}
-                ],
-                value='Avengers'
+                id='input5',
+                options=fran_set,
             ),
         ],
             style={
@@ -340,6 +419,7 @@ app.layout = html.Div(children=[
         html.Div([
             html.Label(children='Production Budget (million):'),
             dcc.Slider(
+                id='input6',
                 min=0,
                 max=400,
                 step=5,
@@ -411,6 +491,23 @@ app.layout = html.Div(children=[
         "margin": '20px'
     }
 )
+# click button to execute algorithm
+# and render result tab
+# @app.callback(
+#     dash.dependencies.Output('tabs-content-props', 'children'),
+#     [dash.dependencies.Input('button', 'n_clicks')],
+#     [dash.dependencies.State('input1', 'value'),
+#      dash.dependencies.State('input2-3', 'start_date'),
+#      dash.dependencies.State('input2-3', 'end_date'),
+#      dash.dependencies.State('input4', 'value'),
+#      dash.dependencies.State('input5', 'value'),
+#      dash.dependencies.State('input6', 'value')]
+# )
+# def render_algo(n_clicks, value):
+#     return 'The input value was "{}" and the button has been clicked {} times'.format(
+#         value,
+#         n_clicks
+#     )
 
 @app.callback(Output('tabs-content-props', 'children'),
               [Input('tabs-styled-with-props', 'value')])
@@ -451,14 +548,15 @@ def render_content(tab):
             html.Div([
                 dash_table.DataTable(
                     id='finaltable',
-                    columns=[{"name": i, "id": i} for i in
-                             ["Rank", "Date", "Final Grade", "History Box Office Receipts", "Competitors",
-                              "Performance of Same Genre Movies", "Franchise", "Budget"]],
-                    data=table_data0,
+                    columns=table_data0[1],
+                    # columns=[{"name": i, "id": i} for i in
+                    #          ["Rank", "Date", "Final Grade", "History Box Office", "Competitors",
+                    #           "Same Genre Movies", "Franchise", "Budget"]],
+                    data=table_data0[0],
                     n_fixed_rows=1,
                     style_cell={
-                        'minWidth': '10px',
-                        'maxWidth': '70px',
+                        'minWidth': '30px',
+                        'maxWidth': '50px',
                         'whiteSpace': 'normal'
                     },
                     style_table={

@@ -7,6 +7,7 @@ col_fr = db['franchise']
 col_gd = db['genre_details']
 
 def findFranchise(franchise):
+    wk = None
     for record in col_fr.find({'Franchise': franchise}):
         movie_name = record['#1Picture']
         for item in col_gd.find({'Title': movie_name}):
