@@ -29,7 +29,7 @@ col_wl = db['weekly']
 # input = ["Monster University", "2019-04-05", "2019-08-05", ["3D", "Animation"], "Monsters, Inc.", 200]
 # input = ["The Hobbit:The Battle of the Five Armies", "2019-10-17", "2020-02-17", ["Fantasy - Live Action"], "Middle Earth", 250]
 # input = ["Beauty and the Beast", "2019-01-17", "2019-05-17", ["Romantic Fantasy"], "", 255]
-input = ["2012", "2019-09-13", "2020-01-13", ["Disaster"], "", 200]
+# input = ["2012", "2019-09-13", "2020-01-13", ["Disaster"], "", 200]
 
 def groupbyDate():
     # groupby release date and count
@@ -314,39 +314,6 @@ trace = go.Scatter(
 )
 data5.append(trace)
 
-data0 = []
-res0 = getFinalSet(input)
-print(res0)
-if input[4] == "":
-    trace0 = go.Heatmap(
-        z=res0[0],
-        y=res0[1],
-        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Budget"],
-        colorscale='Viridis',
-    )
-elif input[4] == "" and input[5] < 200:
-    trace0 = go.Heatmap(
-        z=res0[0],
-        y=res0[1],
-        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies"],
-        colorscale='Viridis',
-    )
-elif input[4] != "" and input[5] < 200:
-    trace0 = go.Heatmap(
-        z=res0[0],
-        y=res0[1],
-        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise"],
-        colorscale='Viridis',
-    )
-else:
-    trace0 = go.Heatmap(
-        z=res0[0],
-        y=res0[1],
-        x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise", "Budget"],
-        colorscale='Viridis',
-)
-data0.append(trace0)
-table_data0 = getFinalTable(res0, input)
 
 app.layout = html.Div(children=[
     html.Div(
@@ -462,10 +429,14 @@ app.layout = html.Div(children=[
         'display': 'inline-block',
     }
     ),
-
+    html.Div([
+        html.Label(
+            id="row1_label",
+        ),
+    ]),
 
     dcc.Tabs(id="tabs-styled-with-props", value='tab-0', children=[
-        dcc.Tab(label='Result', value='tab-0'),
+        dcc.Tab(id='tab-0', label='Result', value='tab-0'),
         dcc.Tab(label='Historical Box Office', value='tab-1'),
         dcc.Tab(label='Competitors', value='tab-2'),
         dcc.Tab(label='Same Genre Movies', value='tab-3'),
@@ -493,28 +464,60 @@ app.layout = html.Div(children=[
 )
 # click button to execute algorithm
 # and render result tab
-# @app.callback(
-#     dash.dependencies.Output('tabs-content-props', 'children'),
-#     [dash.dependencies.Input('button', 'n_clicks')],
-#     [dash.dependencies.State('input1', 'value'),
-#      dash.dependencies.State('input2-3', 'start_date'),
-#      dash.dependencies.State('input2-3', 'end_date'),
-#      dash.dependencies.State('input4', 'value'),
-#      dash.dependencies.State('input5', 'value'),
-#      dash.dependencies.State('input6', 'value')]
-# )
-# def render_algo(n_clicks, value):
-#     return 'The input value was "{}" and the button has been clicked {} times'.format(
-#         value,
-#         n_clicks
-#     )
-
-@app.callback(Output('tabs-content-props', 'children'),
-              [Input('tabs-styled-with-props', 'value')])
-def render_content(tab):
-    if tab == 'tab-0':
-        return html.Div([
-            html.Div([
+@app.callback(
+    dash.dependencies.Output('tab-0', 'children'),
+    [dash.dependencies.Input('button', 'n_clicks')],
+    [dash.dependencies.State('input1', 'value'),
+     dash.dependencies.State('input2-3', 'start_date'),
+     dash.dependencies.State('input2-3', 'end_date'),
+     dash.dependencies.State('input4', 'value'),
+     dash.dependencies.State('input5', 'value'),
+     dash.dependencies.State('input6', 'value')]
+)
+def render_algo(n_clicks, value1, start_date, end_Date, value4, value5, value6):
+    live_input = [value1, start_date, end_Date, value4, value5, value6]
+    data0 = []
+    res0 = getFinalSet(live_input)
+    print(res0)
+    if live_input[4] == "":
+        trace0 = go.Heatmap(
+            z=res0[0],
+            y=res0[1],
+            x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Budget"],
+            colorscale='Viridis',
+        )
+    elif live_input[4] == "" and live_input[5] < 200:
+        trace0 = go.Heatmap(
+            z=res0[0],
+            y=res0[1],
+            x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies"],
+            colorscale='Viridis',
+        )
+    elif live_input[4] != "" and live_input[5] < 200:
+        trace0 = go.Heatmap(
+            z=res0[0],
+            y=res0[1],
+            x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise"],
+            colorscale='Viridis',
+        )
+    else:
+        trace0 = go.Heatmap(
+            z=res0[0],
+            y=res0[1],
+            x=["Final Grade", "History Box Office", "Competitors", "Same Genre Movies", "Franchise", "Budget"],
+            colorscale='Viridis',
+        )
+    data0.append(trace0)
+    table_data0 = getFinalTable(res0, live_input)
+    return html.Div([
+        html.Div([
+            html.Label(children='Grading Heat map and table for "{}"'.format(value1), ),
+        ],
+            style={
+                'textAlign': 'center',
+                'marginTop': '20px',
+            }),
+        html.Div([
                 # heat map for the final results
                 dcc.Graph(
                     style={
@@ -524,7 +527,6 @@ def render_content(tab):
                     figure=go.Figure(
                         data=data0,
                         layout=go.Layout(
-                            title="Grading Heat Map for Final Results",
                             xaxis=dict(
                                 title='Factors',
                                 ticks='',
@@ -542,7 +544,7 @@ def render_content(tab):
             ],
                 style={
                     'width': '60%',
-                    'display': 'inline-block'
+                    'display': 'inline-block',
                    },
             ),
             html.Div([
@@ -580,6 +582,13 @@ def render_content(tab):
                 }
             ),
         ])
+
+
+@app.callback(Output('tabs-content-props', 'children'),
+              [Input('tabs-styled-with-props', 'value')])
+def render_content(tab):
+    if tab == 'tab-0':
+        return render_algo
 
     elif tab == 'tab-1':
         return html.Div([

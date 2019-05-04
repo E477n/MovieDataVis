@@ -44,8 +44,28 @@ Data collected at the first stage was not consistent enough to be put into formu
 ### Quantifying
 ### Merge
 
-## Input & Output
-### Input
-### Output
-
 ## User Interface
+### Input Field
+- movie name
+- start date & end date
+- movie genres
+- franchise (optional)
+- production budget
+![](img/input.png)
+
+### Output
+- grading table of final results and each factor in descending order
+- grading heat map of final results and each factor
+![](img/final%20result.png)
+
+## References
+[1] Saptarshi Sasmal, K. Ramanjaneyulu and Nagesh R. Iyer, “Condition Ranking and Rating of Bridges Using Fuzzy Logic”, March, 2012.
+
+[2] Ben-Arieh, D. & Triantaphyllou, E. (1992). Quantifying data for group technology with weighted fuzzy features, Int. J. of Production Research, Vol. 30, pp. 1285-1299. 
+
+[3] Bridgman, P. W. (1922). Dimensional analysis. New Haven, CT: Yale University Press.
+
+[4] Saaty, T.L. (1994). Fundamentals of decision making and priority theory with the AHP, RWS 
+Publications, Pittsburgh.
+
+[5] Nihar B. Shah, Martin J (2018). Wainwright. Simple, Robust and Optimal Ranking from Pairwise Comparisons, Journal of Machine Learning Research 18 (2018) 1-38
