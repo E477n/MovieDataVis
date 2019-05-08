@@ -288,6 +288,18 @@ for i in res3[1]:
     d3year += 1
     data3.append(trace)
 
+# data3_1 = []
+# d3year = 2012
+# for i in res3[1]:
+#     trace = go.Scatter3d(
+#         type='scatter3d',
+#         x=res3[0],
+#         y=d3year,
+#         z=i
+#     )
+#     d3year += 1
+#     data3_1.append(trace)
+
 res4 = blockbusterBudget()
 data4 = []
 trace = go.Scatter(
@@ -592,6 +604,30 @@ def render_content(tab):
 
     elif tab == 'tab-1':
         return html.Div([
+            # # history box office in weeks filled line chart
+            # dcc.Graph(
+            #     style={'height': 600},
+            #     id='filledlinechart3d',
+            #     figure=go.Figure(
+            #         data=data3_1,
+            #         layout=go.Layout(
+            #             title='Weekly Gross Filled Line Chart',
+            #             xaxis=dict(
+            #                 title='week#'
+            #             ),
+            #             yaxis=dict(
+            #                 title='Weekly Total Gross'
+            #             ),
+            #             showlegend=True,
+            #             legend=go.layout.Legend(
+            #                 x=0,
+            #                 y=1.0
+            #             ),
+            #             # margin=go.layout.Margin(l=40, r=0, t=40, b=30)
+            #         )
+            #     ),
+            # ),
+
             # Future Movie Release, group by date, count
             dcc.Graph(
                 style={'height': 600},
