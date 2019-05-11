@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f9bf06-7a8a-4121-90db-62603ffe928a" name="Default Changelist" comment="" />
+    <list default="true" id="60f9bf06-7a8a-4121-90db-62603ffe928a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +22,14 @@
     <session id="-1583027578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="44" />
+          <entry key="project.closed" value="46" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="22" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,9 +39,9 @@
           <entry key="html" value="10" />
           <entry key="js" value="25" />
           <entry key="json" value="16" />
-          <entry key="md" value="16" />
+          <entry key="md" value="17" />
           <entry key="png" value="1" />
-          <entry key="py" value="86" />
+          <entry key="py" value="87" />
           <entry key="rnc" value="1" />
           <entry key="webpack" value="1" />
         </counts>
@@ -50,9 +53,9 @@
           <entry key="Image" value="1" />
           <entry key="JSON" value="16" />
           <entry key="JavaScript" value="25" />
-          <entry key="Markdown" value="16" />
+          <entry key="Markdown" value="17" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="86" />
+          <entry key="Python" value="87" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -64,8 +67,8 @@
           <entry key="html" value="841" />
           <entry key="js" value="2343" />
           <entry key="json" value="335" />
-          <entry key="md" value="3560" />
-          <entry key="py" value="28298" />
+          <entry key="md" value="4596" />
+          <entry key="py" value="28307" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -74,25 +77,50 @@
           <entry key="HTML" value="841" />
           <entry key="JSON" value="335" />
           <entry key="JavaScript" value="2343" />
-          <entry key="Markdown" value="3560" />
+          <entry key="Markdown" value="4596" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="28379" />
+          <entry key="Python" value="28388" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="578" selection-start-line="578" selection-end-line="578" />
+            <state relative-caret-position="381">
+              <caret line="761" column="30" lean-forward="true" selection-start-line="761" selection-start-column="30" selection-end-line="761" selection-end-column="30" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
-                <marker date="1557541498322" expanded="true" signature="3161:3163" ph="..." />
-                <marker date="1557541498322" expanded="true" signature="3187:8495" ph="..." />
+                <marker date="1557561978404" expanded="true" signature="3161:3163" ph="..." />
+                <marker date="1557561978404" expanded="true" signature="3187:8495" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-963">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1556938275634" expanded="true" signature="901:905" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="159">
+                <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -160,8 +188,8 @@
         <option value="$PROJECT_DIR$/dataProcess/processInput.py" />
         <option value="$PROJECT_DIR$/algoMerge/algoMerge.py" />
         <option value="$PROJECT_DIR$/dataProcess/factor4.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/dataProcess/app.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -172,10 +200,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="762" />
+    <option name="x" value="124" />
     <option name="y" value="23" />
-    <option name="width" value="678" />
+    <option name="width" value="1046" />
     <option name="height" value="819" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -192,7 +223,7 @@
             <path>
               <item name="MovieDataVis" type="b2602c69:ProjectViewProjectNode" />
               <item name="MovieDataVis" type="462c0819:PsiDirectoryNode" />
-              <item name="dataProcess" type="462c0819:PsiDirectoryNode" />
+              <item name="algoMerge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,16 +243,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dataProcess" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dataProcess" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/dataAnalysis" />
       <recent name="$PROJECT_DIR$/dist/font" />
       <recent name="$PROJECT_DIR$/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/dataProcess" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,9 +317,6 @@
       <module name="MovieDataVis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dist" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -400,10 +429,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="817" y="23" width="623" height="819" extended-state="0" />
-    <editor active="true" />
+    <frame x="124" y="23" width="1046" height="819" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3493976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18525897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,7 +452,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="140" height="621" id="Documentation" order="5" side_tool="true" weight="0.38512617" />
+      <window_info anchor="right" x="0" y="0" width="140" height="621" id="Documentation" order="5" side_tool="true" weight="0.3219557" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21839081" />
@@ -473,11 +501,7 @@
     <entry file="file://$PROJECT_DIR$/node_modules/three/src/Three.js" />
     <entry file="file://$PROJECT_DIR$/.gitattributes" />
     <entry file="file://$PROJECT_DIR$/js/three.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/.bin/webpack">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2227" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/webpack" />
     <entry file="file://$PROJECT_DIR$/src/WebGL.js" />
     <entry file="file://$PROJECT_DIR$/dataCollect/test.py" />
     <entry file="file://$PROJECT_DIR$/src/plotly-latest.min.js" />
@@ -488,33 +512,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7496" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/node_modules/plotly.js/lib/core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/plotly.js/lib/core.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
     <entry file="file://$PROJECT_DIR$/dist/main.js">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="-16551" />
@@ -523,20 +525,8 @@
         <state relative-caret-position="-48450" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/dataProcess/AR.py" />
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -552,20 +542,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/result.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/simple-example-chart-apps-master/barplot/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/result.js" />
+    <entry file="file://$USER_HOME$/Downloads/simple-example-chart-apps-master/barplot/app.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/dash/dash.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21810">
@@ -573,13 +551,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/weekday-master/weekday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/weekday-master/weekday.py" />
     <entry file="file://$PROJECT_DIR$/dataProcess/test.py" />
     <entry file="file://$PROJECT_DIR$/dataCollect/insertBudget.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -654,24 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1556938275634" expanded="true" signature="901:905" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algoMerge/eigenvalues.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
           <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
-          <folding>
-            <marker date="1556803529676" expanded="true" signature="861:862" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,25 +643,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="795">
-            <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/algoMerge/algoMerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-963">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1556938275634" expanded="true" signature="901:905" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataProcess/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="578" selection-start-line="578" selection-end-line="578" />
+        <state relative-caret-position="381">
+          <caret line="761" column="30" lean-forward="true" selection-start-line="761" selection-start-column="30" selection-end-line="761" selection-end-column="30" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
-            <marker date="1557541498322" expanded="true" signature="3161:3163" ph="..." />
-            <marker date="1557541498322" expanded="true" signature="3187:8495" ph="..." />
+            <marker date="1557561978404" expanded="true" signature="3161:3163" ph="..." />
+            <marker date="1557561978404" expanded="true" signature="3187:8495" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="159">
+            <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
