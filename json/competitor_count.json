@@ -1,0 +1,290 @@
+{"_id":{"$oid":"5cbcc78ce2939d1047b424bc"},"ReleaseDate":{"$date":"2021-12-22T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424bd"},"ReleaseDate":{"$date":"2021-12-22T00:00:00.000Z"},"Genre":"Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424be"},"ReleaseDate":{"$date":"2021-12-22T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424bf"},"ReleaseDate":{"$date":"2021-12-22T00:00:00.000Z"},"Genre":"Musical","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c0"},"ReleaseDate":{"$date":"2021-12-17T00:00:00.000Z"},"Genre":"Sci-Fi Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c1"},"ReleaseDate":{"$date":"2021-11-24T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c2"},"ReleaseDate":{"$date":"2021-11-19T00:00:00.000Z"},"Genre":"Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c3"},"ReleaseDate":{"$date":"2021-11-12T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c4"},"ReleaseDate":{"$date":"2021-11-05T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c5"},"ReleaseDate":{"$date":"2021-10-15T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c6"},"ReleaseDate":{"$date":"2021-10-08T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c7"},"ReleaseDate":{"$date":"2021-10-01T00:00:00.000Z"},"Genre":"Unknown","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c8"},"ReleaseDate":{"$date":"2021-09-17T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424c9"},"ReleaseDate":{"$date":"2021-09-10T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ca"},"ReleaseDate":{"$date":"2021-08-13T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424cb"},"ReleaseDate":{"$date":"2021-08-06T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424cc"},"ReleaseDate":{"$date":"2021-07-30T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424cd"},"ReleaseDate":{"$date":"2021-07-23T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ce"},"ReleaseDate":{"$date":"2021-07-16T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424cf"},"ReleaseDate":{"$date":"2021-07-09T00:00:00.000Z"},"Genre":"Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d0"},"ReleaseDate":{"$date":"2021-07-02T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d1"},"ReleaseDate":{"$date":"2021-06-25T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d2"},"ReleaseDate":{"$date":"2021-06-18T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d3"},"ReleaseDate":{"$date":"2021-06-11T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d4"},"ReleaseDate":{"$date":"2021-05-28T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d5"},"ReleaseDate":{"$date":"2021-05-21T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d6"},"ReleaseDate":{"$date":"2021-05-07T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d7"},"ReleaseDate":{"$date":"2021-04-16T00:00:00.000Z"},"Genre":"Family Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d8"},"ReleaseDate":{"$date":"2021-03-26T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424d9"},"ReleaseDate":{"$date":"2021-03-12T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424da"},"ReleaseDate":{"$date":"2021-03-05T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424db"},"ReleaseDate":{"$date":"2021-03-05T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424dc"},"ReleaseDate":{"$date":"2021-02-12T00:00:00.000Z"},"Genre":"Unknown","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424dd"},"ReleaseDate":{"$date":"2021-02-12T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424de"},"ReleaseDate":{"$date":"2021-01-29T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424df"},"ReleaseDate":{"$date":"2021-01-15T00:00:00.000Z"},"Genre":"Musical","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e0"},"ReleaseDate":{"$date":"2021-01-08T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e1"},"ReleaseDate":{"$date":"2020-12-25T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e2"},"ReleaseDate":{"$date":"2020-12-25T00:00:00.000Z"},"Genre":"Unknown","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e3"},"ReleaseDate":{"$date":"2020-12-23T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e4"},"ReleaseDate":{"$date":"2020-12-18T00:00:00.000Z"},"Genre":"Sci-Fi Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e5"},"ReleaseDate":{"$date":"2020-11-25T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e6"},"ReleaseDate":{"$date":"2020-11-20T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e7"},"ReleaseDate":{"$date":"2020-11-13T00:00:00.000Z"},"Genre":"Action Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e8"},"ReleaseDate":{"$date":"2020-11-13T00:00:00.000Z"},"Genre":"Family Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424e9"},"ReleaseDate":{"$date":"2020-11-13T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ea"},"ReleaseDate":{"$date":"2020-11-06T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424eb"},"ReleaseDate":{"$date":"2020-11-06T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ec"},"ReleaseDate":{"$date":"2020-10-23T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ed"},"ReleaseDate":{"$date":"2020-10-16T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ee"},"ReleaseDate":{"$date":"2020-10-16T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ef"},"ReleaseDate":{"$date":"2020-10-16T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f0"},"ReleaseDate":{"$date":"2020-10-09T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f1"},"ReleaseDate":{"$date":"2020-10-02T00:00:00.000Z"},"Genre":"Sci-Fi","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f2"},"ReleaseDate":{"$date":"2020-10-02T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f3"},"ReleaseDate":{"$date":"2020-10-02T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f4"},"ReleaseDate":{"$date":"2020-10-02T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f5"},"ReleaseDate":{"$date":"2020-09-25T00:00:00.000Z"},"Genre":"Crime Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f6"},"ReleaseDate":{"$date":"2020-09-25T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f7"},"ReleaseDate":{"$date":"2020-09-18T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f8"},"ReleaseDate":{"$date":"2020-09-18T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424f9"},"ReleaseDate":{"$date":"2020-09-11T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424fa"},"ReleaseDate":{"$date":"2020-09-04T00:00:00.000Z"},"Genre":"Action Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424fb"},"ReleaseDate":{"$date":"2020-08-14T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424fc"},"ReleaseDate":{"$date":"2020-08-07T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424fd"},"ReleaseDate":{"$date":"2020-08-07T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424fe"},"ReleaseDate":{"$date":"2020-07-31T00:00:00.000Z"},"Genre":"Action Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b424ff"},"ReleaseDate":{"$date":"2020-07-24T00:00:00.000Z"},"Genre":"Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42500"},"ReleaseDate":{"$date":"2020-07-17T00:00:00.000Z"},"Genre":"Animation","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42501"},"ReleaseDate":{"$date":"2020-07-17T00:00:00.000Z"},"Genre":"Unknown","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42502"},"ReleaseDate":{"$date":"2020-07-10T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42503"},"ReleaseDate":{"$date":"2020-07-03T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42504"},"ReleaseDate":{"$date":"2020-07-03T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42505"},"ReleaseDate":{"$date":"2020-06-26T00:00:00.000Z"},"Genre":"Music Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42506"},"ReleaseDate":{"$date":"2020-06-26T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42507"},"ReleaseDate":{"$date":"2020-06-26T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42508"},"ReleaseDate":{"$date":"2020-06-19T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42509"},"ReleaseDate":{"$date":"2020-06-19T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250a"},"ReleaseDate":{"$date":"2020-06-12T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250b"},"ReleaseDate":{"$date":"2020-05-15T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250c"},"ReleaseDate":{"$date":"2020-05-15T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250d"},"ReleaseDate":{"$date":"2020-05-15T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250e"},"ReleaseDate":{"$date":"2020-05-08T00:00:00.000Z"},"Genre":"War Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4250f"},"ReleaseDate":{"$date":"2020-05-08T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42510"},"ReleaseDate":{"$date":"2020-05-01T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42511"},"ReleaseDate":{"$date":"2020-04-17T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42512"},"ReleaseDate":{"$date":"2020-04-17T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42513"},"ReleaseDate":{"$date":"2020-04-10T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42514"},"ReleaseDate":{"$date":"2020-04-08T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42515"},"ReleaseDate":{"$date":"2020-04-03T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42516"},"ReleaseDate":{"$date":"2020-03-27T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42517"},"ReleaseDate":{"$date":"2020-03-27T00:00:00.000Z"},"Genre":"Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42518"},"ReleaseDate":{"$date":"2020-03-20T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42519"},"ReleaseDate":{"$date":"2020-03-20T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251a"},"ReleaseDate":{"$date":"2020-03-13T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251b"},"ReleaseDate":{"$date":"2020-03-13T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251c"},"ReleaseDate":{"$date":"2020-03-13T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251d"},"ReleaseDate":{"$date":"2020-03-06T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251e"},"ReleaseDate":{"$date":"2020-03-06T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4251f"},"ReleaseDate":{"$date":"2020-02-28T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42520"},"ReleaseDate":{"$date":"2020-02-21T00:00:00.000Z"},"Genre":"Action Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42521"},"ReleaseDate":{"$date":"2020-02-14T00:00:00.000Z"},"Genre":"Unknown","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42522"},"ReleaseDate":{"$date":"2020-02-14T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42523"},"ReleaseDate":{"$date":"2020-02-14T00:00:00.000Z"},"Genre":"Romance","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42524"},"ReleaseDate":{"$date":"2020-02-07T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42525"},"ReleaseDate":{"$date":"2020-02-07T00:00:00.000Z"},"Genre":"Family","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42526"},"ReleaseDate":{"$date":"2020-01-24T00:00:00.000Z"},"Genre":"Thriller","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42527"},"ReleaseDate":{"$date":"2020-01-17T00:00:00.000Z"},"Genre":"Action / Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42528"},"ReleaseDate":{"$date":"2020-01-17T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42529"},"ReleaseDate":{"$date":"2020-01-17T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252a"},"ReleaseDate":{"$date":"2020-01-10T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252b"},"ReleaseDate":{"$date":"2020-01-10T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252c"},"ReleaseDate":{"$date":"2020-01-03T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252d"},"ReleaseDate":{"$date":"2020-01-03T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252e"},"ReleaseDate":{"$date":"2019-12-25T00:00:00.000Z"},"Genre":"War","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4252f"},"ReleaseDate":{"$date":"2019-12-25T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42530"},"ReleaseDate":{"$date":"2019-12-25T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42531"},"ReleaseDate":{"$date":"2019-12-20T00:00:00.000Z"},"Genre":"Musical","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42532"},"ReleaseDate":{"$date":"2019-12-20T00:00:00.000Z"},"Genre":"Sci-Fi Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42533"},"ReleaseDate":{"$date":"2019-12-20T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42534"},"ReleaseDate":{"$date":"2019-12-20T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42535"},"ReleaseDate":{"$date":"2019-12-18T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42536"},"ReleaseDate":{"$date":"2019-12-13T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42537"},"ReleaseDate":{"$date":"2019-12-13T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42538"},"ReleaseDate":{"$date":"2019-11-27T00:00:00.000Z"},"Genre":"Drama / Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42539"},"ReleaseDate":{"$date":"2019-11-27T00:00:00.000Z"},"Genre":"Romance","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253a"},"ReleaseDate":{"$date":"2019-11-22T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253b"},"ReleaseDate":{"$date":"2019-11-22T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253c"},"ReleaseDate":{"$date":"2019-11-22T00:00:00.000Z"},"Genre":"Action Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253d"},"ReleaseDate":{"$date":"2019-11-15T00:00:00.000Z"},"Genre":"Drama","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253e"},"ReleaseDate":{"$date":"2019-11-15T00:00:00.000Z"},"Genre":"Romantic Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4253f"},"ReleaseDate":{"$date":"2019-11-08T00:00:00.000Z"},"Genre":"Horror Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42540"},"ReleaseDate":{"$date":"2019-11-08T00:00:00.000Z"},"Genre":"Action Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42541"},"ReleaseDate":{"$date":"2019-11-08T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42542"},"ReleaseDate":{"$date":"2019-11-08T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42543"},"ReleaseDate":{"$date":"2019-11-01T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42544"},"ReleaseDate":{"$date":"2019-11-01T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42545"},"ReleaseDate":{"$date":"2019-11-01T00:00:00.000Z"},"Genre":"Crime Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42546"},"ReleaseDate":{"$date":"2019-11-01T00:00:00.000Z"},"Genre":"Sci-Fi","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42547"},"ReleaseDate":{"$date":"2019-10-25T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42548"},"ReleaseDate":{"$date":"2019-10-25T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42549"},"ReleaseDate":{"$date":"2019-10-18T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254a"},"ReleaseDate":{"$date":"2019-10-18T00:00:00.000Z"},"Genre":"Action Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254b"},"ReleaseDate":{"$date":"2019-10-18T00:00:00.000Z"},"Genre":"Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254c"},"ReleaseDate":{"$date":"2019-10-11T00:00:00.000Z"},"Genre":"Sci-Fi","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254d"},"ReleaseDate":{"$date":"2019-10-11T00:00:00.000Z"},"Genre":"Adventure Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254e"},"ReleaseDate":{"$date":"2019-10-04T00:00:00.000Z"},"Genre":"Action / Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4254f"},"ReleaseDate":{"$date":"2019-10-04T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42550"},"ReleaseDate":{"$date":"2019-09-27T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42551"},"ReleaseDate":{"$date":"2019-09-27T00:00:00.000Z"},"Genre":"Drama","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42552"},"ReleaseDate":{"$date":"2019-09-27T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42553"},"ReleaseDate":{"$date":"2019-09-20T00:00:00.000Z"},"Genre":"Action","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42554"},"ReleaseDate":{"$date":"2019-09-20T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42555"},"ReleaseDate":{"$date":"2019-09-13T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42556"},"ReleaseDate":{"$date":"2019-09-13T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42557"},"ReleaseDate":{"$date":"2019-09-06T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42558"},"ReleaseDate":{"$date":"2019-08-30T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42559"},"ReleaseDate":{"$date":"2019-08-23T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255a"},"ReleaseDate":{"$date":"2019-08-23T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255b"},"ReleaseDate":{"$date":"2019-08-16T00:00:00.000Z"},"Genre":"Horror Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255c"},"ReleaseDate":{"$date":"2019-08-16T00:00:00.000Z"},"Genre":"Animation","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255d"},"ReleaseDate":{"$date":"2019-08-16T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255e"},"ReleaseDate":{"$date":"2019-08-16T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4255f"},"ReleaseDate":{"$date":"2019-08-16T00:00:00.000Z"},"Genre":"Crime Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42560"},"ReleaseDate":{"$date":"2019-08-15T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42561"},"ReleaseDate":{"$date":"2019-08-14T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42562"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42563"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42564"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Action / Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42565"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42566"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Horror Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42567"},"ReleaseDate":{"$date":"2019-08-09T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42568"},"ReleaseDate":{"$date":"2019-08-02T00:00:00.000Z"},"Genre":"Family","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42569"},"ReleaseDate":{"$date":"2019-08-02T00:00:00.000Z"},"Genre":"Action","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256a"},"ReleaseDate":{"$date":"2019-08-02T00:00:00.000Z"},"Genre":"Drama / Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256b"},"ReleaseDate":{"$date":"2019-07-26T00:00:00.000Z"},"Genre":"Horror Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256c"},"ReleaseDate":{"$date":"2019-07-26T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256d"},"ReleaseDate":{"$date":"2019-07-19T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256e"},"ReleaseDate":{"$date":"2019-07-19T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4256f"},"ReleaseDate":{"$date":"2019-07-12T00:00:00.000Z"},"Genre":"Crime Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42570"},"ReleaseDate":{"$date":"2019-07-12T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42571"},"ReleaseDate":{"$date":"2019-07-12T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42572"},"ReleaseDate":{"$date":"2019-07-12T00:00:00.000Z"},"Genre":"Action Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42573"},"ReleaseDate":{"$date":"2019-07-05T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42574"},"ReleaseDate":{"$date":"2019-06-28T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42575"},"ReleaseDate":{"$date":"2019-06-28T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42576"},"ReleaseDate":{"$date":"2019-06-21T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42577"},"ReleaseDate":{"$date":"2019-06-21T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42578"},"ReleaseDate":{"$date":"2019-06-21T00:00:00.000Z"},"Genre":"Sports Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42579"},"ReleaseDate":{"$date":"2019-06-21T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257a"},"ReleaseDate":{"$date":"2019-06-17T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257b"},"ReleaseDate":{"$date":"2019-06-14T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257c"},"ReleaseDate":{"$date":"2019-06-14T00:00:00.000Z"},"Genre":"Sci-Fi Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257d"},"ReleaseDate":{"$date":"2019-06-14T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257e"},"ReleaseDate":{"$date":"2019-06-14T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4257f"},"ReleaseDate":{"$date":"2019-06-07T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42580"},"ReleaseDate":{"$date":"2019-06-07T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42581"},"ReleaseDate":{"$date":"2019-06-07T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42582"},"ReleaseDate":{"$date":"2019-06-07T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42583"},"ReleaseDate":{"$date":"2019-06-06T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42584"},"ReleaseDate":{"$date":"2019-05-31T00:00:00.000Z"},"Genre":"Sci-Fi Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42585"},"ReleaseDate":{"$date":"2019-05-31T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42586"},"ReleaseDate":{"$date":"2019-05-31T00:00:00.000Z"},"Genre":"Musical","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42587"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Sci-Fi Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42588"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Fantasy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42589"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258a"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258b"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Documentary","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258c"},"ReleaseDate":{"$date":"2019-05-24T00:00:00.000Z"},"Genre":"Romance","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258d"},"ReleaseDate":{"$date":"2019-05-17T00:00:00.000Z"},"Genre":"Drama","Count":4}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258e"},"ReleaseDate":{"$date":"2019-05-17T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4258f"},"ReleaseDate":{"$date":"2019-05-10T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42590"},"ReleaseDate":{"$date":"2019-05-10T00:00:00.000Z"},"Genre":"Family","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42591"},"ReleaseDate":{"$date":"2019-05-10T00:00:00.000Z"},"Genre":"Comedy","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42592"},"ReleaseDate":{"$date":"2019-05-10T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42593"},"ReleaseDate":{"$date":"2019-05-03T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42594"},"ReleaseDate":{"$date":"2019-05-03T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42595"},"ReleaseDate":{"$date":"2019-05-03T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42596"},"ReleaseDate":{"$date":"2019-05-03T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42597"},"ReleaseDate":{"$date":"2019-05-03T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42598"},"ReleaseDate":{"$date":"2019-04-29T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b42599"},"ReleaseDate":{"$date":"2019-04-26T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259a"},"ReleaseDate":{"$date":"2019-04-22T00:00:00.000Z"},"Genre":"Musical","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259b"},"ReleaseDate":{"$date":"2019-04-19T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259c"},"ReleaseDate":{"$date":"2019-04-19T00:00:00.000Z"},"Genre":"Drama","Count":4}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259d"},"ReleaseDate":{"$date":"2019-04-19T00:00:00.000Z"},"Genre":"Action / Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259e"},"ReleaseDate":{"$date":"2019-04-18T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b4259f"},"ReleaseDate":{"$date":"2019-04-17T00:00:00.000Z"},"Genre":"Drama","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a0"},"ReleaseDate":{"$date":"2019-04-17T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a1"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a2"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a3"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a4"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Comedy","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a5"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a6"},"ReleaseDate":{"$date":"2019-04-12T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a7"},"ReleaseDate":{"$date":"2019-04-10T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a8"},"ReleaseDate":{"$date":"2019-04-05T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425a9"},"ReleaseDate":{"$date":"2019-04-05T00:00:00.000Z"},"Genre":"Drama","Count":5}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425aa"},"ReleaseDate":{"$date":"2019-04-05T00:00:00.000Z"},"Genre":"Horror","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ab"},"ReleaseDate":{"$date":"2019-04-05T00:00:00.000Z"},"Genre":"Action","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ac"},"ReleaseDate":{"$date":"2019-04-03T00:00:00.000Z"},"Genre":"Concert","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ad"},"ReleaseDate":{"$date":"2019-03-29T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ae"},"ReleaseDate":{"$date":"2019-03-29T00:00:00.000Z"},"Genre":"Drama","Count":3}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425af"},"ReleaseDate":{"$date":"2019-03-29T00:00:00.000Z"},"Genre":"Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b0"},"ReleaseDate":{"$date":"2019-03-29T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b1"},"ReleaseDate":{"$date":"2019-03-29T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b2"},"ReleaseDate":{"$date":"2019-03-22T00:00:00.000Z"},"Genre":"Romantic Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b3"},"ReleaseDate":{"$date":"2019-03-22T00:00:00.000Z"},"Genre":"Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b4"},"ReleaseDate":{"$date":"2019-03-22T00:00:00.000Z"},"Genre":"Crime Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b5"},"ReleaseDate":{"$date":"2019-03-22T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b6"},"ReleaseDate":{"$date":"2019-03-22T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b7"},"ReleaseDate":{"$date":"2019-03-19T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b8"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"War Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425b9"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Drama","Count":4}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ba"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Sci-Fi","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425bb"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Documentary","Count":3}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425bc"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Romantic Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425bd"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Romance","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425be"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425bf"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c0"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Family","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c1"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c2"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Drama / Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c3"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c4"},"ReleaseDate":{"$date":"2019-03-15T00:00:00.000Z"},"Genre":"Crime Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c5"},"ReleaseDate":{"$date":"2019-03-14T00:00:00.000Z"},"Genre":"Sports Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c6"},"ReleaseDate":{"$date":"2019-03-14T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c7"},"ReleaseDate":{"$date":"2019-03-14T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c8"},"ReleaseDate":{"$date":"2019-03-13T00:00:00.000Z"},"Genre":"Sci-Fi","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425c9"},"ReleaseDate":{"$date":"2019-03-11T00:00:00.000Z"},"Genre":"Concert","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ca"},"ReleaseDate":{"$date":"2019-03-10T00:00:00.000Z"},"Genre":"Unknown","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425cb"},"ReleaseDate":{"$date":"2019-03-09T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425cc"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Drama","Count":4}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425cd"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425ce"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425cf"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Documentary","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d0"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Action Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d1"},"ReleaseDate":{"$date":"2019-03-08T00:00:00.000Z"},"Genre":"Comedy","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d2"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Documentary","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d3"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Comedy","Count":4}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d4"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Action Drama","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d5"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Historical Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d6"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Horror","Count":2}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d7"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Action / Adventure","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d8"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Drama","Count":6}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425d9"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Drama / Thriller","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425da"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Action / Crime","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425db"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Animation","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425dc"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Comedy / Drama","Count":1}
+{"_id":{"$oid":"5cbcc78ce2939d1047b425dd"},"ReleaseDate":{"$date":"2019-03-01T00:00:00.000Z"},"Genre":"Thriller","Count":1}

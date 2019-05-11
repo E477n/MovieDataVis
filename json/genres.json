@@ -1,0 +1,218 @@
+{"_id":{"$oid":"5c982438e2939d06f5cb755c"},"Genre":"3D","Movies#":367,"Gross":936.7,"#1Picture":"Star Wars: The Force Awakens"}
+{"_id":{"$oid":"5c982438e2939d06f5cb755d"},"Genre":"Action - Buddy Comedy","Movies#":86,"Gross":250.7,"#1Picture":"Men in Black"}
+{"_id":{"$oid":"5c982438e2939d06f5cb755e"},"Genre":"Action - Martial Arts","Movies#":167,"Gross":226.2,"#1Picture":"Rush Hour 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb755f"},"Genre":"Action - Sequels","Movies#":4,"Gross":215.4,"#1Picture":"Mission: Impossible II"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7560"},"Genre":"Action - Wire-Fu","Movies#":27,"Gross":281.6,"#1Picture":"The Matrix Reloaded"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7561"},"Genre":"Action Heroine","Movies#":79,"Gross":936.7,"#1Picture":"Star Wars: The Force Awakens"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7562"},"Genre":"Action Remake","Movies#":26,"Gross":176.6,"#1Picture":"The Karate Kid"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7563"},"Genre":"Adventure - Desert","Movies#":24,"Gross":202.0,"#1Picture":"Mummy Returns"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7564"},"Genre":"Adventure - Period","Movies#":84,"Gross":423.3,"#1Picture":"Dead Man's Chest"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7565"},"Genre":"Adventure Remake","Movies#":30,"Gross":364.0,"#1Picture":"The Jungle Book"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7566"},"Genre":"Animation","Movies#":507,"Gross":608.6,"#1Picture":"Incredibles 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7567"},"Genre":"Animation - Anime","Movies#":109,"Gross":85.7,"#1Picture":"Pokemon 1"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7568"},"Genre":"Animation - Computer","Movies#":175,"Gross":608.6,"#1Picture":"Incredibles 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7569"},"Genre":"Animation - Fantasy","Movies#":70,"Gross":441.2,"#1Picture":"Shrek 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756a"},"Genre":"Animation - Motion Capture","Movies#":7,"Gross":187.2,"#1Picture":"The Polar Express"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756b"},"Genre":"Animation - Sci-Fi","Movies#":48,"Gross":223.8,"#1Picture":"WALL-E"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756c"},"Genre":"Animation - Stop Motion","Movies#":26,"Gross":106.8,"#1Picture":"Chicken Run"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756d"},"Genre":"Animation - TV Adaptation","Movies#":44,"Gross":183.1,"#1Picture":"The Simpsons Movie"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756e"},"Genre":"Biopic - Music","Movies#":50,"Gross":215.9,"#1Picture":"Bohemian Rhapsody"}
+{"_id":{"$oid":"5c982438e2939d06f5cb756f"},"Genre":"Cannes Film Festival - Palme D'Or winners","Movies#":38,"Gross":119.2,"#1Picture":"Fahrenheit 9/11"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7570"},"Genre":"Car Racing","Movies#":39,"Gross":353.0,"#1Picture":"Furious 7"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7571"},"Genre":"CGI Star","Movies#":52,"Gross":760.5,"#1Picture":"Avatar"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7572"},"Genre":"Christian","Movies#":173,"Gross":370.8,"#1Picture":"Passion of the Christ"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7573"},"Genre":"Christmas","Movies#":74,"Gross":285.8,"#1Picture":"Home Alone"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7574"},"Genre":"Christmas - Setting Only","Movies#":43,"Gross":409.0,"#1Picture":"Iron Man 3"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7575"},"Genre":"Cinderella Complex","Movies#":20,"Gross":504.0,"#1Picture":"Beauty and the Beast"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7576"},"Genre":"Comedy - Arrested Development","Movies#":24,"Gross":218.8,"#1Picture":"Ted"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7577"},"Genre":"Comedy - Body Switch","Movies#":18,"Gross":115.2,"#1Picture":"Big"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7578"},"Genre":"Comedy - Bumbling","Movies#":39,"Gross":146.3,"#1Picture":"Paul Blart: Mall Cop"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7579"},"Genre":"Comedy - College","Movies#":53,"Gross":268.5,"#1Picture":"Monsters University"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757a"},"Genre":"Comedy - Dark/Black","Movies#":87,"Gross":117.5,"#1Picture":"Horrible Bosses"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757b"},"Genre":"Comedy - Fat Suit","Movies#":28,"Gross":219.2,"#1Picture":"Mrs. Doubtfire"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757c"},"Genre":"Comedy - Fish-Out-of-Water Father","Movies#":39,"Gross":368.1,"#1Picture":"Despicable Me 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757d"},"Genre":"Comedy - God","Movies#":18,"Gross":242.8,"#1Picture":"Bruce Almighty"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757e"},"Genre":"Comedy - High School","Movies#":74,"Gross":334.2,"#1Picture":"Spider-Man: Homecoming"}
+{"_id":{"$oid":"5c982438e2939d06f5cb757f"},"Genre":"Comedy - Music","Movies#":27,"Gross":184.3,"#1Picture":"Pitch Perfect 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7580"},"Genre":"Comedy - R-Rated Youth","Movies#":117,"Gross":277.3,"#1Picture":"The Hangover"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7581"},"Genre":"Comedy - Road Trip","Movies#":57,"Gross":168.3,"#1Picture":"Wild Hogs"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7582"},"Genre":"Comedy - Sequel (Live Action)","Movies#":118,"Gross":324.6,"#1Picture":"Deadpool 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7583"},"Genre":"Comedy - Spoof","Movies#":69,"Gross":213.3,"#1Picture":"Goldmember"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7584"},"Genre":"Comedy - Spy","Movies#":38,"Gross":368.1,"#1Picture":"Despicable Me 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7585"},"Genre":"Comedy - What If?","Movies#":43,"Gross":242.8,"#1Picture":"Bruce Almighty"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7586"},"Genre":"Comedy Remake","Movies#":52,"Gross":158.1,"#1Picture":"The Longest Yard"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7587"},"Genre":"Comic Book Adaptation","Movies#":166,"Gross":700.1,"#1Picture":"Black Panther"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7588"},"Genre":"Con Artist / Hustler","Movies#":56,"Gross":164.6,"#1Picture":"Catch Me If You Can"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7589"},"Genre":"Controversy","Movies#":57,"Gross":370.8,"#1Picture":"Passion of the Christ"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758a"},"Genre":"Cooking","Movies#":21,"Gross":206.4,"#1Picture":"Ratatouille"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758b"},"Genre":"Cop - Dirty","Movies#":36,"Gross":132.4,"#1Picture":"The Departed"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758c"},"Genre":"Creature Feature","Movies#":85,"Gross":652.3,"#1Picture":"Jurassic World"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758d"},"Genre":"Crime - Romantic Comedy","Movies#":22,"Gross":66.8,"#1Picture":"The Mexican"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758e"},"Genre":"Crime Time","Movies#":128,"Gross":292.6,"#1Picture":"Inception"}
+{"_id":{"$oid":"5c982438e2939d06f5cb758f"},"Genre":"Cross Dressing / Gender Bending","Movies#":40,"Gross":219.2,"#1Picture":"Mrs. Doubtfire"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7590"},"Genre":"Cyborg / Android / Robot","Movies#":62,"Gross":459.0,"#1Picture":"Avengers: Age of Ultron"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7591"},"Genre":"Dance","Movies#":101,"Gross":113.7,"#1Picture":"Magic Mike"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7592"},"Genre":"Dinosaur","Movies#":15,"Gross":652.3,"#1Picture":"Jurassic World"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7593"},"Genre":"Disability - Paraplegic / Quadriplegic","Movies#":27,"Gross":760.5,"#1Picture":"Avatar"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7594"},"Genre":"Disaster","Movies#":54,"Gross":659.4,"#1Picture":"Titanic"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7596"},"Genre":"Documentary - Nature","Movies#":37,"Gross":77.4,"#1Picture":"March of the Penguins"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7597"},"Genre":"Documentary - Political","Movies#":136,"Gross":119.2,"#1Picture":"Fahrenheit 9/11"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7598"},"Genre":"Dog","Movies#":71,"Gross":153.3,"#1Picture":"Scooby-Doo"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7599"},"Genre":"Dragon - Focal Point of Movie","Movies#":12,"Gross":258.4,"#1Picture":"The Hobbit 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759a"},"Genre":"Dragon - Supporting Role","Movies#":11,"Gross":381.2,"#1Picture":"Harry Potter / Deathly Hallows (P2)"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759b"},"Genre":"Drama - Kidnapping","Movies#":31,"Gross":145.0,"#1Picture":"Taken"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759c"},"Genre":"Drama - Summer","Movies#":153,"Gross":330.3,"#1Picture":"Forrest Gump"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759d"},"Genre":"Environmentalist","Movies#":50,"Gross":760.5,"#1Picture":"Avatar"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759e"},"Genre":"Events","Movies#":6,"Gross":2.8,"#1Picture":"Newsies: The Broadway Musical"}
+{"_id":{"$oid":"5c982438e2939d06f5cb759f"},"Genre":"Explorer","Movies#":19,"Gross":293.0,"#1Picture":"Up"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a0"},"Genre":"Family - Animal (Live action)","Movies#":58,"Gross":81.6,"#1Picture":"Eight Below"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a1"},"Genre":"Family - Children's Book Adaptation","Movies#":92,"Gross":381.2,"#1Picture":"Harry Potter / Deathly Hallows (P2)"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a2"},"Genre":"Family - Remake","Movies#":33,"Gross":364.0,"#1Picture":"The Jungle Book"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a3"},"Genre":"Family - Talking Animal (Live action)","Movies#":37,"Gross":364.0,"#1Picture":"The Jungle Book"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a4"},"Genre":"Fantasy - Live Action","Movies#":141,"Gross":504.0,"#1Picture":"Beauty and the Beast"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a5"},"Genre":"Fire / Firefighter","Movies#":17,"Gross":120.1,"#1Picture":"I Now Pronounce You Chuck and Larry"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a7"},"Genre":"Found Footage","Movies#":32,"Gross":140.5,"#1Picture":"Blair Witch Project"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a8"},"Genre":"Future - Near","Movies#":93,"Gross":256.4,"#1Picture":"I Am Legend"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75a9"},"Genre":"Gay / Lesbian","Movies#":346,"Gross":215.9,"#1Picture":"Bohemian Rhapsody"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75aa"},"Genre":"Global Warming","Movies#":9,"Gross":186.7,"#1Picture":"The Day After Tomorrow"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ab"},"Genre":"Heist / Caper","Movies#":115,"Gross":292.6,"#1Picture":"Inception"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ac"},"Genre":"Hitman / Assassin","Movies#":78,"Gross":227.5,"#1Picture":"The Bourne Ultimatum"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ad"},"Genre":"Hollywood / Movies","Movies#":132,"Gross":156.5,"#1Picture":"Who Framed Roger Rabbit"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ae"},"Genre":"Horror - Period","Movies#":35,"Gross":137.4,"#1Picture":"The Conjuring"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75af"},"Genre":"Horror - R-Rated","Movies#":513,"Gross":327.5,"#1Picture":"It"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b0"},"Genre":"Horror - Slasher","Movies#":101,"Gross":159.3,"#1Picture":"Halloween (2018)"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b1"},"Genre":"Horror - Supernatural","Movies#":160,"Gross":327.5,"#1Picture":"It"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b2"},"Genre":"Horror - Terror in the Water","Movies#":22,"Gross":260.0,"#1Picture":"Jaws"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b3"},"Genre":"Horror - Torture","Movies#":32,"Gross":87.0,"#1Picture":"Saw II"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b4"},"Genre":"Horror Anthology","Movies#":21,"Gross":29.5,"#1Picture":"Twilight Zone: The Movie"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b5"},"Genre":"Horror Comedy","Movies#":126,"Gross":242.2,"#1Picture":"Ghostbusters"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b6"},"Genre":"Horror Remake","Movies#":69,"Gross":129.1,"#1Picture":"The Ring"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b7"},"Genre":"Horse","Movies#":32,"Gross":120.3,"#1Picture":"Seabiscuit"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b8"},"Genre":"Hostage","Movies#":49,"Gross":173.0,"#1Picture":"Air Force One"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75b9"},"Genre":"IMAX (Feature-length)","Movies#":274,"Gross":936.7,"#1Picture":"Star Wars: The Force Awakens"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ba"},"Genre":"Irish","Movies#":69,"Gross":132.4,"#1Picture":"The Departed"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75bb"},"Genre":"Man vs. Machine","Movies#":22,"Gross":281.6,"#1Picture":"The Matrix Reloaded"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75bc"},"Genre":"Medieval Times","Movies#":35,"Gross":165.5,"#1Picture":"Robin Hood: Prince of Thieves"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75bd"},"Genre":"Memory Loss / Amnesia","Movies#":29,"Gross":227.5,"#1Picture":"The Bourne Ultimatum"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75be"},"Genre":"Mindbender","Movies#":25,"Gross":356.5,"#1Picture":"Inside Out"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75bf"},"Genre":"Mockumentary","Movies#":38,"Gross":128.5,"#1Picture":"Borat"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c0"},"Genre":"Mother","Movies#":52,"Gross":144.2,"#1Picture":"Mamma Mia!"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c1"},"Genre":"Mouse / Rat","Movies#":15,"Gross":206.4,"#1Picture":"Ratatouille"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c2"},"Genre":"Mouse/Rat - Featured","Movies#":25,"Gross":334.2,"#1Picture":"Alice in Wonderland"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c3"},"Genre":"Music Concert","Movies#":32,"Gross":73.0,"#1Picture":"Justin Bieber"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c4"},"Genre":"Musical","Movies#":94,"Gross":504.0,"#1Picture":"Beauty and the Beast"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c5"},"Genre":"Neo Noir","Movies#":72,"Gross":74.1,"#1Picture":"Sin City"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c6"},"Genre":"New Year's","Movies#":20,"Gross":126.8,"#1Picture":"Sleepless in Seattle"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c7"},"Genre":"News/Broadcasting","Movies#":50,"Gross":242.8,"#1Picture":"Bruce Almighty"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c8"},"Genre":"Off-Screen Couples On-Screen","Movies#":52,"Gross":300.5,"#1Picture":"The Twilight Saga: Eclipse"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75c9"},"Genre":"Pilot / Aircraft","Movies#":47,"Gross":198.5,"#1Picture":"Pearl Harbor"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ca"},"Genre":"Pirate","Movies#":25,"Gross":423.3,"#1Picture":"Dead Man's Chest"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75cb"},"Genre":"Political Campaign / Election","Movies#":34,"Gross":86.9,"#1Picture":"The Campaign"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75cc"},"Genre":"Political Satire","Movies#":36,"Gross":119.2,"#1Picture":"Fahrenheit 9/11"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75cd"},"Genre":"Pop Star Debuts","Movies#":60,"Gross":213.3,"#1Picture":"Goldmember"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ce"},"Genre":"Post-Apocalypse","Movies#":56,"Gross":424.7,"#1Picture":"Catching Fire"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75cf"},"Genre":"Pregnancy","Movies#":34,"Gross":281.3,"#1Picture":"Breaking Dawn Part 1"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d0"},"Genre":"Prequel","Movies#":46,"Gross":532.2,"#1Picture":"Rogue One"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d1"},"Genre":"President","Movies#":42,"Gross":306.2,"#1Picture":"Independence Day"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d2"},"Genre":"Puppet / Puppetry","Movies#":19,"Gross":88.6,"#1Picture":"The Muppets"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d3"},"Genre":"Rap / Rapper","Movies#":37,"Gross":161.2,"#1Picture":"Straight Outta Compton"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d4"},"Genre":"Reality TV","Movies#":23,"Gross":408.0,"#1Picture":"The Hunger Games"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d5"},"Genre":"Remake - Asian","Movies#":24,"Gross":200.7,"#1Picture":"Godzilla"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d6"},"Genre":"Remake - British","Movies#":6,"Gross":106.1,"#1Picture":"The Italian Job"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d7"},"Genre":"Remake - Foreign Thrills","Movies#":43,"Gross":200.7,"#1Picture":"Godzilla"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d8"},"Genre":"Remake - French","Movies#":39,"Gross":167.8,"#1Picture":"Three Men and a Baby"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75d9"},"Genre":"Remake - Sequel to a Remake","Movies#":24,"Gross":202.0,"#1Picture":"Mummy Returns"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75da"},"Genre":"Revenge","Movies#":76,"Gross":363.1,"#1Picture":"Deadpool"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75db"},"Genre":"Romantic Comedy","Movies#":502,"Gross":241.4,"#1Picture":"My Big Fat Greek Wedding"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75dc"},"Genre":"Romantic Comedy - Fantasy","Movies#":25,"Gross":69.8,"#1Picture":"Splash"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75dd"},"Genre":"Romantic Drama","Movies#":211,"Gross":659.4,"#1Picture":"Titanic"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75de"},"Genre":"Romantic Fantasy","Movies#":54,"Gross":504.0,"#1Picture":"Beauty and the Beast"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75df"},"Genre":"School - Prep / Boarding / Catholic","Movies#":38,"Gross":317.9,"#1Picture":"Harry Potter / Sorcerer's Stone"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e0"},"Genre":"Sci-Fi - Adventure","Movies#":94,"Gross":936.7,"#1Picture":"Star Wars: The Force Awakens"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e1"},"Genre":"Sci-Fi - Alien Invasion","Movies#":57,"Gross":623.4,"#1Picture":"The Avengers"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e2"},"Genre":"Sci-Fi - Based on Book","Movies#":72,"Gross":424.7,"#1Picture":"Catching Fire"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e3"},"Genre":"Sci-Fi - Satire","Movies#":11,"Gross":125.6,"#1Picture":"Truman Show"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e4"},"Genre":"Sci-Fi Chase","Movies#":43,"Gross":205.9,"#1Picture":"Terminator 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e5"},"Genre":"Sci-Fi Comedy","Movies#":74,"Gross":250.7,"#1Picture":"Men in Black"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e6"},"Genre":"Sci-Fi Horror","Movies#":67,"Gross":256.4,"#1Picture":"I Am Legend"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e7"},"Genre":"Sci-Fi Remake","Movies#":26,"Gross":256.4,"#1Picture":"I Am Legend"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e8"},"Genre":"Shark","Movies#":13,"Gross":380.8,"#1Picture":"Finding Nemo"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75e9"},"Genre":"Slacker / Stoner","Movies#":64,"Gross":218.8,"#1Picture":"Ted"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ea"},"Genre":"Sports - Baseball","Movies#":48,"Gross":107.5,"#1Picture":"League of Their Own"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75eb"},"Genre":"Sports - Basketball","Movies#":47,"Gross":90.4,"#1Picture":"Space Jam"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ec"},"Genre":"Sports - Boxing","Movies#":55,"Gross":127.9,"#1Picture":"Rocky IV"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ed"},"Genre":"Sports - Coach","Movies#":31,"Gross":115.7,"#1Picture":"Remember the Titans"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ee"},"Genre":"Sports - Extreme","Movies#":49,"Gross":142.1,"#1Picture":"XXX"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ef"},"Genre":"Sports - Football","Movies#":45,"Gross":256.0,"#1Picture":"The Blind Side"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f0"},"Genre":"Sports - Football (Featured)","Movies#":14,"Gross":330.3,"#1Picture":"Forrest Gump"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f1"},"Genre":"Sports - Golf","Movies#":11,"Gross":53.9,"#1Picture":"Tin Cup"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f2"},"Genre":"Sports - Hockey","Movies#":16,"Gross":64.4,"#1Picture":"Miracle"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f3"},"Genre":"Sports - Olympics","Movies#":17,"Gross":118.6,"#1Picture":"Blades of Glory"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f4"},"Genre":"Sports - Period","Movies#":46,"Gross":120.3,"#1Picture":"Seabiscuit"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f5"},"Genre":"Sports - Soccer","Movies#":25,"Gross":52.8,"#1Picture":"Kicking and Screaming"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f6"},"Genre":"Sports - Surfing","Movies#":26,"Gross":58.9,"#1Picture":"Surf's Up"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f7"},"Genre":"Sports Comedy","Movies#":77,"Gross":161.5,"#1Picture":"Waterboy"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f8"},"Genre":"Sports Drama","Movies#":150,"Gross":256.0,"#1Picture":"The Blind Side"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75f9"},"Genre":"Spy","Movies#":125,"Gross":368.1,"#1Picture":"Despicable Me 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75fa"},"Genre":"Stand-Up Comedy Concert","Movies#":25,"Gross":50.5,"#1Picture":"Eddie Murphy Raw"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75fb"},"Genre":"Submarine","Movies#":10,"Gross":122.0,"#1Picture":"Hunt for Red October"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75fc"},"Genre":"Summer Girl Power","Movies#":28,"Gross":110.2,"#1Picture":"Freaky Friday"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75fd"},"Genre":"Sundance 2011","Movies#":26,"Gross":24.8,"#1Picture":"Our Idiot Brother"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75fe"},"Genre":"Sundance 2012","Movies#":28,"Gross":12.8,"#1Picture":"Beasts of the Southern Wild"}
+{"_id":{"$oid":"5c982438e2939d06f5cb75ff"},"Genre":"Sundance 2013","Movies#":21,"Gross":24.5,"#1Picture":"Don Jon"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7600"},"Genre":"Sundance 2014","Movies#":38,"Gross":13.1,"#1Picture":"Whiplash"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7601"},"Genre":"Sundance 2015","Movies#":34,"Gross":38.3,"#1Picture":"Brooklyn"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7602"},"Genre":"Sundance 2016","Movies#":27,"Gross":47.7,"#1Picture":"Manchester by the Sea"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7603"},"Genre":"Sundance 2017","Movies#":22,"Gross":176.0,"#1Picture":"Get Out"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7604"},"Genre":"Sundance 2018","Movies#":73,"Gross":44.1,"#1Picture":"Hereditary"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7605"},"Genre":"Sundance 2019","Movies#":4,"Gross":21.9,"#1Picture":"Fighting with My Family"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7606"},"Genre":"Superhero","Movies#":132,"Gross":700.1,"#1Picture":"Black Panther"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7607"},"Genre":"Superhero - Comedy","Movies#":20,"Gross":608.6,"#1Picture":"Incredibles 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7608"},"Genre":"Superhero - Origin","Movies#":46,"Gross":700.1,"#1Picture":"Black Panther"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7609"},"Genre":"Swashbuckler","Movies#":22,"Gross":423.3,"#1Picture":"Dead Man's Chest"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760a"},"Genre":"Sword and Sorcery","Movies#":36,"Gross":377.8,"#1Picture":"Return of the King"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760b"},"Genre":"Taxi / Taxi Driver","Movies#":12,"Gross":101.0,"#1Picture":"Collateral"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760c"},"Genre":"Teacher - Inspirational","Movies#":24,"Gross":95.9,"#1Picture":"Dead Poets Society"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760d"},"Genre":"Teacher - Other Movies with Teachers as Main Roles","Movies#":47,"Gross":176.6,"#1Picture":"The Karate Kid"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760e"},"Genre":"Teen Romance","Movies#":63,"Gross":300.5,"#1Picture":"The Twilight Saga: Eclipse"}
+{"_id":{"$oid":"5c982438e2939d06f5cb760f"},"Genre":"Terrorism","Movies#":53,"Gross":173.0,"#1Picture":"Air Force One"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7610"},"Genre":"Thanksgiving","Movies#":20,"Gross":74.2,"#1Picture":"Jack and Jill"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7611"},"Genre":"That '70s Movie","Movies#":80,"Gross":233.9,"#1Picture":"X-Men: Days of Future Past"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7612"},"Genre":"Thriller - Erotic","Movies#":56,"Gross":156.6,"#1Picture":"Fatal Attraction"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7613"},"Genre":"Thriller - On the Run","Movies#":29,"Gross":259.8,"#1Picture":"Captain America 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7614"},"Genre":"Thriller - Political","Movies#":66,"Gross":259.8,"#1Picture":"Captain America 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7615"},"Genre":"Thriller - Psycho / Stalker / Blank from Hell","Movies#":38,"Gross":156.6,"#1Picture":"Fatal Attraction"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7616"},"Genre":"Thriller - Serial Killer","Movies#":63,"Gross":165.1,"#1Picture":"Hannibal"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7617"},"Genre":"Time Travel","Movies#":62,"Gross":257.7,"#1Picture":"Star Trek"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7618"},"Genre":"Toy Adaptation","Movies#":29,"Gross":402.1,"#1Picture":"Transformers 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7619"},"Genre":"Toys Come to Life","Movies#":14,"Gross":415.0,"#1Picture":"Toy Story 3"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761a"},"Genre":"Travelogue - Boston","Movies#":25,"Gross":218.8,"#1Picture":"Ted"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761b"},"Genre":"Travelogue - Hawaii","Movies#":16,"Gross":248.8,"#1Picture":"Moana"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761c"},"Genre":"Travelogue - Italy","Movies#":18,"Gross":81.3,"#1Picture":"Talented Mr. Ripley"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761d"},"Genre":"Travelogue - Japan","Movies#":18,"Gross":132.6,"#1Picture":"The Wolverine"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761e"},"Genre":"Travelogue - Las Vegas","Movies#":23,"Gross":277.3,"#1Picture":"The Hangover"}
+{"_id":{"$oid":"5c982438e2939d06f5cb761f"},"Genre":"Travelogue - Mexico","Movies#":23,"Gross":150.4,"#1Picture":"We're the Millers"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7620"},"Genre":"Travelogue - Middle East","Movies#":44,"Gross":402.1,"#1Picture":"Transformers 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7621"},"Genre":"Travelogue - New Jersey","Movies#":25,"Gross":44.9,"#1Picture":"Cop Land"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7622"},"Genre":"Travelogue - New Orleans","Movies#":27,"Gross":164.6,"#1Picture":"Catch Me If You Can"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7623"},"Genre":"Travelogue - Paris","Movies#":51,"Gross":217.5,"#1Picture":"The Da Vinci Code"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7624"},"Genre":"Treasure Hunt","Movies#":26,"Gross":423.3,"#1Picture":"Dead Man's Chest"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7625"},"Genre":"True Crime","Movies#":57,"Gross":164.6,"#1Picture":"Catch Me If You Can"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7626"},"Genre":"TV Adaptation (Live Action)","Movies#":95,"Gross":257.7,"#1Picture":"Star Trek"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7627"},"Genre":"TV Cartoon (Live Action)","Movies#":35,"Gross":402.1,"#1Picture":"Transformers 2"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7628"},"Genre":"TV Kids Show (Live Action)","Movies#":18,"Gross":88.6,"#1Picture":"The Muppets"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7629"},"Genre":"Twentysomething","Movies#":30,"Gross":38.7,"#1Picture":"About Last Night..."}
+{"_id":{"$oid":"5c982438e2939d06f5cb762a"},"Genre":"Twins","Movies#":27,"Gross":111.9,"#1Picture":"Twins"}
+{"_id":{"$oid":"5c982438e2939d06f5cb762b"},"Genre":"Underwater","Movies#":17,"Gross":486.3,"#1Picture":"Finding Dory"}
+{"_id":{"$oid":"5c982438e2939d06f5cb762c"},"Genre":"Vampire","Movies#":82,"Gross":300.5,"#1Picture":"The Twilight Saga: Eclipse"}
+{"_id":{"$oid":"5c982438e2939d06f5cb762d"},"Genre":"Video Game Adaptation","Movies#":43,"Gross":131.2,"#1Picture":"Tomb Raider"}
+{"_id":{"$oid":"5c982438e2939d06f5cb762e"},"Genre":"Virtual Reality","Movies#":20,"Gross":281.6,"#1Picture":"The Matrix Reloaded"}
+{"_id":{"$oid":"5c982438e2939d06f5cb762f"},"Genre":"War - World War 2","Movies#":84,"Gross":216.5,"#1Picture":"Saving Private Ryan"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7630"},"Genre":"War - World War I","Movies#":16,"Gross":412.6,"#1Picture":"Wonder Woman"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7631"},"Genre":"Wedding","Movies#":58,"Gross":241.4,"#1Picture":"My Big Fat Greek Wedding"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7632"},"Genre":"Werewolf","Movies#":29,"Gross":300.5,"#1Picture":"The Twilight Saga: Eclipse"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7633"},"Genre":"Western","Movies#":102,"Gross":184.2,"#1Picture":"Dances with Wolves"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7634"},"Genre":"Witch","Movies#":19,"Gross":140.5,"#1Picture":"Blair Witch Project"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7635"},"Genre":"Womanizer / Cad / Player","Movies#":29,"Gross":209.3,"#1Picture":"Wedding Crashers"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7636"},"Genre":"Young-Adult Book Adaptations","Movies#":77,"Gross":424.7,"#1Picture":"Catching Fire"}
+{"_id":{"$oid":"5c982438e2939d06f5cb7637"},"Genre":"Zombie","Movies#":65,"Gross":202.4,"#1Picture":"World War Z"}

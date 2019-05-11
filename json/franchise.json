@@ -1,0 +1,280 @@
+{"_id":{"$oid":"5c98697de2939d0a8c645a58"},"Movies#":4,"MoviesAvg($)":10.4,"TotalGross($)":41.6,"#1Picture":"3 Ninjas","Franchise":"3 Ninjas","Gross($)":29.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a59"},"Movies#":2,"MoviesAvg($)":158.6,"TotalGross($)":317.2,"#1Picture":"300","Franchise":"300","Gross($)":210.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5a"},"Movies#":1,"MoviesAvg($)":44.3,"TotalGross($)":44.3,"#1Picture":"47 Meters Down","Franchise":"47 Meters Down","Gross($)":44.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5b"},"Movies#":1,"MoviesAvg($)":102.8,"TotalGross($)":102.8,"#1Picture":"Murder on the Orient Express (2017)","Franchise":"Agatha Christie","Gross($)":102.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5c"},"Movies#":3,"MoviesAvg($)":53.5,"TotalGross($)":160.5,"#1Picture":"Along Came a Spider","Franchise":"Alex Cross","Gross($)":74.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5d"},"Movies#":2,"MoviesAvg($)":205.6,"TotalGross($)":411.2,"#1Picture":"Alice in Wonderland","Franchise":"Alice in Wonderland","Gross($)":334.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5e"},"Movies#":8,"MoviesAvg($)":73.8,"TotalGross($)":590.2,"#1Picture":"Prometheus","Franchise":"Alien","Gross($)":126.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a5f"},"Movies#":5,"MoviesAvg($)":132.5,"TotalGross($)":662.7,"#1Picture":"Alvin and the Chipmunks 2","Franchise":"Alvin and the Chipmunks","Gross($)":219.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a60"},"Movies#":4,"MoviesAvg($)":3.9,"TotalGross($)":15.8,"#1Picture":"American Ninja","Franchise":"American Ninja","Gross($)":10.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a61"},"Movies#":4,"MoviesAvg($)":102.3,"TotalGross($)":409.2,"#1Picture":"American Pie 2","Franchise":"American Pie","Gross($)":145.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a62"},"Movies#":5,"MoviesAvg($)":34.1,"TotalGross($)":170.5,"#1Picture":"The Amityville Horror","Franchise":"Amityville","Gross($)":86.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645a63"},"Movies#":1,"MoviesAvg($)":107.5,"TotalGross($)":107.5,"#1Picture":"Angry Birds","Franchise":"Angry Birds","Gross($)":107.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a64"},"Movies#":2,"MoviesAvg($)":93.2,"TotalGross($)":186.4,"#1Picture":"Annabelle 2","Franchise":"Annabelle","Gross($)":102.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a65"},"Movies#":2,"MoviesAvg($)":198.4,"TotalGross($)":396.9,"#1Picture":"Ant-Man and the Wasp","Franchise":"Ant-Man","Gross($)":216.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a66"},"Movies#":1,"MoviesAvg($)":334.5,"TotalGross($)":334.5,"#1Picture":"Aquaman","Franchise":"Aquaman","Gross($)":334.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a67"},"Movies#":3,"MoviesAvg($)":47.7,"TotalGross($)":143.2,"#1Picture":"Arthur","Franchise":"Arthur","Gross($)":95.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a68"},"Movies#":3,"MoviesAvg($)":2.9,"TotalGross($)":8.8,"#1Picture":"Atlas Shrugged: Part I","Franchise":"Atlas Shrugged Franchise","Gross($)":4.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a69"},"Movies#":3,"MoviesAvg($)":157.7,"TotalGross($)":473.2,"#1Picture":"Goldmember","Franchise":"Austin Powers","Gross($)":213.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6a"},"Movies#":1,"MoviesAvg($)":749.8,"TotalGross($)":749.8,"#1Picture":"Avatar","Franchise":"Avatar","Gross($)":749.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6b"},"Movies#":3,"MoviesAvg($)":587.1,"TotalGross($)":1761.2,"#1Picture":"Avengers: Infinity War","Franchise":"Avengers","Gross($)":678.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6c"},"Movies#":3,"MoviesAvg($)":138.9,"TotalGross($)":416.8,"#1Picture":"Back to the Future","Franchise":"Back to the Future","Gross($)":210.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6d"},"Movies#":2,"MoviesAvg($)":102.2,"TotalGross($)":204.4,"#1Picture":"Bad Boys II","Franchise":"Bad Boys","Gross($)":138.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6e"},"Movies#":2,"MoviesAvg($)":92.7,"TotalGross($)":185.4,"#1Picture":"Bad Moms","Franchise":"Bad Moms","Gross($)":113.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a6f"},"Movies#":4,"MoviesAvg($)":22.8,"TotalGross($)":91.3,"#1Picture":"Bad News Bears","Franchise":"The Bad News Bears","Gross($)":32.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645a70"},"Movies#":4,"MoviesAvg($)":57.8,"TotalGross($)":231.3,"#1Picture":"Barbershop","Franchise":"Barbershop","Gross($)":75.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a71"},"Movies#":11,"MoviesAvg($)":218.9,"TotalGross($)":2407.7,"#1Picture":"The Dark Knight","Franchise":"Batman","Gross($)":533.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a72"},"Movies#":3,"MoviesAvg($)":6.5,"TotalGross($)":19.5,"#1Picture":"Before Midnight","Franchise":"Before","Gross($)":8.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a73"},"Movies#":5,"MoviesAvg($)":17.9,"TotalGross($)":89.6,"#1Picture":"Benji","Franchise":"Benji","Gross($)":39.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a74"},"Movies#":2,"MoviesAvg($)":52.3,"TotalGross($)":104.6,"#1Picture":"The Best Man Holiday","Franchise":"Best Man","Gross($)":70.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a75"},"Movies#":3,"MoviesAvg($)":143.7,"TotalGross($)":431.0,"#1Picture":"Beverly Hills Cop","Franchise":"Beverly Hills Cop","Gross($)":234.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a76"},"Movies#":3,"MoviesAvg($)":75.2,"TotalGross($)":225.6,"#1Picture":"Big Momma's House","Franchise":"Big Momma","Gross($)":117.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a77"},"Movies#":3,"MoviesAvg($)":68.3,"TotalGross($)":204.8,"#1Picture":"Blade II","Franchise":"Blade","Gross($)":82.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a78"},"Movies#":2,"MoviesAvg($)":59.8,"TotalGross($)":119.6,"#1Picture":"Blade Runner 2049","Franchise":"Blade Runner","Gross($)":92.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a79"},"Movies#":3,"MoviesAvg($)":62.6,"TotalGross($)":187.8,"#1Picture":"Blair Witch Project","Franchise":"Blair Witch","Gross($)":140.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7a"},"Movies#":5,"MoviesAvg($)":160.2,"TotalGross($)":801.0,"#1Picture":"The Bourne Ultimatum","Franchise":"Bourne","Gross($)":227.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7b"},"Movies#":1,"MoviesAvg($)":35.8,"TotalGross($)":35.8,"#1Picture":"The Boy (2016)","Franchise":"The Boy","Gross($)":35.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7c"},"Movies#":3,"MoviesAvg($)":45.3,"TotalGross($)":136.0,"#1Picture":"Bridget Jones's Diary","Franchise":"Bridget Jones's Trilogy","Gross($)":71.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7d"},"Movies#":3,"MoviesAvg($)":281.5,"TotalGross($)":844.5,"#1Picture":"Captain America 3","Franchise":"Captain America","Gross($)":408.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7e"},"Movies#":3,"MoviesAvg($)":11.4,"TotalGross($)":34.1,"#1Picture":"The Care Bears Movie","Franchise":"Care Bears","Gross($)":22.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645a7f"},"Movies#":3,"MoviesAvg($)":196.1,"TotalGross($)":588.4,"#1Picture":"Cars","Franchise":"Cars","Gross($)":244.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a80"},"Movies#":5,"MoviesAvg($)":25.2,"TotalGross($)":126.2,"#1Picture":"Child's Play","Franchise":"Child's Play","Gross($)":33.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a81"},"Movies#":3,"MoviesAvg($)":179.2,"TotalGross($)":537.7,"#1Picture":"The Chronicles of Narnia","Franchise":"The Chronicles of Narnia","Gross($)":291.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645a82"},"Movies#":2,"MoviesAvg($)":122.3,"TotalGross($)":244.7,"#1Picture":"Cloudy with a Chance of Meatballs","Franchise":"Cloudy with a Chance of Meatballs","Gross($)":124.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645a83"},"Movies#":2,"MoviesAvg($)":76.1,"TotalGross($)":152.1,"#1Picture":"Cloverfield","Franchise":"Cloverfield","Gross($)":80.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a84"},"Movies#":3,"MoviesAvg($)":30.6,"TotalGross($)":91.9,"#1Picture":"Conan the Barbarian","Franchise":"Conan","Gross($)":39.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a85"},"Movies#":5,"MoviesAvg($)":108.7,"TotalGross($)":543.7,"#1Picture":"The Conjuring","Franchise":"The Conjuring","Gross($)":137.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645a86"},"Movies#":2,"MoviesAvg($)":112.7,"TotalGross($)":225.5,"#1Picture":"Creed II","Franchise":"Creed","Gross($)":115.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645a87"},"Movies#":3,"MoviesAvg($)":103.2,"TotalGross($)":309.7,"#1Picture":"Crocodile Dundee","Franchise":"Crocodile Dundee","Gross($)":174.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645a88"},"Movies#":2,"MoviesAvg($)":127.2,"TotalGross($)":254.4,"#1Picture":"Daddy's Home","Franchise":"Daddy's Home","Gross($)":150.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645a89"},"Movies#":3,"MoviesAvg($)":395.6,"TotalGross($)":1186.8,"#1Picture":"The Dark Knight","Franchise":"The Dark Knight Trilogy","Gross($)":533.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8a"},"Movies#":1,"MoviesAvg($)":80.2,"TotalGross($)":80.2,"#1Picture":"The Mummy (2017)","Franchise":"Dark Universe","Gross($)":80.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8b"},"Movies#":6,"MoviesAvg($)":320.4,"TotalGross($)":1922.6,"#1Picture":"Wonder Woman","Franchise":"DC Extended Universe","Gross($)":412.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8c"},"Movies#":2,"MoviesAvg($)":340.8,"TotalGross($)":681.6,"#1Picture":"Deadpool","Franchise":"Deadpool","Gross($)":363.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8d"},"Movies#":4,"MoviesAvg($)":305.1,"TotalGross($)":1220.2,"#1Picture":"Despicable Me 2","Franchise":"Despicable Me","Gross($)":368.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8e"},"Movies#":3,"MoviesAvg($)":3.6,"TotalGross($)":10.9,"#1Picture":"Dhoom 3","Franchise":"Dhoom","Gross($)":8.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a8f"},"Movies#":4,"MoviesAvg($)":46.6,"TotalGross($)":186.4,"#1Picture":"Diary of a Wimpy Kid","Franchise":"Diary of a Wimpy Kid","Gross($)":64.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a90"},"Movies#":5,"MoviesAvg($)":100.5,"TotalGross($)":502.4,"#1Picture":"Live Free or Die Hard","Franchise":"Die Hard","Gross($)":134.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a91"},"Movies#":5,"MoviesAvg($)":45.5,"TotalGross($)":227.5,"#1Picture":"Sudden Impact","Franchise":"Dirty Harry","Gross($)":67.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a92"},"Movies#":9,"MoviesAvg($)":241.0,"TotalGross($)":2169.1,"#1Picture":"Beauty and the Beast","Franchise":"Disney Live Action Reimaginings","Gross($)":504.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a93"},"Movies#":3,"MoviesAvg($)":115.8,"TotalGross($)":347.3,"#1Picture":"Divergent","Franchise":"Divergent","Gross($)":150.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645a94"},"Movies#":2,"MoviesAvg($)":57.2,"TotalGross($)":114.3,"#1Picture":"Dolphin Tale","Franchise":"Dolphin Tale","Gross($)":72.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645a95"},"Movies#":2,"MoviesAvg($)":58.7,"TotalGross($)":117.4,"#1Picture":"Girl with the Dragon Tattoo","Franchise":"Dragon Tattoo","Gross($)":102.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645a96"},"Movies#":3,"MoviesAvg($)":79.9,"TotalGross($)":239.7,"#1Picture":"Dumb and Dumber","Franchise":"Dumb and Dumber","Gross($)":127.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a97"},"Movies#":2,"MoviesAvg($)":16.0,"TotalGross($)":32.1,"#1Picture":"Earth (2009)","Franchise":"Earth","Gross($)":32.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a98"},"Movies#":3,"MoviesAvg($)":27.9,"TotalGross($)":83.8,"#1Picture":"Once Upon a Time in Mexico","Franchise":"El Mariachi","Gross($)":56.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645a99"},"Movies#":2,"MoviesAvg($)":101.8,"TotalGross($)":203.6,"#1Picture":"The Equalizer 2","Franchise":"Equalizer","Gross($)":102.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9a"},"Movies#":5,"MoviesAvg($)":18.5,"TotalGross($)":92.3,"#1Picture":"Ernest Saves Christmas","Franchise":"Ernest","Gross($)":28.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9b"},"Movies#":1,"MoviesAvg($)":56.6,"TotalGross($)":56.6,"#1Picture":"Escape Room","Franchise":"Escape Room","Gross($)":56.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9c"},"Movies#":3,"MoviesAvg($)":0.139,"TotalGross($)":0.416,"#1Picture":"Evangelion: 3.0 You Can (Not) Redo","Franchise":"Evangelion","Gross($)":0.175}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9d"},"Movies#":4,"MoviesAvg($)":18.5,"TotalGross($)":74.1,"#1Picture":"Evil Dead (2013)","Franchise":"Evil Dead","Gross($)":54.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9e"},"Movies#":5,"MoviesAvg($)":58.4,"TotalGross($)":291.9,"#1Picture":"The Exorcist","Franchise":"The Exorcist","Gross($)":193.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645a9f"},"Movies#":3,"MoviesAvg($)":75.8,"TotalGross($)":227.4,"#1Picture":"The Expendables","Franchise":"The Expendables","Gross($)":103.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa0"},"Movies#":2,"MoviesAvg($)":80.7,"TotalGross($)":161.4,"#1Picture":"Olympus Has Fallen","Franchise":"Fallen","Gross($)":98.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa1"},"Movies#":2,"MoviesAvg($)":196.8,"TotalGross($)":393.6,"#1Picture":"Fantastic Beasts and Where To Find Them","Franchise":"Fantastic Beasts","Gross($)":234.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa2"},"Movies#":3,"MoviesAvg($)":114.2,"TotalGross($)":342.7,"#1Picture":"Fantastic Four (2005)","Franchise":"Fantastic Four","Gross($)":154.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa3"},"Movies#":8,"MoviesAvg($)":189.6,"TotalGross($)":1516.8,"#1Picture":"Furious 7","Franchise":"The Fast and the Furious","Gross($)":353.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa4"},"Movies#":3,"MoviesAvg($)":127.1,"TotalGross($)":381.2,"#1Picture":"Fifty Shades of Grey","Franchise":"Fifty Shades","Gross($)":166.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa5"},"Movies#":5,"MoviesAvg($)":52.7,"TotalGross($)":263.5,"#1Picture":"The Final Destination","Franchise":"Final Destination","Gross($)":66.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa6"},"Movies#":2,"MoviesAvg($)":413.0,"TotalGross($)":826.0,"#1Picture":"Finding Dory","Franchise":"Finding Nemo","Gross($)":486.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa7"},"Movies#":3,"MoviesAvg($)":198.0,"TotalGross($)":593.9,"#1Picture":"Meet the Fockers","Franchise":"Fockers","Gross($)":279.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa8"},"Movies#":3,"MoviesAvg($)":37.1,"TotalGross($)":111.2,"#1Picture":"Free Willy","Franchise":"Free Willy","Gross($)":77.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645aa9"},"Movies#":3,"MoviesAvg($)":39.3,"TotalGross($)":118.0,"#1Picture":"Next Friday","Franchise":"Friday","Gross($)":57.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645aaa"},"Movies#":12,"MoviesAvg($)":31.7,"TotalGross($)":380.6,"#1Picture":"Freddy Vs. Jason","Franchise":"Friday the 13th","Gross($)":82.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645aab"},"Movies#":3,"MoviesAvg($)":15.4,"TotalGross($)":46.2,"#1Picture":"Fright Night","Franchise":"Fright Night","Gross($)":24.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645aac"},"Movies#":2,"MoviesAvg($)":136.4,"TotalGross($)":272.7,"#1Picture":"G.I. Joe: The Rise of Cobra","Franchise":"G.I. Joe","Gross($)":150.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645aad"},"Movies#":3,"MoviesAvg($)":156.7,"TotalGross($)":470.1,"#1Picture":"Ghostbusters","Franchise":"Ghostbusters","Gross($)":229.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645aae"},"Movies#":3,"MoviesAvg($)":29.1,"TotalGross($)":87.3,"#1Picture":"God's Not Dead","Franchise":"God's Not Dead","Gross($)":60.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645aaf"},"Movies#":3,"MoviesAvg($)":82.6,"TotalGross($)":247.9,"#1Picture":"The Godfather","Franchise":"The Godfather","Gross($)":133.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab0"},"Movies#":6,"MoviesAvg($)":58.9,"TotalGross($)":353.5,"#1Picture":"Godzilla","Franchise":"Godzilla","Gross($)":200.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab1"},"Movies#":2,"MoviesAvg($)":184.4,"TotalGross($)":368.7,"#1Picture":"Godzilla","Franchise":"Godzilla and Kong Universe","Gross($)":200.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab2"},"Movies#":2,"MoviesAvg($)":63.4,"TotalGross($)":126.8,"#1Picture":"Goosebumps","Franchise":"Goosebumps","Gross($)":80.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab3"},"Movies#":2,"MoviesAvg($)":147.8,"TotalGross($)":295.7,"#1Picture":"Grown Ups","Franchise":"Grown Ups","Gross($)":162.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab4"},"Movies#":2,"MoviesAvg($)":361.5,"TotalGross($)":723.0,"#1Picture":"Guardians of the Galaxy 2","Franchise":"Guardians of the Galaxy","Gross($)":389.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab5"},"Movies#":11,"MoviesAvg($)":42.5,"TotalGross($)":467.9,"#1Picture":"Halloween (2018)","Franchise":"Halloween","Gross($)":159.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab6"},"Movies#":3,"MoviesAvg($)":214.7,"TotalGross($)":644.0,"#1Picture":"The Hangover","Franchise":"The Hangover","Gross($)":277.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab7"},"Movies#":5,"MoviesAvg($)":85.1,"TotalGross($)":425.3,"#1Picture":"Hannibal","Franchise":"Hannibal Lecter","Gross($)":165.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab8"},"Movies#":2,"MoviesAvg($)":41.8,"TotalGross($)":83.5,"#1Picture":"Happy Death Day","Franchise":"Happy Death Day","Gross($)":55.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ab9"},"Movies#":3,"MoviesAvg($)":30.5,"TotalGross($)":91.4,"#1Picture":"Harold and Kumar Escape from Guantanamo Bay","Franchise":"Harold and Kumar","Gross($)":38.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645aba"},"Movies#":9,"MoviesAvg($)":265.8,"TotalGross($)":2391.8,"#1Picture":"Harry Potter / Deathly Hallows (P2)","Franchise":"Harry Potter","Gross($)":381.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645abb"},"Movies#":2,"MoviesAvg($)":28.7,"TotalGross($)":57.4,"#1Picture":"A Haunted House","Franchise":"A Haunted House","Gross($)":40.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645abc"},"Movies#":2,"MoviesAvg($)":67.8,"TotalGross($)":135.6,"#1Picture":"Hellboy II","Franchise":"Hellboy","Gross($)":76.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645abd"},"Movies#":4,"MoviesAvg($)":12.1,"TotalGross($)":48.5,"#1Picture":"Hellraiser","Franchise":"Hellraiser","Gross($)":14.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645abe"},"Movies#":5,"MoviesAvg($)":40.1,"TotalGross($)":200.5,"#1Picture":"Herbie: Fully Loaded","Franchise":"Herbie the Love Bug","Gross($)":66.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645abf"},"Movies#":4,"MoviesAvg($)":11.6,"TotalGross($)":46.6,"#1Picture":"Highlander 2","Franchise":"Highlander","Gross($)":15.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac0"},"Movies#":3,"MoviesAvg($)":272.2,"TotalGross($)":816.5,"#1Picture":"The Hobbit","Franchise":"The Hobbit","Gross($)":303.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac1"},"Movies#":3,"MoviesAvg($)":163.4,"TotalGross($)":490.2,"#1Picture":"Home Alone","Franchise":"Home Alone","Gross($)":285.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac2"},"Movies#":2,"MoviesAvg($)":31.3,"TotalGross($)":62.6,"#1Picture":"Hot Tub Time Machine","Franchise":"Hot Tub Time Machine","Gross($)":50.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac3"},"Movies#":3,"MoviesAvg($)":161.8,"TotalGross($)":485.5,"#1Picture":"Hotel Transylvania 2","Franchise":"Hotel Transylvania","Gross($)":169.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac4"},"Movies#":3,"MoviesAvg($)":21.7,"TotalGross($)":65.1,"#1Picture":"House Party","Franchise":"House Party","Gross($)":26.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac5"},"Movies#":3,"MoviesAvg($)":180.1,"TotalGross($)":540.3,"#1Picture":"How to Train Your Dragon","Franchise":"How to Train Your Dragon","Gross($)":217.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac6"},"Movies#":4,"MoviesAvg($)":362.9,"TotalGross($)":1451.5,"#1Picture":"Catching Fire","Franchise":"The Hunger Games","Gross($)":424.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac7"},"Movies#":5,"MoviesAvg($)":158.7,"TotalGross($)":793.7,"#1Picture":"Ice Age 3","Franchise":"Ice Age","Gross($)":196.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac8"},"Movies#":2,"MoviesAvg($)":13.8,"TotalGross($)":27.6,"#1Picture":"An Inconvenient Truth","Franchise":"An Inconvenient Franchise","Gross($)":24.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ac9"},"Movies#":2,"MoviesAvg($)":435.0,"TotalGross($)":870.0,"#1Picture":"Incredibles 2","Franchise":"The Incredibles","Gross($)":608.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645aca"},"Movies#":2,"MoviesAvg($)":204.7,"TotalGross($)":409.3,"#1Picture":"Independence Day","Franchise":"Independence Day","Gross($)":306.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645acb"},"Movies#":4,"MoviesAvg($)":226.6,"TotalGross($)":906.4,"#1Picture":"Indiana Jones 4","Franchise":"Indiana Jones","Gross($)":317.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645acc"},"Movies#":4,"MoviesAvg($)":64.4,"TotalGross($)":257.6,"#1Picture":"Insidious Chapter 2","Franchise":"Insidious","Gross($)":83.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645acd"},"Movies#":3,"MoviesAvg($)":0.974,"TotalGross($)":2.9,"#1Picture":"Ip Man 3","Franchise":"Ip Man Franchise","Gross($)":2.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645ace"},"Movies#":3,"MoviesAvg($)":12.4,"TotalGross($)":37.2,"#1Picture":"Iron Eagle","Franchise":"Iron Eagle","Gross($)":24.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645acf"},"Movies#":3,"MoviesAvg($)":346.6,"TotalGross($)":1039.9,"#1Picture":"Iron Man 3","Franchise":"Iron Man","Gross($)":409.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad0"},"Movies#":1,"MoviesAvg($)":327.5,"TotalGross($)":327.5,"#1Picture":"It","Franchise":"It","Gross($)":327.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad1"},"Movies#":11,"MoviesAvg($)":253.2,"TotalGross($)":2785.4,"#1Picture":"Harry Potter / Deathly Hallows (P2)","Franchise":"J.K. Rowling's Wizarding World","Gross($)":381.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad2"},"Movies#":2,"MoviesAvg($)":69.4,"TotalGross($)":138.8,"#1Picture":"Jack Reacher","Franchise":"Jack Reacher","Gross($)":80.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad3"},"Movies#":5,"MoviesAvg($)":99.4,"TotalGross($)":497.0,"#1Picture":"Clear and Present Danger","Franchise":"Jack Ryan","Gross($)":122.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad4"},"Movies#":4,"MoviesAvg($)":89.1,"TotalGross($)":356.3,"#1Picture":"Jackass 3-D","Franchise":"Jackass","Gross($)":117.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad5"},"Movies#":25,"MoviesAvg($)":84.5,"TotalGross($)":2112.9,"#1Picture":"Skyfall","Franchise":"James Bond","Gross($)":304.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad6"},"Movies#":4,"MoviesAvg($)":101.0,"TotalGross($)":404.0,"#1Picture":"Jaws","Franchise":"Jaws","Gross($)":260.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad7"},"Movies#":3,"MoviesAvg($)":25.3,"TotalGross($)":75.9,"#1Picture":"Jeepers Creepers","Franchise":"Jeepers Creepers","Gross($)":37.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad8"},"Movies#":2,"MoviesAvg($)":67.5,"TotalGross($)":135.1,"#1Picture":"John Wick 2","Franchise":"John Wick","Gross($)":92.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ad9"},"Movies#":3,"MoviesAvg($)":13.6,"TotalGross($)":40.8,"#1Picture":"Johnny English","Franchise":"Johnny English","Gross($)":28.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ada"},"Movies#":1,"MoviesAvg($)":404.5,"TotalGross($)":404.5,"#1Picture":"Jumanji (2017)","Franchise":"Jumanji","Gross($)":404.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645adb"},"Movies#":2,"MoviesAvg($)":165.1,"TotalGross($)":330.2,"#1Picture":"22 Jump Street","Franchise":"Jump Street","Gross($)":191.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645adc"},"Movies#":5,"MoviesAvg($)":367.5,"TotalGross($)":1837.3,"#1Picture":"Jurassic World","Franchise":"Jurassic Park","Gross($)":652.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645add"},"Movies#":5,"MoviesAvg($)":86.1,"TotalGross($)":430.4,"#1Picture":"The Karate Kid","Franchise":"The Karate Kid","Gross($)":176.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645ade"},"Movies#":2,"MoviesAvg($)":38.4,"TotalGross($)":76.9,"#1Picture":"Kick-Ass","Franchise":"Kick-Ass","Gross($)":48.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645adf"},"Movies#":4,"MoviesAvg($)":110.9,"TotalGross($)":443.5,"#1Picture":"King Kong","Franchise":"King Kong","Gross($)":218.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae0"},"Movies#":2,"MoviesAvg($)":114.2,"TotalGross($)":228.5,"#1Picture":"Kingsman","Franchise":"Kingsman Franchise","Gross($)":128.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae1"},"Movies#":3,"MoviesAvg($)":174.7,"TotalGross($)":524.2,"#1Picture":"Kung Fu Panda","Franchise":"Kung Fu Panda","Gross($)":215.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae2"},"Movies#":2,"MoviesAvg($)":28.1,"TotalGross($)":56.2,"#1Picture":"The Last Exorcism","Franchise":"The Last Exorcism","Gross($)":41.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae3"},"Movies#":2,"MoviesAvg($)":93.4,"TotalGross($)":186.7,"#1Picture":"Legally Blonde","Franchise":"Legally Blonde","Gross($)":96.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae4"},"Movies#":4,"MoviesAvg($)":149.0,"TotalGross($)":596.1,"#1Picture":"The LEGO Movie","Franchise":"LEGO","Gross($)":257.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae5"},"Movies#":4,"MoviesAvg($)":121.9,"TotalGross($)":487.6,"#1Picture":"Lethal Weapon 2","Franchise":"Lethal Weapon","Gross($)":147.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae6"},"Movies#":3,"MoviesAvg($)":66.1,"TotalGross($)":198.2,"#1Picture":"Look Who's Talking","Franchise":"Look Who's Talking","Gross($)":140.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae7"},"Movies#":4,"MoviesAvg($)":265.2,"TotalGross($)":1060.7,"#1Picture":"Return of the King","Franchise":"The Lord of the Rings","Gross($)":377.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae8"},"Movies#":2,"MoviesAvg($)":17.3,"TotalGross($)":34.6,"#1Picture":"Machete","Franchise":"Machete","Gross($)":26.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645ae9"},"Movies#":4,"MoviesAvg($)":55.6,"TotalGross($)":222.3,"#1Picture":"Mad Max: Fury Road","Franchise":"Mad Max","Gross($)":153.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645aea"},"Movies#":4,"MoviesAvg($)":168.3,"TotalGross($)":673.3,"#1Picture":"Madagascar 3","Franchise":"Madagascar","Gross($)":216.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645aeb"},"Movies#":9,"MoviesAvg($)":62.5,"TotalGross($)":562.3,"#1Picture":"Madea Goes to Jail","Franchise":"Madea","Gross($)":90.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645aec"},"Movies#":3,"MoviesAvg($)":28.0,"TotalGross($)":84.0,"#1Picture":"Major League","Franchise":"Major League","Gross($)":49.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645aed"},"Movies#":1,"MoviesAvg($)":241.4,"TotalGross($)":241.4,"#1Picture":"Maleficent","Franchise":"Maleficent","Gross($)":241.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645aee"},"Movies#":2,"MoviesAvg($)":132.4,"TotalGross($)":264.8,"#1Picture":"Mamma Mia!","Franchise":"Mamma Mia!","Gross($)":144.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645aef"},"Movies#":21,"MoviesAvg($)":342.4,"TotalGross($)":7191.0,"#1Picture":"Black Panther","Franchise":"Marvel Cinematic Universe","Gross($)":700.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645af0"},"Movies#":2,"MoviesAvg($)":101.4,"TotalGross($)":202.8,"#1Picture":"Mary Poppins Returns","Franchise":"Mary Poppins","Gross($)":171.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645af1"},"Movies#":3,"MoviesAvg($)":197.5,"TotalGross($)":592.4,"#1Picture":"The Matrix Reloaded","Franchise":"The Matrix","Gross($)":281.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645af2"},"Movies#":3,"MoviesAvg($)":80.7,"TotalGross($)":242.2,"#1Picture":"The Maze Runner","Franchise":"Maze Runner","Gross($)":102.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645af3"},"Movies#":3,"MoviesAvg($)":16.9,"TotalGross($)":50.6,"#1Picture":"Meatballs","Franchise":"Meatballs","Gross($)":43.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645af4"},"Movies#":2,"MoviesAvg($)":10.6,"TotalGross($)":21.2,"#1Picture":"Mechanic: Resurrection","Franchise":"Mechanic","Gross($)":21.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645af5"},"Movies#":3,"MoviesAvg($)":206.7,"TotalGross($)":620.1,"#1Picture":"Men in Black","Franchise":"Men in Black","Gross($)":250.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645af6"},"Movies#":6,"MoviesAvg($)":307.8,"TotalGross($)":1846.7,"#1Picture":"Return of the King","Franchise":"Middle Earth","Gross($)":377.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645af7"},"Movies#":3,"MoviesAvg($)":39.8,"TotalGross($)":119.3,"#1Picture":"The Mighty Ducks","Franchise":"The Mighty Ducks","Gross($)":50.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645af8"},"Movies#":3,"MoviesAvg($)":7.6,"TotalGross($)":22.9,"#1Picture":"The Girl with the Dragon Tattoo","Franchise":"Millennium","Gross($)":10.1}
+{"_id":{"$oid":"5c98697de2939d0a8c645af9"},"Movies#":1,"MoviesAvg($)":336.0,"TotalGross($)":336.0,"#1Picture":"Minions","Franchise":"Minions","Gross($)":336.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645afa"},"Movies#":3,"MoviesAvg($)":13.3,"TotalGross($)":39.8,"#1Picture":"Missing in Action","Franchise":"Missing in Action","Gross($)":22.8}
+{"_id":{"$oid":"5c98697de2939d0a8c645afb"},"Movies#":6,"MoviesAvg($)":192.5,"TotalGross($)":1155.0,"#1Picture":"Mission: Impossible 6","Franchise":"Mission: Impossible","Gross($)":220.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645afc"},"Movies#":2,"MoviesAvg($)":262.2,"TotalGross($)":524.4,"#1Picture":"Monsters University","Franchise":"Monsters, Inc.","Gross($)":268.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645afd"},"Movies#":4,"MoviesAvg($)":137.7,"TotalGross($)":550.9,"#1Picture":"Mummy Returns","Franchise":"The Mummy","Gross($)":202.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645afe"},"Movies#":8,"MoviesAvg($)":42.5,"TotalGross($)":340.0,"#1Picture":"The Muppets","Franchise":"The Muppets","Gross($)":88.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645aff"},"Movies#":2,"MoviesAvg($)":150.6,"TotalGross($)":301.1,"#1Picture":"My Big Fat Greek Wedding","Franchise":"My Big Fat Greek Wedding","Gross($)":241.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645b00"},"Movies#":3,"MoviesAvg($)":72.3,"TotalGross($)":216.8,"#1Picture":"Naked Gun 2 1/2","Franchise":"The Naked Gun","Gross($)":86.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645b01"},"Movies#":2,"MoviesAvg($)":196.5,"TotalGross($)":393.0,"#1Picture":"National Treasure: Book of Secrets","Franchise":"National Treasure","Gross($)":220.0}
+{"_id":{"$oid":"5c98697de2939d0a8c645b02"},"Movies#":2,"MoviesAvg($)":102.8,"TotalGross($)":205.6,"#1Picture":"Neighbors","Franchise":"Neighbors","Gross($)":150.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645b03"},"Movies#":2,"MoviesAvg($)":18.8,"TotalGross($)":37.5,"#1Picture":"The Neverending Story","Franchise":"The Neverending Story","Gross($)":20.2}
+{"_id":{"$oid":"5c98697de2939d0a8c645b04"},"Movies#":3,"MoviesAvg($)":180.6,"TotalGross($)":541.9,"#1Picture":"Night at the Museum","Franchise":"Night at the Museum","Gross($)":250.9}
+{"_id":{"$oid":"5c98697de2939d0a8c645b05"},"Movies#":9,"MoviesAvg($)":41.2,"TotalGross($)":370.5,"#1Picture":"Freddy Vs. Jason","Franchise":"Nightmare on Elm Street","Gross($)":82.6}
+{"_id":{"$oid":"5c98697de2939d0a8c645b06"},"Movies#":2,"MoviesAvg($)":9.1,"TotalGross($)":18.2,"#1Picture":"No Manches Frida","Franchise":"No Manches Frida","Gross($)":11.5}
+{"_id":{"$oid":"5c98697de2939d0a8c645b07"},"Movies#":2,"MoviesAvg($)":91.4,"TotalGross($)":182.8,"#1Picture":"Now You See Me","Franchise":"Now You See Me","Gross($)":117.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645b08"},"Movies#":2,"MoviesAvg($)":46.3,"TotalGross($)":92.6,"#1Picture":"The Nut Job","Franchise":"The Nut Job","Gross($)":64.3}
+{"_id":{"$oid":"5c98697de2939d0a8c645b09"},"Movies#":4,"MoviesAvg($)":141.6,"TotalGross($)":566.3,"#1Picture":"Ocean's Eleven","Franchise":"Ocean's 11","Gross($)":183.4}
+{"_id":{"$oid":"5c98697de2939d0a8c645b0a"},"Movies#":3,"MoviesAvg($)":25.9,"TotalGross($)":77.7,"#1Picture":"Oh, God!","Franchise":"Oh, God!","Gross($)":41.7}
+{"_id":{"$oid":"5c98697de2939d0a8c645b0b"},"Movies#":4,"MoviesAvg($)":40.6,"TotalGross($)":162.5,"#1Picture":"The Omen","Franchise":"The Omen","Gross($)":60.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b0c"},"Movies#":3,"MoviesAvg($)":1.6,"TotalGross($)":4.7,"#1Picture":"Ong Bak: The Thai Warrior","Franchise":"Ong Bak","Gross($)":4.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b0d"},"Movies#":2,"MoviesAvg($)":43.0,"TotalGross($)":86.0,"#1Picture":"Ouija","Franchise":"Ouija","Gross($)":50.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b0e"},"Movies#":2,"MoviesAvg($)":80.8,"TotalGross($)":161.7,"#1Picture":"Pacific Rim","Franchise":"Pacific Rim","Gross($)":101.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b0f"},"Movies#":2,"MoviesAvg($)":58.6,"TotalGross($)":117.2,"#1Picture":"Paddington","Franchise":"Paddington Bear","Gross($)":76.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b10"},"Movies#":6,"MoviesAvg($)":66.9,"TotalGross($)":401.4,"#1Picture":"Paranormal Activity","Franchise":"Paranormal Activity","Gross($)":107.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b11"},"Movies#":2,"MoviesAvg($)":108.7,"TotalGross($)":217.4,"#1Picture":"Paul Blart: Mall Cop","Franchise":"Paul Blart","Gross($)":146.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b12"},"Movies#":1,"MoviesAvg($)":115.3,"TotalGross($)":115.3,"#1Picture":"Peter Rabbit","Franchise":"Peter Rabbit","Gross($)":115.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b13"},"Movies#":10,"MoviesAvg($)":28.3,"TotalGross($)":282.6,"#1Picture":"The Pink Panther (2006)","Franchise":"The Pink Panther","Gross($)":82.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b14"},"Movies#":5,"MoviesAvg($)":290.4,"TotalGross($)":1451.8,"#1Picture":"Dead Man's Chest","Franchise":"Pirates of the Caribbean","Gross($)":423.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b15"},"Movies#":3,"MoviesAvg($)":118.1,"TotalGross($)":354.2,"#1Picture":"Pitch Perfect 2","Franchise":"Pitch Perfect Trilogy","Gross($)":184.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b16"},"Movies#":2,"MoviesAvg($)":74.7,"TotalGross($)":149.5,"#1Picture":"Planes","Franchise":"Planes","Gross($)":90.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b17"},"Movies#":9,"MoviesAvg($)":88.2,"TotalGross($)":794.0,"#1Picture":"Dawn of the Planet of the Apes","Franchise":"Planet of the Apes","Gross($)":208.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b18"},"Movies#":3,"MoviesAvg($)":177.4,"TotalGross($)":532.2,"#1Picture":"Dawn of the Planet of the Apes","Franchise":"Planet of the Apes (2011-2017)","Gross($)":208.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b19"},"Movies#":5,"MoviesAvg($)":29.8,"TotalGross($)":149.0,"#1Picture":"Pokemon 1","Franchise":"Pokemon","Gross($)":85.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1a"},"Movies#":7,"MoviesAvg($)":34.2,"TotalGross($)":239.6,"#1Picture":"Police Academy","Franchise":"Police Academy","Gross($)":81.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1b"},"Movies#":4,"MoviesAvg($)":44.8,"TotalGross($)":179.1,"#1Picture":"Poltergeist","Franchise":"Poltergeist","Gross($)":76.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1c"},"Movies#":3,"MoviesAvg($)":53.3,"TotalGross($)":159.8,"#1Picture":"Porky's","Franchise":"Porky's","Gross($)":105.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1d"},"Movies#":3,"MoviesAvg($)":44.0,"TotalGross($)":131.9,"#1Picture":"Power Rangers","Franchise":"Power Rangers","Gross($)":85.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1e"},"Movies#":6,"MoviesAvg($)":52.6,"TotalGross($)":315.5,"#1Picture":"Alien Vs. Predator","Franchise":"Predator","Gross($)":80.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b1f"},"Movies#":4,"MoviesAvg($)":25.7,"TotalGross($)":102.7,"#1Picture":"Psycho II","Franchise":"Psycho","Gross($)":34.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b20"},"Movies#":4,"MoviesAvg($)":71.3,"TotalGross($)":285.1,"#1Picture":"The Purge 3","Franchise":"The Purge","Gross($)":79.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b21"},"Movies#":1,"MoviesAvg($)":188.0,"TotalGross($)":188.0,"#1Picture":"A Quiet Place","Franchise":"A Quiet Place","Gross($)":188.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b22"},"Movies#":2,"MoviesAvg($)":3.4,"TotalGross($)":6.7,"#1Picture":"The Raid: Redemption","Franchise":"Raid","Gross($)":4.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b23"},"Movies#":4,"MoviesAvg($)":73.5,"TotalGross($)":294.1,"#1Picture":"Rambo: First Blood Part II","Franchise":"Rambo","Gross($)":150.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b24"},"Movies#":2,"MoviesAvg($)":71.8,"TotalGross($)":143.6,"#1Picture":"Red","Franchise":"Red","Gross($)":90.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b25"},"Movies#":6,"MoviesAvg($)":45.2,"TotalGross($)":271.3,"#1Picture":"Resident Evil: Afterlife","Franchise":"Resident Evil","Gross($)":60.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b26"},"Movies#":3,"MoviesAvg($)":7.8,"TotalGross($)":23.5,"#1Picture":"Return of the Living Dead","Franchise":"Return of the Living Dead","Gross($)":14.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b27"},"Movies#":3,"MoviesAvg($)":46.3,"TotalGross($)":139.0,"#1Picture":"The Chronicles of Riddick","Franchise":"Riddick","Gross($)":57.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b28"},"Movies#":2,"MoviesAvg($)":113.1,"TotalGross($)":226.2,"#1Picture":"Ride Along","Franchise":"Ride Along","Gross($)":134.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b29"},"Movies#":2,"MoviesAvg($)":0.391,"TotalGross($)":0.783,"#1Picture":"RiffTrax Live: Space Mutiny","Franchise":"RiffTrax","Gross($)":0.398}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2a"},"Movies#":3,"MoviesAvg($)":77.7,"TotalGross($)":233.2,"#1Picture":"The Ring","Franchise":"The Ring","Gross($)":129.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2b"},"Movies#":2,"MoviesAvg($)":137.6,"TotalGross($)":275.2,"#1Picture":"Rio","Franchise":"Rio","Gross($)":143.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2c"},"Movies#":3,"MoviesAvg($)":128.4,"TotalGross($)":385.3,"#1Picture":"The Da Vinci Code","Franchise":"Robert Langdon","Gross($)":217.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2d"},"Movies#":4,"MoviesAvg($)":42.1,"TotalGross($)":168.4,"#1Picture":"RoboCop","Franchise":"Robocop","Gross($)":58.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2e"},"Movies#":8,"MoviesAvg($)":98.9,"TotalGross($)":791.1,"#1Picture":"Rocky IV","Franchise":"Rocky","Gross($)":127.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b2f"},"Movies#":3,"MoviesAvg($)":72.1,"TotalGross($)":216.4,"#1Picture":"Rugrats Movie","Franchise":"Rugrats","Gross($)":100.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b30"},"Movies#":3,"MoviesAvg($)":169.2,"TotalGross($)":507.5,"#1Picture":"Rush Hour 2","Franchise":"Rush Hour","Gross($)":226.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b31"},"Movies#":3,"MoviesAvg($)":122.9,"TotalGross($)":368.6,"#1Picture":"The Santa Clause","Franchise":"The Santa Clause","Gross($)":144.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b32"},"Movies#":8,"MoviesAvg($)":56.7,"TotalGross($)":454.0,"#1Picture":"Saw II","Franchise":"Saw","Gross($)":87.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b33"},"Movies#":5,"MoviesAvg($)":92.2,"TotalGross($)":461.1,"#1Picture":"Scary Movie","Franchise":"Scary Movie","Gross($)":157.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b34"},"Movies#":2,"MoviesAvg($)":118.8,"TotalGross($)":237.5,"#1Picture":"Scooby-Doo","Franchise":"Scooby-Doo","Gross($)":153.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b35"},"Movies#":4,"MoviesAvg($)":82.9,"TotalGross($)":331.7,"#1Picture":"Scream","Franchise":"Scream","Gross($)":103.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b36"},"Movies#":1,"MoviesAvg($)":368.4,"TotalGross($)":368.4,"#1Picture":"The Secret Life of Pets","Franchise":"The Secret Life of Pets","Gross($)":368.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b37"},"Movies#":2,"MoviesAvg($)":197.9,"TotalGross($)":395.9,"#1Picture":"Sherlock Holmes","Franchise":"Sherlock Holmes","Gross($)":209.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b38"},"Movies#":2,"MoviesAvg($)":0.533,"TotalGross($)":1.1,"#1Picture":"Shiloh","Franchise":"Shiloh","Gross($)":1.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b39"},"Movies#":5,"MoviesAvg($)":283.9,"TotalGross($)":1419.6,"#1Picture":"Shrek 2","Franchise":"Shrek","Gross($)":441.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3a"},"Movies#":2,"MoviesAvg($)":48.5,"TotalGross($)":97.0,"#1Picture":"Sicario 2","Franchise":"Sicario","Gross($)":50.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3b"},"Movies#":2,"MoviesAvg($)":43.9,"TotalGross($)":87.9,"#1Picture":"Sin City","Franchise":"Sin City","Gross($)":74.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3c"},"Movies#":1,"MoviesAvg($)":270.4,"TotalGross($)":270.4,"#1Picture":"Sing","Franchise":"Sing","Gross($)":270.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3d"},"Movies#":2,"MoviesAvg($)":37.9,"TotalGross($)":75.8,"#1Picture":"Sinister","Franchise":"Sinister","Gross($)":48.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3e"},"Movies#":3,"MoviesAvg($)":66.2,"TotalGross($)":198.5,"#1Picture":"Smokey and the Bandit","Franchise":"Smokey and the Bandit","Gross($)":126.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b3f"},"Movies#":4,"MoviesAvg($)":67.5,"TotalGross($)":269.9,"#1Picture":"The Smurfs","Franchise":"The Smurfs","Gross($)":142.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b40"},"Movies#":2,"MoviesAvg($)":101.9,"TotalGross($)":203.7,"#1Picture":"Snow White and the Huntsman","Franchise":"Snow White and the Huntsman","Gross($)":155.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b41"},"Movies#":1,"MoviesAvg($)":90.4,"TotalGross($)":90.4,"#1Picture":"Space Jam","Franchise":"Space Jam","Gross($)":90.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b42"},"Movies#":7,"MoviesAvg($)":300.4,"TotalGross($)":2102.8,"#1Picture":"Spider-Man","Franchise":"Spider-Man","Gross($)":403.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b43"},"Movies#":2,"MoviesAvg($)":124.2,"TotalGross($)":248.4,"#1Picture":"SpongeBob","Franchise":"SpongeBob","Gross($)":163.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b44"},"Movies#":4,"MoviesAvg($)":87.2,"TotalGross($)":348.9,"#1Picture":"Spy Kids","Franchise":"Spy Kids","Gross($)":112.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b45"},"Movies#":13,"MoviesAvg($)":107.8,"TotalGross($)":1401.0,"#1Picture":"Star Trek","Franchise":"Star Trek","Gross($)":257.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b46"},"Movies#":11,"MoviesAvg($)":383.7,"TotalGross($)":4220.7,"#1Picture":"Star Wars: The Force Awakens","Franchise":"Star Wars","Gross($)":936.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b47"},"Movies#":2,"MoviesAvg($)":373.0,"TotalGross($)":745.9,"#1Picture":"Rogue One","Franchise":"Star Wars Anthology","Gross($)":532.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b48"},"Movies#":5,"MoviesAvg($)":43.1,"TotalGross($)":215.7,"#1Picture":"Step Up","Franchise":"Step Up","Gross($)":65.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b49"},"Movies#":2,"MoviesAvg($)":38.6,"TotalGross($)":77.2,"#1Picture":"The Strangers","Franchise":"Strangers","Gross($)":52.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4a"},"Movies#":2,"MoviesAvg($)":24.6,"TotalGross($)":49.1,"#1Picture":"Super Troopers 2","Franchise":"Super Troopers","Gross($)":30.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4b"},"Movies#":7,"MoviesAvg($)":162.8,"TotalGross($)":1139.5,"#1Picture":"Batman v Superman","Franchise":"Superman","Gross($)":330.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4c"},"Movies#":3,"MoviesAvg($)":124.7,"TotalGross($)":374.1,"#1Picture":"Taken","Franchise":"Taken","Gross($)":145.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4d"},"Movies#":2,"MoviesAvg($)":150.1,"TotalGross($)":300.3,"#1Picture":"Ted","Franchise":"Ted","Gross($)":218.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4e"},"Movies#":6,"MoviesAvg($)":97.3,"TotalGross($)":583.6,"#1Picture":"Ninja Turtles","Franchise":"Teenage Mutant Ninja Turtles","Gross($)":191.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b4f"},"Movies#":5,"MoviesAvg($)":121.7,"TotalGross($)":608.7,"#1Picture":"Terminator 2","Franchise":"Terminator","Gross($)":204.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b50"},"Movies#":7,"MoviesAvg($)":28.4,"TotalGross($)":199.1,"#1Picture":"Texas Chainsaw Massacre","Franchise":"Texas Chainsaw Massacre","Gross($)":80.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b51"},"Movies#":2,"MoviesAvg($)":78.4,"TotalGross($)":156.7,"#1Picture":"Think Like a Man","Franchise":"Think Like a Man","Gross($)":91.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b52"},"Movies#":3,"MoviesAvg($)":234.2,"TotalGross($)":702.5,"#1Picture":"Thor: Ragnarok","Franchise":"Thor","Gross($)":315.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b53"},"Movies#":3,"MoviesAvg($)":21.1,"TotalGross($)":63.2,"#1Picture":"The World's End","Franchise":"Three Flavours Cornetto","Gross($)":26.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b54"},"Movies#":1,"MoviesAvg($)":176.8,"TotalGross($)":176.8,"#1Picture":"Top Gun","Franchise":"Top Gun","Gross($)":176.8}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b55"},"Movies#":4,"MoviesAvg($)":220.8,"TotalGross($)":883.4,"#1Picture":"Toy Story 3","Franchise":"Toy Story","Gross($)":415.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b56"},"Movies#":7,"MoviesAvg($)":226.1,"TotalGross($)":1582.4,"#1Picture":"Transformers 2","Franchise":"Transformers","Gross($)":402.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b57"},"Movies#":4,"MoviesAvg($)":29.0,"TotalGross($)":116.1,"#1Picture":"Transporter 2","Franchise":"Transporter","Gross($)":43.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b58"},"Movies#":3,"MoviesAvg($)":2.0,"TotalGross($)":6.1,"#1Picture":"The Trip to Italy","Franchise":"The Trip","Gross($)":2.9}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b59"},"Movies#":1,"MoviesAvg($)":153.7,"TotalGross($)":153.7,"#1Picture":"Trolls","Franchise":"Trolls","Gross($)":153.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5a"},"Movies#":2,"MoviesAvg($)":102.5,"TotalGross($)":205.1,"#1Picture":"Tron Legacy","Franchise":"Tron","Gross($)":172.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5b"},"Movies#":5,"MoviesAvg($)":272.7,"TotalGross($)":1363.5,"#1Picture":"The Twilight Saga: Eclipse","Franchise":"Twilight","Gross($)":300.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5c"},"Movies#":3,"MoviesAvg($)":114.7,"TotalGross($)":344.1,"#1Picture":"Split","Franchise":"Unbreakable","Gross($)":138.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5d"},"Movies#":5,"MoviesAvg($)":50.6,"TotalGross($)":252.8,"#1Picture":"Underworld Awakening","Franchise":"Underworld","Gross($)":62.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5e"},"Movies#":2,"MoviesAvg($)":20.7,"TotalGross($)":41.3,"#1Picture":"Unfriended","Franchise":"Unfriended","Gross($)":32.5}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b5f"},"Movies#":3,"MoviesAvg($)":15.7,"TotalGross($)":47.0,"#1Picture":"Universal Soldier","Franchise":"Universal Soldier","Gross($)":36.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b60"},"Movies#":3,"MoviesAvg($)":0.0416,"TotalGross($)":0.125,"#1Picture":"V/H/S","Franchise":"V/H/S","Gross($)":0.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b61"},"Movies#":5,"MoviesAvg($)":55.5,"TotalGross($)":277.4,"#1Picture":"Christmas Vacation","Franchise":"Vacation","Gross($)":71.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b62"},"Movies#":6,"MoviesAvg($)":17.0,"TotalGross($)":102.2,"#1Picture":"Dogma","Franchise":"View Askewniverse","Gross($)":30.7}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b63"},"Movies#":5,"MoviesAvg($)":42.5,"TotalGross($)":212.7,"#1Picture":"Christopher Robin","Franchise":"Winnie the Pooh","Gross($)":99.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b64"},"Movies#":3,"MoviesAvg($)":34.5,"TotalGross($)":103.6,"#1Picture":"Race to Witch Mountain","Franchise":"Witch Mountain","Gross($)":67.2}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b65"},"Movies#":3,"MoviesAvg($)":179.6,"TotalGross($)":538.7,"#1Picture":"Logan","Franchise":"Wolverine","Gross($)":226.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b66"},"Movies#":2,"MoviesAvg($)":40.4,"TotalGross($)":80.8,"#1Picture":"The Woman in Black","Franchise":"Woman in Black","Gross($)":54.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b67"},"Movies#":1,"MoviesAvg($)":412.6,"TotalGross($)":412.6,"#1Picture":"Wonder Woman","Franchise":"Wonder Woman","Gross($)":412.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b68"},"Movies#":3,"MoviesAvg($)":2.2,"TotalGross($)":6.7,"#1Picture":"The Work and the Glory","Franchise":"The Work and the Glory","Gross($)":3.3}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b69"},"Movies#":1,"MoviesAvg($)":202.4,"TotalGross($)":202.4,"#1Picture":"World War Z","Franchise":"World War Z","Gross($)":202.4}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b6a"},"Movies#":2,"MoviesAvg($)":195.2,"TotalGross($)":390.4,"#1Picture":"Wreck-It Ralph 2","Franchise":"Wreck-It Ralph","Gross($)":201.0}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b6b"},"Movies#":11,"MoviesAvg($)":214.8,"TotalGross($)":2362.7,"#1Picture":"Deadpool","Franchise":"X-Men","Gross($)":363.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b6c"},"Movies#":3,"MoviesAvg($)":71.3,"TotalGross($)":213.9,"#1Picture":"XXX","Franchise":"xXx Trilogy","Gross($)":142.1}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b6d"},"Movies#":1,"MoviesAvg($)":75.6,"TotalGross($)":75.6,"#1Picture":"Zombieland","Franchise":"Zombieland","Gross($)":75.6}
+{"_id":{"$oid":"5c98697ee2939d0a8c645b6e"},"Movies#":2,"MoviesAvg($)":37.0,"TotalGross($)":74.0,"#1Picture":"Zoolander","Franchise":"Zoolander","Gross($)":45.2}
+{"_id":{"$oid":"5cc4a5c783bc8c1076857b88"},"Movies#":1,"MoviesAvg($)":643.3,"TotalGross($)":643.3,"#1Picture":"Moana","Franchise":"Moana","Gross($)":643.3}

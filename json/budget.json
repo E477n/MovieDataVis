@@ -1,0 +1,58 @@
+{"_id":{"$oid":"5cc2bbf64383c909aa049988"},"title":"Pirates of the Caribbean: On Stranger Tides","budget":379,"ReleaseDate":{"$date":"2011-05-20T00:00:00.000Z"},"week#":20}
+{"_id":{"$oid":"5cc2bcc44383c909aa04998a"},"title":"Avengers: Age of Ultron","budget":365,"ReleaseDate":{"$date":"2015-05-01T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2bf2b4383c909aa04998b"},"title":"Avengers: Infinity War","budget":316,"ReleaseDate":{"$date":"2018-04-27T00:00:00.000Z"},"week#":17}
+{"_id":{"$oid":"5cc2c695e2939d0da0a101f8"},"title":"Pirates of the Caribbean: At Worlds End","budget":308,"ReleaseDate":{"$date":"2007-05-25T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f78249798"},"title":"Justice League","budget":300,"ReleaseDate":{"$date":"2017-11-17T00:00:00.000Z"},"week#":46}
+{"_id":{"$oid":"5cc2ce68e2939d0f78249799"},"title":"Solo: A Star Wars Story","budget":275,"ReleaseDate":{"$date":"2018-05-25T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979a"},"title":"John Carter","budget":264,"ReleaseDate":{"$date":"2012-02-22T00:00:00.000Z"},"week#":8}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979b"},"title":"Batman v Superman: Dawn of Justice","budget":263,"ReleaseDate":{"$date":"2016-03-25T00:00:00.000Z"},"week#":12}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979c"},"title":"Star Wars: The Last Jedi","budget":262,"ReleaseDate":{"$date":"2017-12-15T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979d"},"title":"Tangled","budget":260,"ReleaseDate":{"$date":"2010-11-24T00:00:00.000Z"},"week#":47}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979e"},"title":"Star Wars: The Force Awakens","budget":259,"ReleaseDate":{"$date":"2015-12-18T00:00:00.000Z"},"week#":51}
+{"_id":{"$oid":"5cc2ce68e2939d0f7824979f"},"title":"Spider-Man 3","budget":258,"ReleaseDate":{"$date":"2007-05-04T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a0"},"title":"Beauty and the Beast","budget":255,"ReleaseDate":{"$date":"2017-03-17T00:00:00.000Z"},"week#":11}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a1"},"title":"Harry Potter and the Half-Blood Prince","budget":250,"ReleaseDate":{"$date":"2009-07-15T00:00:00.000Z"},"week#":29}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a2"},"title":"Transformers: The Last Knight","budget":243,"ReleaseDate":{"$date":"2017-06-21T00:00:00.000Z"},"week#":25}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a3"},"title":"Avatar","budget":242,"ReleaseDate":{"$date":"2009-12-18T00:00:00.000Z"},"week#":51}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a4"},"title":"The Dark Knight Rises","budget":241,"ReleaseDate":{"$date":"2012-07-20T00:00:00.000Z"},"week#":29}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a5"},"title":"Spectre","budget":240,"ReleaseDate":{"$date":"2015-11-06T00:00:00.000Z"},"week#":45}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a6"},"title":"Captain America: Civil War","budget":239,"ReleaseDate":{"$date":"2016-05-06T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a7"},"title":"The Fate of the Furious","budget":238,"ReleaseDate":{"$date":"2017-04-14T00:00:00.000Z"},"week#":15}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a8"},"title":"Pirates of the Caribbean: Dead Men Tell No Tales","budget":237,"ReleaseDate":{"$date":"2017-05-26T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497a9"},"title":"Maleficent","budget":236,"ReleaseDate":{"$date":"2014-05-30T00:00:00.000Z"},"week#":22}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497aa"},"title":"The Chronicles of Narnia: Prince Caspian","budget":235,"ReleaseDate":{"$date":"2008-06-26T00:00:00.000Z"},"week#":26}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ab"},"title":"The Lone Ranger","budget":234,"ReleaseDate":{"$date":"2013-07-03T00:00:00.000Z"},"week#":27}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ac"},"title":"Pirates of the Caribbean: Dead Mans Chest","budget":233,"ReleaseDate":{"$date":"2006-07-07T00:00:00.000Z"},"week#":27}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ad"},"title":"Man of Steel","budget":232,"ReleaseDate":{"$date":"2013-06-14T00:00:00.000Z"},"week#":24}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ae"},"title":"The Avengers","budget":231,"ReleaseDate":{"$date":"2012-05-04T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497af"},"title":"Rogue One","budget":230,"ReleaseDate":{"$date":"2016-12-16T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b0"},"title":"The Hobbit: The Desolation of Smaug","budget":229,"ReleaseDate":{"$date":"2013-12-13T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b1"},"title":"Men in Black 3","budget":228,"ReleaseDate":{"$date":"2012-05-25T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b2"},"title":"Oz the Great and Powerful","budget":227,"ReleaseDate":{"$date":"2013-03-08T00:00:00.000Z"},"week#":10}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b3"},"title":"X-Men: The Last Stand","budget":226,"ReleaseDate":{"$date":"2006-05-26T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b4"},"title":"Transformers: Age of Extinction","budget":225,"ReleaseDate":{"$date":"2014-06-27T00:00:00.000Z"},"week#":26}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b5"},"title":"Battleship","budget":224,"ReleaseDate":{"$date":"2012-05-18T00:00:00.000Z"},"week#":20}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b6"},"title":"Dawn of the Planet of the Apes","budget":223,"ReleaseDate":{"$date":"2014-07-11T00:00:00.000Z"},"week#":28}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b7"},"title":"The Hobbit: The Battle of the Five Armies","budget":222,"ReleaseDate":{"$date":"2017-12-17T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b8"},"title":"King Kong","budget":221,"ReleaseDate":{"$date":"2005-12-14T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497b9"},"title":"X-Men: Days of Future Past","budget":220,"ReleaseDate":{"$date":"2014-05-23T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ba"},"title":"Superman Returns","budget":219,"ReleaseDate":{"$date":"2006-06-28T00:00:00.000Z"},"week#":26}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497bb"},"title":"Titanic","budget":218,"ReleaseDate":{"$date":"1997-12-19T00:00:00.000Z"},"week#":51}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497bc"},"title":"Spider-Man 2","budget":217,"ReleaseDate":{"$date":"2004-06-30T00:00:00.000Z"},"week#":27}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497bd"},"title":"Quantum of Solace","budget":216,"ReleaseDate":{"$date":"2008-11-14T00:00:00.000Z"},"week#":46}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497be"},"title":"erminator Salvation","budget":215,"ReleaseDate":{"$date":"2009-05-21T00:00:00.000Z"},"week#":21}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497bf"},"title":"Transformers: Revenge of the Fallen","budget":214,"ReleaseDate":{"$date":"2009-06-24T00:00:00.000Z"},"week#":26}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c0"},"title":"2012","budget":213,"ReleaseDate":{"$date":"2009-11-13T00:00:00.000Z"},"week#":46}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c1"},"title":"Toy Story 3","budget":212,"ReleaseDate":{"$date":"2010-06-18T00:00:00.000Z"},"week#":24}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c2"},"title":"Green Lantern","budget":211,"ReleaseDate":{"$date":"2011-06-17T00:00:00.000Z"},"week#":24}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c3"},"title":"Cars 2","budget":210,"ReleaseDate":{"$date":"2011-06-24T00:00:00.000Z"},"week#":25}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c4"},"title":"The Amazing Spider-Man","budget":209,"ReleaseDate":{"$date":"2012-07-03T00:00:00.000Z"},"week#":27}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c5"},"title":"The Hobbit: An Unexpected Journey","budget":208,"ReleaseDate":{"$date":"2012-12-14T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c6"},"title":"Iron Man 3","budget":207,"ReleaseDate":{"$date":"2013-05-03T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c7"},"title":"Monsters University","budget":206,"ReleaseDate":{"$date":"2013-06-21T00:00:00.000Z"},"week#":25}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c8"},"title":"The Amazing Spider-Man 2","budget":205,"ReleaseDate":{"$date":"2014-05-02T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497c9"},"title":"Exodus: Gods and Kings","budget":204,"ReleaseDate":{"$date":"2014-12-12T00:00:00.000Z"},"week#":50}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497ca"},"title":"Guardians of the Galaxy Vol. 2","budget":203,"ReleaseDate":{"$date":"2017-05-05T00:00:00.000Z"},"week#":18}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497cb"},"title":"Black Panther","budget":202,"ReleaseDate":{"$date":"2018-02-16T00:00:00.000Z"},"week#":7}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497cc"},"title":"Incredibles 2","budget":201,"ReleaseDate":{"$date":"2018-06-15T00:00:00.000Z"},"week#":24}
+{"_id":{"$oid":"5cc2ce68e2939d0f782497cd"},"title":"Fantastic Beasts: The Crimes of Grindelwald","budget":200,"ReleaseDate":{"$date":"2018-11-16T00:00:00.000Z"},"week#":46}

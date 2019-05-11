@@ -1,0 +1,908 @@
+{"_id":{"$oid":"5c982156e2939d069a838216"},"Gross":4.4,"Movies#":2,"Person":"Marc Abraham","TotalGross($)":6.1,"#1Picture":"Flash of Genius","MovieAverage($)":3.0}
+{"_id":{"$oid":"5c982156e2939d069a838217"},"Gross":83.5,"Movies#":8,"Person":"Jim Abrahams","TotalGross($)":348.0,"#1Picture":"Airplane!","MovieAverage($)":43.5}
+{"_id":{"$oid":"5c982156e2939d069a838218"},"Gross":936.7,"Movies#":5,"Person":"J.J. Abrams","TotalGross($)":1684.2,"#1Picture":"Star Wars: The Force Awakens","MovieAverage($)":336.8}
+{"_id":{"$oid":"5c982156e2939d069a838219"},"Gross":441.2,"Movies#":6,"Person":"Andrew Adamson","TotalGross($)":1154.7,"#1Picture":"Shrek 2","MovieAverage($)":192.5}
+{"_id":{"$oid":"5c982156e2939d069a83821a"},"Gross":5.8,"Movies#":1,"Person":"Gilbert Adler","TotalGross($)":5.8,"#1Picture":"Bordello of Blood","MovieAverage($)":5.8}
+{"_id":{"$oid":"5c982156e2939d069a83821b"},"Gross":136.0,"Movies#":4,"Person":"Ben Affleck","TotalGross($)":258.9,"#1Picture":"Argo","MovieAverage($)":64.7}
+{"_id":{"$oid":"5c982156e2939d069a83821c"},"Gross":0.409,"Movies#":1,"Person":"Casey Affleck","TotalGross($)":0.409,"#1Picture":"I'm Still Here","MovieAverage($)":0.409}
+{"_id":{"$oid":"5c982156e2939d069a83821d"},"Gross":37.3,"Movies#":2,"Person":"Salim Akil","TotalGross($)":61.7,"#1Picture":"Jumping the Broom","MovieAverage($)":30.8}
+{"_id":{"$oid":"5c982156e2939d069a83821e"},"Gross":24.1,"Movies#":3,"Person":"Tomas Alfredson","TotalGross($)":33.0,"#1Picture":"Tinker, Tailor, Soldier, Spy","MovieAverage($)":11.0}
+{"_id":{"$oid":"5c982156e2939d069a83821f"},"Gross":0.0883,"Movies#":1,"Person":"Tim Allen","TotalGross($)":0.0883,"#1Picture":"Crazy on the Outside","MovieAverage($)":0.0883}
+{"_id":{"$oid":"5c982156e2939d069a838220"},"Gross":56.8,"Movies#":44,"Person":"Woody Allen","TotalGross($)":591.4,"#1Picture":"Midnight in Paris","MovieAverage($)":13.4}
+{"_id":{"$oid":"5c982156e2939d069a838221"},"Gross":26.2,"Movies#":2,"Person":"Elizabeth Allen (II)","TotalGross($)":44.8,"#1Picture":"Ramona and Beezus","MovieAverage($)":22.4}
+{"_id":{"$oid":"5c982156e2939d069a838222"},"Gross":12.9,"Movies#":15,"Person":"Pedro Almodovar","TotalGross($)":64.7,"#1Picture":"Volver","MovieAverage($)":4.3}
+{"_id":{"$oid":"5c982156e2939d069a838223"},"Gross":81.6,"Movies#":20,"Person":"Robert Altman","TotalGross($)":277.7,"#1Picture":"M.A.S.H.","MovieAverage($)":13.9}
+{"_id":{"$oid":"5c982156e2939d069a838224"},"Gross":89.2,"Movies#":3,"Person":"Fede Alvarez","TotalGross($)":158.3,"#1Picture":"Don't Breathe","MovieAverage($)":52.8}
+{"_id":{"$oid":"5c982156e2939d069a838225"},"Gross":13.3,"Movies#":2,"Person":"Christian Alvart","TotalGross($)":23.6,"#1Picture":"Case 39","MovieAverage($)":11.8}
+{"_id":{"$oid":"5c982156e2939d069a838226"},"Gross":96.5,"Movies#":5,"Person":"Alejandro Amenabar","TotalGross($)":99.7,"#1Picture":"The Others","MovieAverage($)":19.9}
+{"_id":{"$oid":"5c982156e2939d069a838227"},"Gross":0.507,"Movies#":1,"Person":"Hossein Amini","TotalGross($)":0.507,"#1Picture":"The Two Faces of January","MovieAverage($)":0.507}
+{"_id":{"$oid":"5c982156e2939d069a838228"},"Gross":150.4,"Movies#":7,"Person":"Sean Anders","TotalGross($)":421.6,"#1Picture":"Daddy's Home","MovieAverage($)":60.2}
+{"_id":{"$oid":"5c982156e2939d069a838229"},"Gross":51.9,"Movies#":7,"Person":"Brad Anderson","TotalGross($)":59.6,"#1Picture":"The Call","MovieAverage($)":8.5}
+{"_id":{"$oid":"5c982156e2939d069a83822a"},"Gross":40.2,"Movies#":8,"Person":"Paul Thomas Anderson","TotalGross($)":152.8,"#1Picture":"There Will Be Blood","MovieAverage($)":19.1}
+{"_id":{"$oid":"5c982156e2939d069a83822b"},"Gross":80.3,"Movies#":12,"Person":"Paul W.S. Anderson","TotalGross($)":441.3,"#1Picture":"Alien Vs. Predator","MovieAverage($)":36.8}
+{"_id":{"$oid":"5c982156e2939d069a83822c"},"Gross":59.3,"Movies#":9,"Person":"Wes Anderson","TotalGross($)":263.8,"#1Picture":"The Grand Budapest Hotel","MovieAverage($)":29.3}
+{"_id":{"$oid":"5c982156e2939d069a83822d"},"Gross":237.3,"Movies#":1,"Person":"Mark Andrews","TotalGross($)":237.3,"#1Picture":"Brave","MovieAverage($)":237.3}
+{"_id":{"$oid":"5c982156e2939d069a83822e"},"Gross":50.8,"Movies#":1,"Person":"Graham Annable","TotalGross($)":50.8,"#1Picture":"The Boxtrolls","MovieAverage($)":50.8}
+{"_id":{"$oid":"5c982156e2939d069a83822f"},"Gross":51.4,"Movies#":9,"Person":"Jean-Jacques Annaud","TotalGross($)":188.6,"#1Picture":"Enemy at the Gates","MovieAverage($)":21.0}
+{"_id":{"$oid":"5c982156e2939d069a838230"},"Gross":52.0,"Movies#":5,"Person":"Nimród Antal","TotalGross($)":91.0,"#1Picture":"Predators","MovieAverage($)":18.2}
+{"_id":{"$oid":"5c982156e2939d069a838231"},"Gross":39.4,"Movies#":1,"Person":"Steven Antin","TotalGross($)":39.4,"#1Picture":"Burlesque","MovieAverage($)":39.4}
+{"_id":{"$oid":"5c982156e2939d069a838232"},"Gross":148.8,"Movies#":6,"Person":"Judd Apatow","TotalGross($)":488.6,"#1Picture":"Knocked Up","MovieAverage($)":81.4}
+{"_id":{"$oid":"5c982156e2939d069a838233"},"Gross":126.9,"Movies#":18,"Person":"Michael Apted","TotalGross($)":574.9,"#1Picture":"World Is Not Enough","MovieAverage($)":31.9}
+{"_id":{"$oid":"5c982156e2939d069a838234"},"Gross":0.713,"Movies#":7,"Person":"Gregg Araki","TotalGross($)":2.0,"#1Picture":"Mysterious Skin","MovieAverage($)":0.292}
+{"_id":{"$oid":"5c982156e2939d069a838235"},"Gross":50.1,"Movies#":6,"Person":"Gillian Armstrong","TotalGross($)":57.9,"#1Picture":"Little Women (1994)","MovieAverage($)":9.7}
+{"_id":{"$oid":"5c982156e2939d069a838236"},"Gross":14.0,"Movies#":1,"Person":"Vic Armstrong","TotalGross($)":14.0,"#1Picture":"Left Behind","MovieAverage($)":14.0}
+{"_id":{"$oid":"5c982156e2939d069a838237"},"Gross":107.0,"Movies#":7,"Person":"Darren Aronofsky","TotalGross($)":269.2,"#1Picture":"Black Swan","MovieAverage($)":38.5}
+{"_id":{"$oid":"5c982156e2939d069a838238"},"Gross":0.201,"Movies#":2,"Person":"Guillermo Arriaga","TotalGross($)":0.233,"#1Picture":"The Burning Plain","MovieAverage($)":0.116}
+{"_id":{"$oid":"5c982156e2939d069a838239"},"Gross":67.0,"Movies#":7,"Person":"Miguel Arteta","TotalGross($)":111.3,"#1Picture":"Alexander","MovieAverage($)":15.9}
+{"_id":{"$oid":"5c982156e2939d069a83823a"},"Gross":441.2,"Movies#":4,"Person":"Kelly Asbury","TotalGross($)":659.5,"#1Picture":"Shrek 2","MovieAverage($)":164.9}
+{"_id":{"$oid":"5c982156e2939d069a83823b"},"Gross":44.1,"Movies#":1,"Person":"Ari Aster","TotalGross($)":44.1,"#1Picture":"Hereditary","MovieAverage($)":44.1}
+{"_id":{"$oid":"5c982156e2939d069a83823c"},"Gross":2.1,"Movies#":4,"Person":"Jacques Audiard","TotalGross($)":5.4,"#1Picture":"A Prophet (Un prophète)","MovieAverage($)":1.4}
+{"_id":{"$oid":"5c982156e2939d069a83823d"},"Gross":0.0632,"Movies#":1,"Person":"John August","TotalGross($)":0.0632,"#1Picture":"The Nines","MovieAverage($)":0.0632}
+{"_id":{"$oid":"5c982156e2939d069a83823e"},"Gross":325.1,"Movies#":6,"Person":"David Ayer","TotalGross($)":492.2,"#1Picture":"Suicide Squad","MovieAverage($)":82.0}
+{"_id":{"$oid":"5c982156e2939d069a83823f"},"Gross":0.0642,"Movies#":2,"Person":"Kevin Bacon","TotalGross($)":0.0974,"#1Picture":"Losing Chase","MovieAverage($)":0.0487}
+{"_id":{"$oid":"5c982156e2939d069a838240"},"Gross":102.4,"Movies#":3,"Person":"Wes Ball","TotalGross($)":242.2,"#1Picture":"The Maze Runner","MovieAverage($)":80.7}
+{"_id":{"$oid":"5c982156e2939d069a838241"},"Gross":184.3,"Movies#":1,"Person":"Elizabeth Banks","TotalGross($)":184.3,"#1Picture":"Pitch Perfect 2","MovieAverage($)":184.3}
+{"_id":{"$oid":"5c982156e2939d069a838242"},"Gross":0.0118,"Movies#":1,"Person":"Ernie Barbarash","TotalGross($)":0.0118,"#1Picture":"Falcon Rising","MovieAverage($)":0.0118}
+{"_id":{"$oid":"5c982156e2939d069a838243"},"Gross":27.9,"Movies#":3,"Person":"Daniel Barnz","TotalGross($)":35.1,"#1Picture":"Beastly","MovieAverage($)":11.7}
+{"_id":{"$oid":"5c982156e2939d069a838244"},"Gross":13.0,"Movies#":1,"Person":"Drew Barrymore","TotalGross($)":13.0,"#1Picture":"Whip It","MovieAverage($)":13.0}
+{"_id":{"$oid":"5c982156e2939d069a838245"},"Gross":56.0,"Movies#":5,"Person":"Andrzej Bartkowiak","TotalGross($)":179.4,"#1Picture":"Romeo Must Die","MovieAverage($)":35.9}
+{"_id":{"$oid":"5c982156e2939d069a838246"},"Gross":17.5,"Movies#":1,"Person":"Michael J. Bassett","TotalGross($)":17.5,"#1Picture":"Silent Hill 2","MovieAverage($)":17.5}
+{"_id":{"$oid":"5c982156e2939d069a838247"},"Gross":7.8,"Movies#":2,"Person":"Jason Bateman","TotalGross($)":8.0,"#1Picture":"Bad Words","MovieAverage($)":4.0}
+{"_id":{"$oid":"5c982156e2939d069a838248"},"Gross":2.3,"Movies#":2,"Person":"Zal Batmanglij","TotalGross($)":2.7,"#1Picture":"The East","MovieAverage($)":1.4}
+{"_id":{"$oid":"5c982156e2939d069a838249"},"Gross":7.6,"Movies#":9,"Person":"Noah Baumbach","TotalGross($)":28.9,"#1Picture":"While We're Young","MovieAverage($)":3.2}
+{"_id":{"$oid":"5c982156e2939d069a83824a"},"Gross":402.1,"Movies#":13,"Person":"Michael Bay","TotalGross($)":2326.5,"#1Picture":"Transformers 2","MovieAverage($)":179.0}
+{"_id":{"$oid":"5c982156e2939d069a83824b"},"Gross":417.7,"Movies#":4,"Person":"J.A. Bayona","TotalGross($)":447.6,"#1Picture":"Jurassic World 2","MovieAverage($)":111.9}
+{"_id":{"$oid":"5c982156e2939d069a83824c"},"Gross":19.1,"Movies#":2,"Person":"Stuart Beattie","TotalGross($)":19.1,"#1Picture":"I, Frankenstein","MovieAverage($)":9.5}
+{"_id":{"$oid":"5c982156e2939d069a83824d"},"Gross":103.7,"Movies#":5,"Person":"Warren Beatty","TotalGross($)":255.9,"#1Picture":"Dick Tracy","MovieAverage($)":51.2}
+{"_id":{"$oid":"5c982156e2939d069a83824e"},"Gross":134.5,"Movies#":5,"Person":"Timur Bekmambetov","TotalGross($)":200.4,"#1Picture":"Wanted","MovieAverage($)":40.1}
+{"_id":{"$oid":"5c982156e2939d069a83824f"},"Gross":3.0,"Movies#":2,"Person":"Lake Bell","TotalGross($)":3.2,"#1Picture":"In a World","MovieAverage($)":1.6}
+{"_id":{"$oid":"5c982156e2939d069a838250"},"Gross":53.3,"Movies#":3,"Person":"William Brent Bell","TotalGross($)":112.2,"#1Picture":"The Devil Inside","MovieAverage($)":37.4}
+{"_id":{"$oid":"5c982156e2939d069a838251"},"Gross":26.9,"Movies#":1,"Person":"Jessica Bendinger","TotalGross($)":26.9,"#1Picture":"Stick It","MovieAverage($)":26.9}
+{"_id":{"$oid":"5c982156e2939d069a838252"},"Gross":57.6,"Movies#":5,"Person":"Roberto Benigni","TotalGross($)":62.5,"#1Picture":"Life Is Beautiful","MovieAverage($)":12.5}
+{"_id":{"$oid":"5c982156e2939d069a838253"},"Gross":0.588,"Movies#":1,"Person":"Ned Benson","TotalGross($)":0.588,"#1Picture":"The Disappearance of Eleanor Rigby","MovieAverage($)":0.588}
+{"_id":{"$oid":"5c982156e2939d069a838254"},"Gross":106.3,"Movies#":9,"Person":"Robert Benton","TotalGross($)":231.8,"#1Picture":"Kramer Vs. Kramer","MovieAverage($)":25.8}
+{"_id":{"$oid":"5c982156e2939d069a838255"},"Gross":227.9,"Movies#":10,"Person":"Peter Berg","TotalGross($)":714.3,"#1Picture":"Hancock","MovieAverage($)":71.4}
+{"_id":{"$oid":"5c982156e2939d069a838256"},"Gross":53.4,"Movies#":3,"Person":"Greg Berlanti","TotalGross($)":95.9,"#1Picture":"Life as We Know It","MovieAverage($)":32.0}
+{"_id":{"$oid":"5c982156e2939d069a838257"},"Gross":126.7,"Movies#":12,"Person":"Luc Besson","TotalGross($)":327.0,"#1Picture":"Lucy","MovieAverage($)":27.3}
+{"_id":{"$oid":"5c982156e2939d069a838258"},"Gross":60.1,"Movies#":3,"Person":"Thomas Bezucha","TotalGross($)":83.8,"#1Picture":"The Family Stone","MovieAverage($)":27.9}
+{"_id":{"$oid":"5c982156e2939d069a838259"},"Gross":95.7,"Movies#":9,"Person":"Kathryn Bigelow","TotalGross($)":227.6,"#1Picture":"Zero Dark Thirty","MovieAverage($)":25.3}
+{"_id":{"$oid":"5c982156e2939d069a83825a"},"Gross":21.6,"Movies#":6,"Person":"Mike Binder","TotalGross($)":83.3,"#1Picture":"Black or White","MovieAverage($)":13.9}
+{"_id":{"$oid":"5c982156e2939d069a83825b"},"Gross":608.6,"Movies#":6,"Person":"Brad Bird","TotalGross($)":1402.5,"#1Picture":"Incredibles 2","MovieAverage($)":233.7}
+{"_id":{"$oid":"5c982156e2939d069a83825c"},"Gross":0.0127,"Movies#":1,"Person":"Dustin Lance Black","TotalGross($)":0.0127,"#1Picture":"Virginia","MovieAverage($)":0.0127}
+{"_id":{"$oid":"5c982156e2939d069a83825d"},"Gross":409.0,"Movies#":4,"Person":"Shane Black","TotalGross($)":500.5,"#1Picture":"Iron Man 3","MovieAverage($)":125.1}
+{"_id":{"$oid":"5c982156e2939d069a83825e"},"Gross":115.6,"Movies#":3,"Person":"Neill Blomkamp","TotalGross($)":240.3,"#1Picture":"District 9","MovieAverage($)":80.1}
+{"_id":{"$oid":"5c982156e2939d069a83825f"},"Gross":58.4,"Movies#":9,"Person":"Don Bluth","TotalGross($)":230.9,"#1Picture":"Anastasia","MovieAverage($)":25.7}
+{"_id":{"$oid":"5c982156e2939d069a838260"},"Gross":321.5,"Movies#":4,"Person":"Anna Boden","TotalGross($)":329.1,"#1Picture":"Captain Marvel","MovieAverage($)":82.3}
+{"_id":{"$oid":"5c982156e2939d069a838261"},"Gross":10.2,"Movies#":4,"Person":"Uwe Boll","TotalGross($)":22.6,"#1Picture":"House of the Dead","MovieAverage($)":5.7}
+{"_id":{"$oid":"5c982156e2939d069a838262"},"Gross":124.9,"Movies#":2,"Person":"Josh Boone","TotalGross($)":125.0,"#1Picture":"The Fault in our Stars","MovieAverage($)":62.5}
+{"_id":{"$oid":"5c982156e2939d069a838263"},"Gross":49.1,"Movies#":4,"Person":"Ole Bornedal","TotalGross($)":50.6,"#1Picture":"The Possession","MovieAverage($)":12.6}
+{"_id":{"$oid":"5c982156e2939d069a838264"},"Gross":87.0,"Movies#":5,"Person":"Darren Lynn Bousman","TotalGross($)":230.8,"#1Picture":"Saw II","MovieAverage($)":46.2}
+{"_id":{"$oid":"5c982156e2939d069a838265"},"Gross":64.7,"Movies#":5,"Person":"David Bowers","TotalGross($)":206.7,"#1Picture":"Flushed Away","MovieAverage($)":41.3}
+{"_id":{"$oid":"5c982156e2939d069a838266"},"Gross":83.9,"Movies#":4,"Person":"Rob Bowman","TotalGross($)":154.2,"#1Picture":"X-Files","MovieAverage($)":38.6}
+{"_id":{"$oid":"5c982156e2939d069a838267"},"Gross":141.3,"Movies#":12,"Person":"Danny Boyle","TotalGross($)":300.2,"#1Picture":"Slumdog Millionaire","MovieAverage($)":25.0}
+{"_id":{"$oid":"5c982156e2939d069a838268"},"Gross":44.8,"Movies#":1,"Person":"Dan Bradley","TotalGross($)":44.8,"#1Picture":"Red Dawn (2012)","MovieAverage($)":44.8}
+{"_id":{"$oid":"5c982156e2939d069a838269"},"Gross":35.1,"Movies#":3,"Person":"Tom Brady","TotalGross($)":51.0,"#1Picture":"The Hot Chick","MovieAverage($)":17.0}
+{"_id":{"$oid":"5c982156e2939d069a83826a"},"Gross":45.0,"Movies#":3,"Person":"Zach Braff","TotalGross($)":75.4,"#1Picture":"Going in Style (2017)","MovieAverage($)":25.1}
+{"_id":{"$oid":"5c982156e2939d069a83826b"},"Gross":201.2,"Movies#":13,"Person":"Kenneth Branagh","TotalGross($)":638.2,"#1Picture":"Cinderella","MovieAverage($)":49.1}
+{"_id":{"$oid":"5c982156e2939d069a83826c"},"Gross":234.8,"Movies#":6,"Person":"Martin Brest","TotalGross($)":413.8,"#1Picture":"Beverly Hills Cop","MovieAverage($)":69.0}
+{"_id":{"$oid":"5c982156e2939d069a83826d"},"Gross":51.8,"Movies#":3,"Person":"Craig Brewer","TotalGross($)":83.4,"#1Picture":"Footloose","MovieAverage($)":27.8}
+{"_id":{"$oid":"5c982156e2939d069a83826e"},"Gross":126.3,"Movies#":6,"Person":"Steven Brill","TotalGross($)":274.5,"#1Picture":"Mr. Deeds","MovieAverage($)":45.8}
+{"_id":{"$oid":"5c982156e2939d069a83826f"},"Gross":0.24,"Movies#":1,"Person":"Jeremy Brock","TotalGross($)":0.24,"#1Picture":"Driving Lessons","MovieAverage($)":0.24}
+{"_id":{"$oid":"5c982156e2939d069a838270"},"Gross":32.2,"Movies#":3,"Person":"Adam Brooks","TotalGross($)":32.4,"#1Picture":"Definitely, Maybe","MovieAverage($)":10.8}
+{"_id":{"$oid":"5c982156e2939d069a838271"},"Gross":19.1,"Movies#":7,"Person":"Albert Brooks","TotalGross($)":61.4,"#1Picture":"Mother (1996)","MovieAverage($)":8.8}
+{"_id":{"$oid":"5c982156e2939d069a838272"},"Gross":148.5,"Movies#":6,"Person":"James L. Brooks","TotalGross($)":391.5,"#1Picture":"As Good as It Gets","MovieAverage($)":65.3}
+{"_id":{"$oid":"5c982156e2939d069a838273"},"Gross":119.6,"Movies#":10,"Person":"Mel Brooks","TotalGross($)":393.8,"#1Picture":"Blazing Saddles","MovieAverage($)":39.4}
+{"_id":{"$oid":"5c982156e2939d069a838274"},"Gross":22.2,"Movies#":2,"Person":"Mark Brown","TotalGross($)":22.4,"#1Picture":"Two Can Play That Game","MovieAverage($)":11.2}
+{"_id":{"$oid":"5c982156e2939d069a838275"},"Gross":5.8,"Movies#":1,"Person":"Pieter Jan Brugge","TotalGross($)":5.8,"#1Picture":"The Clearing","MovieAverage($)":5.8}
+{"_id":{"$oid":"5c982156e2939d069a838276"},"Gross":57.0,"Movies#":2,"Person":"Cal Brunker","TotalGross($)":85.4,"#1Picture":"Escape From Planet Earth","MovieAverage($)":42.7}
+{"_id":{"$oid":"5c982156e2939d069a838277"},"Gross":400.7,"Movies#":3,"Person":"Chris Buck","TotalGross($)":630.7,"#1Picture":"Frozen","MovieAverage($)":210.2}
+{"_id":{"$oid":"5c982156e2939d069a838278"},"Gross":150.9,"Movies#":6,"Person":"Neil Burger","TotalGross($)":377.2,"#1Picture":"Divergent","MovieAverage($)":62.9}
+{"_id":{"$oid":"5c982156e2939d069a838279"},"Gross":0.129,"Movies#":4,"Person":"Edward Burns","TotalGross($)":0.188,"#1Picture":"The Groomsmen","MovieAverage($)":0.0471}
+{"_id":{"$oid":"5c982156e2939d069a83827a"},"Gross":17.8,"Movies#":4,"Person":"Nanette Burstein","TotalGross($)":20.2,"#1Picture":"Going the Distance","MovieAverage($)":5.1}
+{"_id":{"$oid":"5c982156e2939d069a83827b"},"Gross":334.2,"Movies#":18,"Person":"Tim Burton","TotalGross($)":1840.7,"#1Picture":"Alice in Wonderland","MovieAverage($)":102.3}
+{"_id":{"$oid":"5c982156e2939d069a83827c"},"Gross":5.1,"Movies#":1,"Person":"Jez Butterworth","TotalGross($)":5.1,"#1Picture":"Birthday Girl","MovieAverage($)":5.1}
+{"_id":{"$oid":"5c982156e2939d069a83827d"},"Gross":0.03,"Movies#":1,"Person":"Nicolas Cage","TotalGross($)":0.03,"#1Picture":"Sonny","MovieAverage($)":0.03}
+{"_id":{"$oid":"5c982156e2939d069a83827e"},"Gross":1.3,"Movies#":2,"Person":"Mike Cahill","TotalGross($)":1.7,"#1Picture":"Another Earth","MovieAverage($)":0.829}
+{"_id":{"$oid":"5c982156e2939d069a83827f"},"Gross":760.5,"Movies#":9,"Person":"James Cameron","TotalGross($)":1976.0,"#1Picture":"Avatar","MovieAverage($)":219.6}
+{"_id":{"$oid":"5c982156e2939d069a838280"},"Gross":167.4,"Movies#":12,"Person":"Martin Campbell","TotalGross($)":714.1,"#1Picture":"Casino Royale","MovieAverage($)":59.5}
+{"_id":{"$oid":"5c982156e2939d069a838281"},"Gross":40.2,"Movies#":7,"Person":"Jane Campion","TotalGross($)":56.8,"#1Picture":"The Piano","MovieAverage($)":8.1}
+{"_id":{"$oid":"5c982156e2939d069a838282"},"Gross":60.3,"Movies#":1,"Person":"Kay Cannon","TotalGross($)":60.3,"#1Picture":"Blockers","MovieAverage($)":60.3}
+{"_id":{"$oid":"5c982156e2939d069a838283"},"Gross":77.2,"Movies#":4,"Person":"Joe Carnahan","TotalGross($)":175.1,"#1Picture":"The A-Team","MovieAverage($)":43.8}
+{"_id":{"$oid":"5c982156e2939d069a838284"},"Gross":44.5,"Movies#":4,"Person":"Niki Caro","TotalGross($)":101.2,"#1Picture":"McFarland, USA","MovieAverage($)":25.3}
+{"_id":{"$oid":"5c982156e2939d069a838285"},"Gross":47.0,"Movies#":15,"Person":"John Carpenter","TotalGross($)":288.6,"#1Picture":"Halloween","MovieAverage($)":19.2}
+{"_id":{"$oid":"5c982156e2939d069a838286"},"Gross":146.3,"Movies#":7,"Person":"Steve Carr","TotalGross($)":507.4,"#1Picture":"Paul Blart: Mall Cop","MovieAverage($)":72.5}
+{"_id":{"$oid":"5c982156e2939d069a838287"},"Gross":91.1,"Movies#":5,"Person":"Thomas Carter","TotalGross($)":226.1,"#1Picture":"Save the Last Dance","MovieAverage($)":45.2}
+{"_id":{"$oid":"5c982156e2939d069a838288"},"Gross":101.4,"Movies#":8,"Person":"D.J. Caruso","TotalGross($)":340.5,"#1Picture":"Eagle Eye","MovieAverage($)":42.6}
+{"_id":{"$oid":"5c982156e2939d069a838289"},"Gross":83.9,"Movies#":7,"Person":"Nick Cassavetes","TotalGross($)":308.7,"#1Picture":"The Other Woman","MovieAverage($)":44.1}
+{"_id":{"$oid":"5c982156e2939d069a83828a"},"Gross":54.9,"Movies#":9,"Person":"Michael Caton-Jones","TotalGross($)":210.2,"#1Picture":"The Jackal","MovieAverage($)":23.4}
+{"_id":{"$oid":"5c982156e2939d069a83828b"},"Gross":2.0,"Movies#":3,"Person":"Joseph Cedar","TotalGross($)":2.1,"#1Picture":"Footnote","MovieAverage($)":0.715}
+{"_id":{"$oid":"5c982156e2939d069a83828c"},"Gross":26.8,"Movies#":4,"Person":"Justin Chadwick","TotalGross($)":37.9,"#1Picture":"The Other Boleyn Girl","MovieAverage($)":9.5}
+{"_id":{"$oid":"5c982156e2939d069a83828d"},"Gross":0.136,"Movies#":1,"Person":"Jackie Chan","TotalGross($)":0.136,"#1Picture":"1911","MovieAverage($)":0.136}
+{"_id":{"$oid":"5c982156e2939d069a83828e"},"Gross":6.3,"Movies#":3,"Person":"J.C. Chandor","TotalGross($)":17.4,"#1Picture":"All Is Lost","MovieAverage($)":5.8}
+{"_id":{"$oid":"5c982156e2939d069a83828f"},"Gross":80.3,"Movies#":6,"Person":"Jay Chandrasekhar","TotalGross($)":153.6,"#1Picture":"The Dukes of Hazzard","MovieAverage($)":25.6}
+{"_id":{"$oid":"5c982156e2939d069a838290"},"Gross":237.3,"Movies#":2,"Person":"Brenda Chapman","TotalGross($)":338.7,"#1Picture":"Brave","MovieAverage($)":169.3}
+{"_id":{"$oid":"5c982156e2939d069a838291"},"Gross":128.5,"Movies#":5,"Person":"Larry Charles","TotalGross($)":261.8,"#1Picture":"Borat","MovieAverage($)":52.4}
+{"_id":{"$oid":"5c982156e2939d069a838292"},"Gross":0.611,"Movies#":1,"Person":"David Chase","TotalGross($)":0.611,"#1Picture":"Not Fade Away","MovieAverage($)":0.611}
+{"_id":{"$oid":"5c982156e2939d069a838293"},"Gross":151.1,"Movies#":4,"Person":"Damien Chazelle","TotalGross($)":209.2,"#1Picture":"La La Land","MovieAverage($)":52.3}
+{"_id":{"$oid":"5c982156e2939d069a838294"},"Gross":132.4,"Movies#":2,"Person":"Stephen Chbosky","TotalGross($)":150.2,"#1Picture":"Wonder","MovieAverage($)":75.1}
+{"_id":{"$oid":"5c982156e2939d069a838295"},"Gross":2.6,"Movies#":1,"Person":"Don Cheadle","TotalGross($)":2.6,"#1Picture":"Miles Ahead","MovieAverage($)":2.6}
+{"_id":{"$oid":"5c982156e2939d069a838296"},"Gross":79.6,"Movies#":9,"Person":"Peter Chelsom","TotalGross($)":211.0,"#1Picture":"Hannah Montana The Movie","MovieAverage($)":23.4}
+{"_id":{"$oid":"5c982156e2939d069a838297"},"Gross":20.8,"Movies#":3,"Person":"Lisa Cholodenko","TotalGross($)":26.4,"#1Picture":"The Kids Are All Right","MovieAverage($)":8.8}
+{"_id":{"$oid":"5c982156e2939d069a838298"},"Gross":7.0,"Movies#":2,"Person":"Sylvain Chomet","TotalGross($)":9.2,"#1Picture":"The Triplets of Belleville","MovieAverage($)":4.6}
+{"_id":{"$oid":"5c982156e2939d069a838299"},"Gross":37.3,"Movies#":1,"Person":"Christian E. Christiansen","TotalGross($)":37.3,"#1Picture":"The Roommate","MovieAverage($)":37.3}
+{"_id":{"$oid":"5c982156e2939d069a83829a"},"Gross":174.5,"Movies#":8,"Person":"Jon Chu","TotalGross($)":544.0,"#1Picture":"Crazy Rich Asians","MovieAverage($)":68.0}
+{"_id":{"$oid":"5c982156e2939d069a83829b"},"Gross":21.4,"Movies#":3,"Person":"Derek Cianfrance","TotalGross($)":43.7,"#1Picture":"The Place Beyond the Pines","MovieAverage($)":14.6}
+{"_id":{"$oid":"5c982156e2939d069a83829c"},"Gross":49.0,"Movies#":7,"Person":"Michael Cimino","TotalGross($)":101.0,"#1Picture":"The Deer Hunter","MovieAverage($)":14.4}
+{"_id":{"$oid":"5c982156e2939d069a83829d"},"Gross":78.0,"Movies#":6,"Person":"George Clooney","TotalGross($)":203.7,"#1Picture":"The Monuments Men","MovieAverage($)":34.0}
+{"_id":{"$oid":"5c982156e2939d069a83829e"},"Gross":171.2,"Movies#":8,"Person":"Ethan Coen","TotalGross($)":402.5,"#1Picture":"True Grit","MovieAverage($)":50.3}
+{"_id":{"$oid":"5c982156e2939d069a83829f"},"Gross":171.2,"Movies#":18,"Person":"Joel Coen","TotalGross($)":574.2,"#1Picture":"True Grit","MovieAverage($)":31.9}
+{"_id":{"$oid":"5c982156e2939d069a8382a0"},"Gross":368.1,"Movies#":4,"Person":"Pierre Coffin","TotalGross($)":1220.2,"#1Picture":"Despicable Me 2","MovieAverage($)":305.1}
+{"_id":{"$oid":"5c982156e2939d069a8382a1"},"Gross":25.6,"Movies#":1,"Person":"Andrew J. Cohen","TotalGross($)":25.6,"#1Picture":"The House","MovieAverage($)":25.6}
+{"_id":{"$oid":"5c982156e2939d069a8382a2"},"Gross":90.4,"Movies#":2,"Person":"Etan Cohen","TotalGross($)":121.0,"#1Picture":"Get Hard","MovieAverage($)":60.5}
+{"_id":{"$oid":"5c982156e2939d069a8382a3"},"Gross":144.5,"Movies#":13,"Person":"Rob Cohen","TotalGross($)":644.5,"#1Picture":"Fast and the Furious","MovieAverage($)":49.6}
+{"_id":{"$oid":"5c982156e2939d069a8382a4"},"Gross":92.2,"Movies#":8,"Person":"Jaume Collet-Serra","TotalGross($)":347.7,"#1Picture":"Non-Stop","MovieAverage($)":43.5}
+{"_id":{"$oid":"5c982156e2939d069a8382a5"},"Gross":317.9,"Movies#":15,"Person":"Chris Columbus","TotalGross($)":1750.8,"#1Picture":"Harry Potter / Sorcerer's Stone","MovieAverage($)":116.7}
+{"_id":{"$oid":"5c982156e2939d069a8382a6"},"Gross":504.0,"Movies#":9,"Person":"Bill Condon","TotalGross($)":1232.6,"#1Picture":"Beauty and the Beast","MovieAverage($)":137.0}
+{"_id":{"$oid":"5c982156e2939d069a8382a7"},"Gross":0.409,"Movies#":1,"Person":"Steve Conrad","TotalGross($)":0.409,"#1Picture":"The Promotion","MovieAverage($)":0.409}
+{"_id":{"$oid":"5c982156e2939d069a8382a8"},"Gross":700.1,"Movies#":3,"Person":"Ryan Coogler","TotalGross($)":825.9,"#1Picture":"Black Panther","MovieAverage($)":275.3}
+{"_id":{"$oid":"5c982156e2939d069a8382a9"},"Gross":120.6,"Movies#":2,"Person":"Barry Cook","TotalGross($)":156.7,"#1Picture":"Mulan","MovieAverage($)":78.3}
+{"_id":{"$oid":"5c982156e2939d069a8382aa"},"Gross":28.4,"Movies#":1,"Person":"Greg Coolidge","TotalGross($)":28.4,"#1Picture":"Employee of the Month","MovieAverage($)":28.4}
+{"_id":{"$oid":"5c982156e2939d069a8382ab"},"Gross":29.0,"Movies#":11,"Person":"Martha Coolidge","TotalGross($)":135.7,"#1Picture":"Out to Sea","MovieAverage($)":12.3}
+{"_id":{"$oid":"5c982156e2939d069a8382ac"},"Gross":215.2,"Movies#":1,"Person":"Bradley Cooper","TotalGross($)":215.2,"#1Picture":"A Star is Born","MovieAverage($)":215.2}
+{"_id":{"$oid":"5c982156e2939d069a8382ad"},"Gross":62.6,"Movies#":4,"Person":"Scott Cooper","TotalGross($)":143.2,"#1Picture":"Black Mass","MovieAverage($)":35.8}
+{"_id":{"$oid":"5c982156e2939d069a8382ae"},"Gross":135.0,"Movies#":17,"Person":"Francis Ford Coppola","TotalGross($)":723.8,"#1Picture":"The Godfather","MovieAverage($)":42.6}
+{"_id":{"$oid":"5c982156e2939d069a8382af"},"Gross":0.414,"Movies#":2,"Person":"Roman Coppola","TotalGross($)":0.46,"#1Picture":"CQ","MovieAverage($)":0.23}
+{"_id":{"$oid":"5c982156e2939d069a8382b0"},"Gross":44.6,"Movies#":6,"Person":"Sofia Coppola","TotalGross($)":83.8,"#1Picture":"Lost in Translation","MovieAverage($)":14.0}
+{"_id":{"$oid":"5c982156e2939d069a8382b1"},"Gross":161.5,"Movies#":7,"Person":"Frank Coraci","TotalGross($)":575.0,"#1Picture":"Waterboy","MovieAverage($)":82.1}
+{"_id":{"$oid":"5c982156e2939d069a8382b2"},"Gross":35.6,"Movies#":3,"Person":"Anton Corbijn","TotalGross($)":53.7,"#1Picture":"The American","MovieAverage($)":17.9}
+{"_id":{"$oid":"5c982156e2939d069a8382b3"},"Gross":16.8,"Movies#":2,"Person":"Joe Cornish","TotalGross($)":17.8,"#1Picture":"The Kid Who Would be King","MovieAverage($)":8.9}
+{"_id":{"$oid":"5c982156e2939d069a8382b4"},"Gross":1.0,"Movies#":2,"Person":"Rodrigo Cortes","TotalGross($)":1.1,"#1Picture":"Buried","MovieAverage($)":0.548}
+{"_id":{"$oid":"5c982156e2939d069a8382b5"},"Gross":184.2,"Movies#":4,"Person":"Kevin Costner","TotalGross($)":348.4,"#1Picture":"Dances with Wolves","MovieAverage($)":87.1}
+{"_id":{"$oid":"5c982156e2939d069a8382b6"},"Gross":19.1,"Movies#":2,"Person":"Allen Coulter","TotalGross($)":33.5,"#1Picture":"Remember Me","MovieAverage($)":16.7}
+{"_id":{"$oid":"5c982156e2939d069a8382b7"},"Gross":0.011,"Movies#":1,"Person":"Courteney Cox","TotalGross($)":0.011,"#1Picture":"Just Before I Go","MovieAverage($)":0.011}
+{"_id":{"$oid":"5c982156e2939d069a8382b8"},"Gross":103.0,"Movies#":16,"Person":"Wes Craven","TotalGross($)":579.5,"#1Picture":"Scream","MovieAverage($)":36.2}
+{"_id":{"$oid":"5c982156e2939d069a8382b9"},"Gross":2.3,"Movies#":2,"Person":"Eran Creevy","TotalGross($)":2.3,"#1Picture":"Collide","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982156e2939d069a8382ba"},"Gross":154.0,"Movies#":9,"Person":"Cameron Crowe","TotalGross($)":450.4,"#1Picture":"Jerry Maguire","MovieAverage($)":50.0}
+{"_id":{"$oid":"5c982156e2939d069a8382bb"},"Gross":4.2,"Movies#":1,"Person":"Russell Crowe","TotalGross($)":4.2,"#1Picture":"The Water Diviner","MovieAverage($)":4.2}
+{"_id":{"$oid":"5c982156e2939d069a8382bc"},"Gross":38.3,"Movies#":5,"Person":"John Crowley","TotalGross($)":47.1,"#1Picture":"Brooklyn","MovieAverage($)":9.4}
+{"_id":{"$oid":"5c982156e2939d069a8382bd"},"Gross":274.1,"Movies#":7,"Person":"Alfonso Cuaron","TotalGross($)":609.7,"#1Picture":"Gravity","MovieAverage($)":87.1}
+{"_id":{"$oid":"5c982156e2939d069a8382be"},"Gross":2.0,"Movies#":1,"Person":"Jonas Cuaron","TotalGross($)":2.0,"#1Picture":"Desierto","MovieAverage($)":2.0}
+{"_id":{"$oid":"5c982156e2939d069a8382bf"},"Gross":23.0,"Movies#":1,"Person":"Ice Cube","TotalGross($)":23.0,"#1Picture":"Players Club","MovieAverage($)":23.0}
+{"_id":{"$oid":"5c982156e2939d069a8382c0"},"Gross":36.2,"Movies#":5,"Person":"Michael Cuesta","TotalGross($)":39.9,"#1Picture":"American Assassin","MovieAverage($)":8.0}
+{"_id":{"$oid":"5c982156e2939d069a8382c1"},"Gross":17.4,"Movies#":6,"Person":"John Curran","TotalGross($)":29.8,"#1Picture":"Chappaquiddick","MovieAverage($)":5.0}
+{"_id":{"$oid":"5c982156e2939d069a8382c2"},"Gross":50.5,"Movies#":2,"Person":"R.J. Cutler","TotalGross($)":54.3,"#1Picture":"If I Stay","MovieAverage($)":27.1}
+{"_id":{"$oid":"5c982156e2939d069a8382c3"},"Gross":33.4,"Movies#":4,"Person":"Dinesh D'Souza","TotalGross($)":66.9,"#1Picture":"2016 Obama's America","MovieAverage($)":16.7}
+{"_id":{"$oid":"5c982156e2939d069a8382c4"},"Gross":22.9,"Movies#":8,"Person":"John Dahl","TotalGross($)":68.9,"#1Picture":"Rounders","MovieAverage($)":8.6}
+{"_id":{"$oid":"5c982156e2939d069a8382c5"},"Gross":41.7,"Movies#":5,"Person":"Stephen Daldry","TotalGross($)":129.7,"#1Picture":"The Hours","MovieAverage($)":25.9}
+{"_id":{"$oid":"5c982156e2939d069a8382c6"},"Gross":116.6,"Movies#":4,"Person":"Lee Daniels","TotalGross($)":165.3,"#1Picture":"The Butler","MovieAverage($)":41.3}
+{"_id":{"$oid":"5c982156e2939d069a8382c7"},"Gross":1.0,"Movies#":1,"Person":"Paul Dano","TotalGross($)":1.0,"#1Picture":"Wildlife","MovieAverage($)":1.0}
+{"_id":{"$oid":"5c982156e2939d069a8382c8"},"Gross":136.8,"Movies#":4,"Person":"Frank Darabont","TotalGross($)":218.5,"#1Picture":"Green Mile","MovieAverage($)":54.6}
+{"_id":{"$oid":"5c982156e2939d069a8382c9"},"Gross":216.4,"Movies#":5,"Person":"Eric Darnell","TotalGross($)":764.1,"#1Picture":"Madagascar 3","MovieAverage($)":152.8}
+{"_id":{"$oid":"5c982156e2939d069a8382ca"},"Gross":183.9,"Movies#":11,"Person":"Andrew Davis","TotalGross($)":571.8,"#1Picture":"The Fugitive","MovieAverage($)":52.0}
+{"_id":{"$oid":"5c982156e2939d069a8382cb"},"Gross":59.9,"Movies#":3,"Person":"Jonathan Dayton","TotalGross($)":75.1,"#1Picture":"Little Miss Sunshine","MovieAverage($)":25.0}
+{"_id":{"$oid":"5c982156e2939d069a8382cc"},"Gross":187.2,"Movies#":2,"Person":"Kirk De Micco","TotalGross($)":217.3,"#1Picture":"The Croods","MovieAverage($)":108.6}
+{"_id":{"$oid":"5c982156e2939d069a8382cd"},"Gross":181.0,"Movies#":18,"Person":"Brian De Palma","TotalGross($)":636.1,"#1Picture":"Mission: Impossible","MovieAverage($)":35.3}
+{"_id":{"$oid":"5c982156e2939d069a8382ce"},"Gross":217.6,"Movies#":4,"Person":"Dean DeBlois","TotalGross($)":686.1,"#1Picture":"How to Train Your Dragon","MovieAverage($)":171.5}
+{"_id":{"$oid":"5c982156e2939d069a8382cf"},"Gross":241.7,"Movies#":5,"Person":"Jan DeBont","TotalGross($)":568.6,"#1Picture":"Twister","MovieAverage($)":113.7}
+{"_id":{"$oid":"5c982156e2939d069a8382d0"},"Gross":1.7,"Movies#":3,"Person":"Adam Del Deo","TotalGross($)":1.8,"#1Picture":"Every Little Step","MovieAverage($)":0.59}
+{"_id":{"$oid":"5c982156e2939d069a8382d1"},"Gross":101.8,"Movies#":10,"Person":"Guillermo del Toro","TotalGross($)":479.2,"#1Picture":"Pacific Rim","MovieAverage($)":47.9}
+{"_id":{"$oid":"5c982156e2939d069a8382d2"},"Gross":20.4,"Movies#":2,"Person":"Camille Delamarre","TotalGross($)":36.4,"#1Picture":"Brick Mansions","MovieAverage($)":18.2}
+{"_id":{"$oid":"5c982156e2939d069a8382d3"},"Gross":4.4,"Movies#":3,"Person":"Julie Delpy","TotalGross($)":5.1,"#1Picture":"2 Days in Paris","MovieAverage($)":1.7}
+{"_id":{"$oid":"5c982156e2939d069a8382d4"},"Gross":130.7,"Movies#":20,"Person":"Jonathan Demme","TotalGross($)":391.9,"#1Picture":"Silence of the Lambs","MovieAverage($)":19.6}
+{"_id":{"$oid":"5c982156e2939d069a8382d5"},"Gross":72.0,"Movies#":2,"Person":"James DeMonaco","TotalGross($)":136.4,"#1Picture":"The Purge: Anarchy","MovieAverage($)":68.2}
+{"_id":{"$oid":"5c982156e2939d069a8382d6"},"Gross":2.3,"Movies#":3,"Person":"Claire Denis","TotalGross($)":3.2,"#1Picture":"Chocolat (1989)","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982156e2939d069a8382d7"},"Gross":232.6,"Movies#":5,"Person":"Scott Derrickson","TotalGross($)":465.7,"#1Picture":"Doctor Strange","MovieAverage($)":93.1}
+{"_id":{"$oid":"5c982156e2939d069a8382d8"},"Gross":86.9,"Movies#":6,"Person":"Danny DeVito","TotalGross($)":220.6,"#1Picture":"The War of the Roses","MovieAverage($)":36.8}
+{"_id":{"$oid":"5c982156e2939d069a8382d9"},"Gross":33.7,"Movies#":2,"Person":"Dean Devlin","TotalGross($)":37.1,"#1Picture":"Geostorm","MovieAverage($)":18.6}
+{"_id":{"$oid":"5c982156e2939d069a8382da"},"Gross":88.7,"Movies#":4,"Person":"Tom Dey","TotalGross($)":217.4,"#1Picture":"Failure to Launch","MovieAverage($)":54.3}
+{"_id":{"$oid":"5c982156e2939d069a8382db"},"Gross":11.7,"Movies#":1,"Person":"Heitor Dhalia","TotalGross($)":11.7,"#1Picture":"Gone","MovieAverage($)":11.7}
+{"_id":{"$oid":"5c982156e2939d069a8382dc"},"Gross":0.919,"Movies#":1,"Person":"Prabhu Dheva","TotalGross($)":0.919,"#1Picture":"Singh is Bling","MovieAverage($)":0.919}
+{"_id":{"$oid":"5c982156e2939d069a8382dd"},"Gross":11.4,"Movies#":1,"Person":"Denise Di Novi","TotalGross($)":11.4,"#1Picture":"Unforgettable","MovieAverage($)":11.4}
+{"_id":{"$oid":"5c982156e2939d069a8382de"},"Gross":1.1,"Movies#":5,"Person":"Tom DiCillo","TotalGross($)":2.2,"#1Picture":"Living in Oblivion","MovieAverage($)":0.431}
+{"_id":{"$oid":"5c982156e2939d069a8382df"},"Gross":0.307,"Movies#":5,"Person":"Kirby Dick","TotalGross($)":0.831,"#1Picture":"This Film Is Not Yet Rated","MovieAverage($)":0.166}
+{"_id":{"$oid":"5c982156e2939d069a8382e0"},"Gross":21.6,"Movies#":6,"Person":"Ernest R. Dickerson","TotalGross($)":83.5,"#1Picture":"Bulletproof","MovieAverage($)":13.9}
+{"_id":{"$oid":"5c982156e2939d069a8382e1"},"Gross":209.3,"Movies#":6,"Person":"David Dobkin","TotalGross($)":427.7,"#1Picture":"Wedding Crashers","MovieAverage($)":71.3}
+{"_id":{"$oid":"5c982156e2939d069a8382e2"},"Gross":356.5,"Movies#":3,"Person":"Pete Docter","TotalGross($)":939.4,"#1Picture":"Inside Out","MovieAverage($)":313.1}
+{"_id":{"$oid":"5c982156e2939d069a8382e3"},"Gross":3.5,"Movies#":2,"Person":"Xavier Dolan","TotalGross($)":3.6,"#1Picture":"Mommy","MovieAverage($)":1.8}
+{"_id":{"$oid":"5c982156e2939d069a8382e4"},"Gross":15.0,"Movies#":3,"Person":"Andrew Dominik","TotalGross($)":19.2,"#1Picture":"Killing Them Softly","MovieAverage($)":6.4}
+{"_id":{"$oid":"5c982156e2939d069a8382e5"},"Gross":78.2,"Movies#":15,"Person":"Roger Donaldson","TotalGross($)":452.8,"#1Picture":"Cocktail","MovieAverage($)":30.2}
+{"_id":{"$oid":"5c982156e2939d069a8382e6"},"Gross":147.3,"Movies#":16,"Person":"Richard Donner","TotalGross($)":1139.3,"#1Picture":"Lethal Weapon 2","MovieAverage($)":71.2}
+{"_id":{"$oid":"5c982156e2939d069a8382e7"},"Gross":42.7,"Movies#":1,"Person":"Michael Dougherty","TotalGross($)":42.7,"#1Picture":"Krampus","MovieAverage($)":42.7}
+{"_id":{"$oid":"5c982156e2939d069a8382e8"},"Gross":33.6,"Movies#":1,"Person":"Drew Dowdle","TotalGross($)":33.6,"#1Picture":"Devil","MovieAverage($)":33.6}
+{"_id":{"$oid":"5c982156e2939d069a8382e9"},"Gross":33.6,"Movies#":4,"Person":"John Erick Dowdle","TotalGross($)":113.9,"#1Picture":"Devil","MovieAverage($)":28.5}
+{"_id":{"$oid":"5c982156e2939d069a8382ea"},"Gross":6.9,"Movies#":3,"Person":"Michael Dowse","TotalGross($)":10.5,"#1Picture":"Take Me Home Tonight","MovieAverage($)":3.5}
+{"_id":{"$oid":"5c982156e2939d069a8382eb"},"Gross":0.0069,"Movies#":1,"Person":"Adam Driver","TotalGross($)":0.0069,"#1Picture":"Hungry Hearts","MovieAverage($)":0.0069}
+{"_id":{"$oid":"5c982156e2939d069a8382ec"},"Gross":49.8,"Movies#":3,"Person":"Frederik Du Chau","TotalGross($)":116.0,"#1Picture":"Racing Stripes","MovieAverage($)":38.7}
+{"_id":{"$oid":"5c982156e2939d069a8382ed"},"Gross":49.8,"Movies#":2,"Person":"Frederik Du Chou","TotalGross($)":72.3,"#1Picture":"Racing Stripes","MovieAverage($)":36.1}
+{"_id":{"$oid":"5c982156e2939d069a8382ee"},"Gross":0.389,"Movies#":1,"Person":"David Duchovny","TotalGross($)":0.389,"#1Picture":"House of D","MovieAverage($)":0.389}
+{"_id":{"$oid":"5c982156e2939d069a8382ef"},"Gross":163.5,"Movies#":14,"Person":"Dennis Dugan","TotalGross($)":1096.7,"#1Picture":"Big Daddy","MovieAverage($)":78.3}
+{"_id":{"$oid":"5c982156e2939d069a8382f0"},"Gross":57.3,"Movies#":7,"Person":"Bill Duke","TotalGross($)":124.6,"#1Picture":"Sister Act 2: Back in the Habit","MovieAverage($)":17.8}
+{"_id":{"$oid":"5c982156e2939d069a8382f1"},"Gross":7.7,"Movies#":2,"Person":"Marcus Dunstan","TotalGross($)":14.6,"#1Picture":"The Collector","MovieAverage($)":7.3}
+{"_id":{"$oid":"5c982156e2939d069a8382f2"},"Gross":7.5,"Movies#":5,"Person":"Jay Duplass","TotalGross($)":12.1,"#1Picture":"Cyrus","MovieAverage($)":2.4}
+{"_id":{"$oid":"5c982156e2939d069a8382f3"},"Gross":7.5,"Movies#":4,"Person":"Mark Duplass","TotalGross($)":11.9,"#1Picture":"Cyrus","MovieAverage($)":3.0}
+{"_id":{"$oid":"5c982156e2939d069a8382f4"},"Gross":19.9,"Movies#":2,"Person":"Robert Duvall","TotalGross($)":20.9,"#1Picture":"The Apostle","MovieAverage($)":10.4}
+{"_id":{"$oid":"5c982156e2939d069a8382f5"},"Gross":100.5,"Movies#":4,"Person":"Ava DuVernay","TotalGross($)":152.9,"#1Picture":"A Wrinkle in Time","MovieAverage($)":38.2}
+{"_id":{"$oid":"5c982156e2939d069a8382f6"},"Gross":350.1,"Movies#":36,"Person":"Clint Eastwood","TotalGross($)":1956.1,"#1Picture":"American Sniper","MovieAverage($)":54.3}
+{"_id":{"$oid":"5c982156e2939d069a8382f7"},"Gross":532.2,"Movies#":3,"Person":"Gareth Edwards","TotalGross($)":733.1,"#1Picture":"Rogue One","MovieAverage($)":244.4}
+{"_id":{"$oid":"5c982156e2939d069a8382f8"},"Gross":3.1,"Movies#":5,"Person":"Atom Egoyan","TotalGross($)":6.8,"#1Picture":"Chloe","MovieAverage($)":1.4}
+{"_id":{"$oid":"5c982156e2939d069a8382f9"},"Gross":0.0313,"Movies#":1,"Person":"Idris Elba","TotalGross($)":0.0313,"#1Picture":"Yardie","MovieAverage($)":0.0313}
+{"_id":{"$oid":"5c982156e2939d069a8382fa"},"Gross":16.5,"Movies#":4,"Person":"Stephan Elliot","TotalGross($)":30.4,"#1Picture":"Eye of the Beholder","MovieAverage($)":7.6}
+{"_id":{"$oid":"5c982156e2939d069a8382fb"},"Gross":66.5,"Movies#":6,"Person":"David R. Ellis","TotalGross($)":231.1,"#1Picture":"The Final Destination","MovieAverage($)":38.5}
+{"_id":{"$oid":"5c982156e2939d069a8382fc"},"Gross":306.2,"Movies#":12,"Person":"Roland Emmerich","TotalGross($)":1292.2,"#1Picture":"Independence Day","MovieAverage($)":107.7}
+{"_id":{"$oid":"5c982156e2939d069a8382fd"},"Gross":126.8,"Movies#":8,"Person":"Nora Ephron","TotalGross($)":515.2,"#1Picture":"Sleepless in Seattle","MovieAverage($)":64.4}
+{"_id":{"$oid":"5c982156e2939d069a8382fe"},"Gross":83.5,"Movies#":4,"Person":"Andrew Erwin","TotalGross($)":113.7,"#1Picture":"I Can Only Imagine","MovieAverage($)":28.4}
+{"_id":{"$oid":"5c982156e2939d069a8382ff"},"Gross":83.5,"Movies#":4,"Person":"Jon Erwin","TotalGross($)":113.7,"#1Picture":"I Can Only Imagine","MovieAverage($)":28.4}
+{"_id":{"$oid":"5c982156e2939d069a838300"},"Gross":126.4,"Movies#":4,"Person":"Daniel Espinosa","TotalGross($)":158.0,"#1Picture":"Safe House","MovieAverage($)":39.5}
+{"_id":{"$oid":"5c982156e2939d069a838301"},"Gross":0.604,"Movies#":2,"Person":"Jacob Aaron Estes","TotalGross($)":0.668,"#1Picture":"Mean Creek","MovieAverage($)":0.334}
+{"_id":{"$oid":"5c982156e2939d069a838302"},"Gross":28.5,"Movies#":2,"Person":"Bruce A. Evans","TotalGross($)":49.7,"#1Picture":"Mr. Brooks","MovieAverage($)":24.8}
+{"_id":{"$oid":"5c982156e2939d069a838303"},"Gross":0.0372,"Movies#":1,"Person":"Chris Evans","TotalGross($)":0.0372,"#1Picture":"Before We Go","MovieAverage($)":0.0372}
+{"_id":{"$oid":"5c982156e2939d069a838304"},"Gross":4.1,"Movies#":2,"Person":"Gareth Evans","TotalGross($)":6.7,"#1Picture":"The Raid: Redemption","MovieAverage($)":3.4}
+{"_id":{"$oid":"5c982156e2939d069a838305"},"Gross":2.7,"Movies#":2,"Person":"Philippe Falardeau","TotalGross($)":4.7,"#1Picture":"The Good Lie","MovieAverage($)":2.4}
+{"_id":{"$oid":"5c982156e2939d069a838306"},"Gross":27.4,"Movies#":3,"Person":"Rick Famuyiwa","TotalGross($)":72.7,"#1Picture":"Brown Sugar","MovieAverage($)":24.2}
+{"_id":{"$oid":"5c982156e2939d069a838307"},"Gross":59.9,"Movies#":3,"Person":"Valerie Faris","TotalGross($)":75.1,"#1Picture":"Little Miss Sunshine","MovieAverage($)":25.0}
+{"_id":{"$oid":"5c982156e2939d069a838308"},"Gross":0.842,"Movies#":1,"Person":"Vera Farmiga","TotalGross($)":0.842,"#1Picture":"Higher Ground","MovieAverage($)":0.842}
+{"_id":{"$oid":"5c982156e2939d069a838309"},"Gross":176.5,"Movies#":12,"Person":"The Farrelly Bros.","TotalGross($)":792.0,"#1Picture":"Something About Mary","MovieAverage($)":66.0}
+{"_id":{"$oid":"5c982156e2939d069a83830a"},"Gross":364.0,"Movies#":8,"Person":"Jon Favreau","TotalGross($)":1334.9,"#1Picture":"The Jungle Book","MovieAverage($)":166.9}
+{"_id":{"$oid":"5c982156e2939d069a83830b"},"Gross":169.1,"Movies#":6,"Person":"Paul Feig","TotalGross($)":638.1,"#1Picture":"Bridesmaids","MovieAverage($)":106.3}
+{"_id":{"$oid":"5c982156e2939d069a83830c"},"Gross":64.7,"Movies#":3,"Person":"Sam Fell","TotalGross($)":171.5,"#1Picture":"Flushed Away","MovieAverage($)":57.2}
+{"_id":{"$oid":"5c982156e2939d069a83830d"},"Gross":0.924,"Movies#":1,"Person":"Julian Fellowes","TotalGross($)":0.924,"#1Picture":"Separate Lies","MovieAverage($)":0.924}
+{"_id":{"$oid":"5c982156e2939d069a83830e"},"Gross":4.3,"Movies#":3,"Person":"Charles Ferguson","TotalGross($)":5.8,"#1Picture":"Inside Job","MovieAverage($)":1.9}
+{"_id":{"$oid":"5c982156e2939d069a83830f"},"Gross":23.4,"Movies#":3,"Person":"Shana Feste","TotalGross($)":43.8,"#1Picture":"Endless Love","MovieAverage($)":14.6}
+{"_id":{"$oid":"5c982156e2939d069a838310"},"Gross":84.4,"Movies#":4,"Person":"Glenn Ficarra","TotalGross($)":163.3,"#1Picture":"Crazy, Stupid, Love.","MovieAverage($)":40.8}
+{"_id":{"$oid":"5c982156e2939d069a838311"},"Gross":90.6,"Movies#":6,"Person":"Andy Fickman","TotalGross($)":365.6,"#1Picture":"The Game Plan","MovieAverage($)":60.9}
+{"_id":{"$oid":"5c982156e2939d069a838312"},"Gross":35.9,"Movies#":2,"Person":"Todd Field","TotalGross($)":41.4,"#1Picture":"In the Bedroom","MovieAverage($)":20.7}
+{"_id":{"$oid":"5c982156e2939d069a838313"},"Gross":1.2,"Movies#":2,"Person":"Ralph Fiennes","TotalGross($)":2.0,"#1Picture":"The Invisible Woman","MovieAverage($)":0.996}
+{"_id":{"$oid":"5c982156e2939d069a838314"},"Gross":167.8,"Movies#":10,"Person":"David Fincher","TotalGross($)":865.2,"#1Picture":"Gone Girl","MovieAverage($)":86.5}
+{"_id":{"$oid":"5c982156e2939d069a838315"},"Gross":50.9,"Movies#":3,"Person":"Will Finn","TotalGross($)":109.4,"#1Picture":"Road to El Dorado","MovieAverage($)":36.5}
+{"_id":{"$oid":"5c982156e2939d069a838316"},"Gross":35.1,"Movies#":2,"Person":"Mike Flanagan","TotalGross($)":62.8,"#1Picture":"Ouija 2","MovieAverage($)":31.4}
+{"_id":{"$oid":"5c982156e2939d069a838317"},"Gross":321.5,"Movies#":5,"Person":"Ryan Fleck","TotalGross($)":331.8,"#1Picture":"Captain Marvel","MovieAverage($)":66.4}
+{"_id":{"$oid":"5c982156e2939d069a838318"},"Gross":213.5,"Movies#":4,"Person":"Ruben Fleischer","TotalGross($)":372.2,"#1Picture":"Venom","MovieAverage($)":93.0}
+{"_id":{"$oid":"5c982156e2939d069a838319"},"Gross":25.6,"Movies#":7,"Person":"Andrew Fleming","TotalGross($)":106.6,"#1Picture":"Nancy Drew","MovieAverage($)":15.2}
+{"_id":{"$oid":"5c982156e2939d069a83831a"},"Gross":164.0,"Movies#":5,"Person":"Anne Fletcher","TotalGross($)":377.8,"#1Picture":"The Proposal","MovieAverage($)":75.6}
+{"_id":{"$oid":"5c982156e2939d069a83831b"},"Gross":0.0172,"Movies#":1,"Person":"Geoffrey Fletcher","TotalGross($)":0.0172,"#1Picture":"Violet \u0026 Daisy","MovieAverage($)":0.0172}
+{"_id":{"$oid":"5c982156e2939d069a83831c"},"Gross":5.6,"Movies#":2,"Person":"Dan Fogelman","TotalGross($)":9.7,"#1Picture":"Danny Collins","MovieAverage($)":4.9}
+{"_id":{"$oid":"5c982156e2939d069a83831d"},"Gross":114.6,"Movies#":13,"Person":"James Foley","TotalGross($)":333.1,"#1Picture":"Fifty Shades Darker","MovieAverage($)":25.6}
+{"_id":{"$oid":"5c982156e2939d069a83831e"},"Gross":10.7,"Movies#":2,"Person":"Tom Ford","TotalGross($)":19.8,"#1Picture":"Nocturnal Animals","MovieAverage($)":9.9}
+{"_id":{"$oid":"5c982156e2939d069a83831f"},"Gross":202.4,"Movies#":10,"Person":"Marc Forster","TotalGross($)":613.7,"#1Picture":"World War Z","MovieAverage($)":61.4}
+{"_id":{"$oid":"5c982156e2939d069a838320"},"Gross":41.0,"Movies#":4,"Person":"Jodie Foster","TotalGross($)":84.5,"#1Picture":"Money Monster","MovieAverage($)":21.1}
+{"_id":{"$oid":"5c982156e2939d069a838321"},"Gross":21.1,"Movies#":5,"Person":"James Franco","TotalGross($)":21.2,"#1Picture":"The Disaster Artist","MovieAverage($)":4.2}
+{"_id":{"$oid":"5c982156e2939d069a838322"},"Gross":26.3,"Movies#":2,"Person":"Scott Frank","TotalGross($)":30.9,"#1Picture":"A Walk Among the Tombstones","MovieAverage($)":15.5}
+{"_id":{"$oid":"5c982156e2939d069a838323"},"Gross":143.2,"Movies#":7,"Person":"David Frankel","TotalGross($)":375.0,"#1Picture":"Marley and Me","MovieAverage($)":53.6}
+{"_id":{"$oid":"5c982156e2939d069a838324"},"Gross":41.5,"Movies#":6,"Person":"Carl Franklin","TotalGross($)":145.8,"#1Picture":"High Crimes","MovieAverage($)":24.3}
+{"_id":{"$oid":"5c982156e2939d069a838325"},"Gross":56.4,"Movies#":23,"Person":"Stephen Frears","TotalGross($)":278.3,"#1Picture":"The Queen","MovieAverage($)":12.1}
+{"_id":{"$oid":"5c982156e2939d069a838326"},"Gross":28.6,"Movies#":3,"Person":"Juan Carlos Fresnadillo","TotalGross($)":29.0,"#1Picture":"28 Weeks Later","MovieAverage($)":9.7}
+{"_id":{"$oid":"5c982156e2939d069a838327"},"Gross":73.0,"Movies#":3,"Person":"Thor Freudenthal","TotalGross($)":205.6,"#1Picture":"Hotel for Dogs","MovieAverage($)":68.5}
+{"_id":{"$oid":"5c982156e2939d069a838328"},"Gross":39.7,"Movies#":4,"Person":"Jason Friedberg","TotalGross($)":128.8,"#1Picture":"Epic Movie","MovieAverage($)":32.2}
+{"_id":{"$oid":"5c982156e2939d069a838329"},"Gross":232.9,"Movies#":16,"Person":"William Friedkin","TotalGross($)":495.4,"#1Picture":"The Exorcist","MovieAverage($)":31.0}
+{"_id":{"$oid":"5c982156e2939d069a83832a"},"Gross":11.2,"Movies#":3,"Person":"Cary Fukunaga","TotalGross($)":13.9,"#1Picture":"Jane Eyre","MovieAverage($)":4.6}
+{"_id":{"$oid":"5c982156e2939d069a83832b"},"Gross":102.1,"Movies#":13,"Person":"Antoine Fuqua","TotalGross($)":729.5,"#1Picture":"The Equalizer 2","MovieAverage($)":56.1}
+{"_id":{"$oid":"5c982156e2939d069a83832c"},"Gross":58.0,"Movies#":3,"Person":"Brad Furman","TotalGross($)":92.8,"#1Picture":"The Lincoln Lawyer","MovieAverage($)":30.9}
+{"_id":{"$oid":"5c982156e2939d069a83832d"},"Gross":50.8,"Movies#":3,"Person":"Stephen Gaghan","TotalGross($)":68.8,"#1Picture":"Syriana","MovieAverage($)":22.9}
+{"_id":{"$oid":"5c982156e2939d069a83832e"},"Gross":29.8,"Movies#":7,"Person":"George Gallo","TotalGross($)":41.1,"#1Picture":"Double Take","MovieAverage($)":5.9}
+{"_id":{"$oid":"5c982156e2939d069a83832f"},"Gross":2.4,"Movies#":2,"Person":"Vincent Gallo","TotalGross($)":2.7,"#1Picture":"Buffalo '66","MovieAverage($)":1.4}
+{"_id":{"$oid":"5c982156e2939d069a838330"},"Gross":47.0,"Movies#":2,"Person":"Christophe Gans","TotalGross($)":58.2,"#1Picture":"Silent Hill","MovieAverage($)":29.1}
+{"_id":{"$oid":"5c982156e2939d069a838331"},"Gross":64.5,"Movies#":1,"Person":"Jeremy Garelick","TotalGross($)":64.5,"#1Picture":"The Wedding Ringer","MovieAverage($)":64.5}
+{"_id":{"$oid":"5c982156e2939d069a838332"},"Gross":32.7,"Movies#":2,"Person":"Alex Garland","TotalGross($)":58.2,"#1Picture":"Annihilation","MovieAverage($)":29.1}
+{"_id":{"$oid":"5c982156e2939d069a838333"},"Gross":15.2,"Movies#":2,"Person":"Ed Gass-Donnelly","TotalGross($)":15.2,"#1Picture":"The Last Exorcism Part II","MovieAverage($)":7.6}
+{"_id":{"$oid":"5c982156e2939d069a838334"},"Gross":25.8,"Movies#":2,"Person":"David Gelb","TotalGross($)":28.4,"#1Picture":"The Lazarus Effect","MovieAverage($)":14.2}
+{"_id":{"$oid":"5c982156e2939d069a838335"},"Gross":18.5,"Movies#":1,"Person":"Ricky Gervais","TotalGross($)":18.5,"#1Picture":"The Invention of Lying","MovieAverage($)":18.5}
+{"_id":{"$oid":"5c982156e2939d069a838336"},"Gross":6.0,"Movies#":2,"Person":"Sacha Gervasi","TotalGross($)":6.7,"#1Picture":"Hitchcock","MovieAverage($)":3.3}
+{"_id":{"$oid":"5c982156e2939d069a838337"},"Gross":49.0,"Movies#":2,"Person":"Greta Gerwig","TotalGross($)":49.0,"#1Picture":"Lady Bird","MovieAverage($)":24.5}
+{"_id":{"$oid":"5c982156e2939d069a838338"},"Gross":370.8,"Movies#":5,"Person":"Mel Gibson","TotalGross($)":589.2,"#1Picture":"Passion of the Christ","MovieAverage($)":117.8}
+{"_id":{"$oid":"5c982156e2939d069a838339"},"Gross":0.0041,"Movies#":1,"Person":"Karen Gillan","TotalGross($)":0.0041,"#1Picture":"The Party's Just Beginning","MovieAverage($)":0.0041}
+{"_id":{"$oid":"5c982156e2939d069a83833a"},"Gross":36.5,"Movies#":6,"Person":"Craig Gillespie","TotalGross($)":144.1,"#1Picture":"Million Dollar Arm","MovieAverage($)":24.0}
+{"_id":{"$oid":"5c982156e2939d069a83833b"},"Gross":57.1,"Movies#":10,"Person":"Terry Gilliam","TotalGross($)":216.0,"#1Picture":"12 Monkeys","MovieAverage($)":21.6}
+{"_id":{"$oid":"5c982156e2939d069a83833c"},"Gross":32.4,"Movies#":2,"Person":"Dan Gilroy","TotalGross($)":44.3,"#1Picture":"Nightcrawler","MovieAverage($)":22.2}
+{"_id":{"$oid":"5c982156e2939d069a83833d"},"Gross":113.2,"Movies#":3,"Person":"Tony Gilroy","TotalGross($)":202.8,"#1Picture":"The Bourne Legacy","MovieAverage($)":67.6}
+{"_id":{"$oid":"5c982156e2939d069a83833e"},"Gross":18.8,"Movies#":4,"Person":"Richard Glatzer","TotalGross($)":21.3,"#1Picture":"Still Alice","MovieAverage($)":5.3}
+{"_id":{"$oid":"5c982156e2939d069a83833f"},"Gross":115.3,"Movies#":5,"Person":"Will Gluck","TotalGross($)":332.6,"#1Picture":"Peter Rabbit","MovieAverage($)":66.5}
+{"_id":{"$oid":"5c982156e2939d069a838340"},"Gross":42.1,"Movies#":2,"Person":"Drew Goddard","TotalGross($)":59.9,"#1Picture":"The Cabin in the Woods","MovieAverage($)":30.0}
+{"_id":{"$oid":"5c982156e2939d069a838341"},"Gross":101.5,"Movies#":2,"Person":"Evan Goldberg","TotalGross($)":107.6,"#1Picture":"This is the End","MovieAverage($)":53.8}
+{"_id":{"$oid":"5c982156e2939d069a838342"},"Gross":19.0,"Movies#":1,"Person":"Michael Goldenberg","TotalGross($)":19.0,"#1Picture":"Bed of Roses","MovieAverage($)":19.0}
+{"_id":{"$oid":"5c982156e2939d069a838343"},"Gross":12.6,"Movies#":1,"Person":"Akiva Goldsman","TotalGross($)":12.6,"#1Picture":"Winter's Tale","MovieAverage($)":12.6}
+{"_id":{"$oid":"5c982156e2939d069a838344"},"Gross":69.2,"Movies#":2,"Person":"Jonathan M. Goldstein","TotalGross($)":128.1,"#1Picture":"Game Night","MovieAverage($)":64.0}
+{"_id":{"$oid":"5c982156e2939d069a838345"},"Gross":0.222,"Movies#":4,"Person":"Bobcat Goldthwait","TotalGross($)":0.475,"#1Picture":"World's Greatest Dad","MovieAverage($)":0.119}
+{"_id":{"$oid":"5c982156e2939d069a838346"},"Gross":98.8,"Movies#":12,"Person":"Michel Gondry","TotalGross($)":162.4,"#1Picture":"The Green Hornet","MovieAverage($)":13.5}
+{"_id":{"$oid":"5c982156e2939d069a838347"},"Gross":183.6,"Movies#":6,"Person":"Alejandro González Iñárritu","TotalGross($)":287.1,"#1Picture":"The Revenant","MovieAverage($)":47.8}
+{"_id":{"$oid":"5c982156e2939d069a838348"},"Gross":21.4,"Movies#":2,"Person":"Chris Gorak","TotalGross($)":21.5,"#1Picture":"The Darkest Hour","MovieAverage($)":10.8}
+{"_id":{"$oid":"5c982156e2939d069a838349"},"Gross":118.6,"Movies#":3,"Person":"Josh Gordon","TotalGross($)":201.1,"#1Picture":"Blades of Glory","MovieAverage($)":67.0}
+{"_id":{"$oid":"5c982156e2939d069a83834a"},"Gross":1.5,"Movies#":5,"Person":"Keith Gordon","TotalGross($)":2.8,"#1Picture":"A Midnight Clear","MovieAverage($)":0.568}
+{"_id":{"$oid":"5c982156e2939d069a83834b"},"Gross":134.5,"Movies#":5,"Person":"Seth Gordon","TotalGross($)":430.9,"#1Picture":"Identity Thief","MovieAverage($)":86.2}
+{"_id":{"$oid":"5c982156e2939d069a83834c"},"Gross":24.5,"Movies#":1,"Person":"Joseph Gordon-Levitt","TotalGross($)":24.5,"#1Picture":"Don Jon","MovieAverage($)":24.5}
+{"_id":{"$oid":"5c982156e2939d069a83834d"},"Gross":26.1,"Movies#":1,"Person":"Tom Gormican","TotalGross($)":26.1,"#1Picture":"That Awkward Moment","MovieAverage($)":26.1}
+{"_id":{"$oid":"5c982156e2939d069a83834e"},"Gross":0.0454,"Movies#":1,"Person":"Ryan Gosling","TotalGross($)":0.0454,"#1Picture":"Lost River","MovieAverage($)":0.0454}
+{"_id":{"$oid":"5c982156e2939d069a83834f"},"Gross":153.3,"Movies#":10,"Person":"Raja Gosnell","TotalGross($)":820.8,"#1Picture":"Scooby-Doo","MovieAverage($)":82.1}
+{"_id":{"$oid":"5c982156e2939d069a838350"},"Gross":52.4,"Movies#":3,"Person":"David S. Goyer","TotalGross($)":115.7,"#1Picture":"Blade: Trinity","MovieAverage($)":38.6}
+{"_id":{"$oid":"5c982156e2939d069a838351"},"Gross":30.9,"Movies#":3,"Person":"Todd Graff","TotalGross($)":37.8,"#1Picture":"Joyful Noise","MovieAverage($)":12.6}
+{"_id":{"$oid":"5c982156e2939d069a838352"},"Gross":6.5,"Movies#":3,"Person":"Debra Granik","TotalGross($)":12.6,"#1Picture":"Winter's Bone","MovieAverage($)":4.2}
+{"_id":{"$oid":"5c982156e2939d069a838353"},"Gross":15.5,"Movies#":1,"Person":"Susannah Grant","TotalGross($)":15.5,"#1Picture":"Catch and Release","MovieAverage($)":15.5}
+{"_id":{"$oid":"5c982156e2939d069a838354"},"Gross":226.0,"Movies#":9,"Person":"F. Gary Gray","TotalGross($)":758.0,"#1Picture":"Fate of the Furious","MovieAverage($)":84.2}
+{"_id":{"$oid":"5c982156e2939d069a838355"},"Gross":28.6,"Movies#":6,"Person":"James Gray","TotalGross($)":44.3,"#1Picture":"We Own the Night","MovieAverage($)":7.4}
+{"_id":{"$oid":"5c982156e2939d069a838356"},"Gross":20.4,"Movies#":3,"Person":"John Gray","TotalGross($)":24.1,"#1Picture":"Glimmer Man","MovieAverage($)":8.0}
+{"_id":{"$oid":"5c982156e2939d069a838357"},"Gross":82.1,"Movies#":2,"Person":"Dave Green","TotalGross($)":121.0,"#1Picture":"Teenage Mutant Ninja Turtles 2","MovieAverage($)":60.5}
+{"_id":{"$oid":"5c982156e2939d069a838358"},"Gross":159.3,"Movies#":13,"Person":"David Gordon Green","TotalGross($)":312.0,"#1Picture":"Halloween (2018)","MovieAverage($)":24.0}
+{"_id":{"$oid":"5c982156e2939d069a838359"},"Gross":82.4,"Movies#":4,"Person":"Luke Greenfield","TotalGross($)":193.8,"#1Picture":"Let's Be Cops","MovieAverage($)":48.4}
+{"_id":{"$oid":"5c982156e2939d069a83835a"},"Gross":227.5,"Movies#":8,"Person":"Paul Greengrass","TotalGross($)":740.6,"#1Picture":"The Bourne Ultimatum","MovieAverage($)":92.6}
+{"_id":{"$oid":"5c982156e2939d069a83835b"},"Gross":2.9,"Movies#":1,"Person":"Clark Gregg","TotalGross($)":2.9,"#1Picture":"Choke","MovieAverage($)":2.9}
+{"_id":{"$oid":"5c982156e2939d069a83835c"},"Gross":23.2,"Movies#":1,"Person":"Alister Grierson","TotalGross($)":23.2,"#1Picture":"Sanctum","MovieAverage($)":23.2}
+{"_id":{"$oid":"5c982156e2939d069a83835d"},"Gross":18.1,"Movies#":4,"Person":"Luca Guadagnino","TotalGross($)":27.6,"#1Picture":"Call Me by Your Name","MovieAverage($)":6.9}
+{"_id":{"$oid":"5c982156e2939d069a83835e"},"Gross":18.7,"Movies#":5,"Person":"Christopher Guest","TotalGross($)":45.7,"#1Picture":"Best in Show","MovieAverage($)":9.1}
+{"_id":{"$oid":"5c982156e2939d069a83835f"},"Gross":24.1,"Movies#":6,"Person":"Davis Guggenheim","TotalGross($)":42.9,"#1Picture":"An Inconvenient Truth","MovieAverage($)":7.2}
+{"_id":{"$oid":"5c982156e2939d069a838360"},"Gross":389.8,"Movies#":4,"Person":"James Gunn","TotalGross($)":731.1,"#1Picture":"Guardians of the Galaxy 2","MovieAverage($)":182.8}
+{"_id":{"$oid":"5c982156e2939d069a838361"},"Gross":50.2,"Movies#":1,"Person":"Jorge R. Gutierrez","TotalGross($)":50.2,"#1Picture":"The Book of Life","MovieAverage($)":50.2}
+{"_id":{"$oid":"5c982156e2939d069a838362"},"Gross":129.8,"Movies#":14,"Person":"Taylor Hackford","TotalGross($)":426.8,"#1Picture":"An Officer and a Gentleman","MovieAverage($)":30.5}
+{"_id":{"$oid":"5c982156e2939d069a838363"},"Gross":72.0,"Movies#":6,"Person":"Mikael Hafstrom","TotalGross($)":166.3,"#1Picture":"1408","MovieAverage($)":27.7}
+{"_id":{"$oid":"5c982156e2939d069a838364"},"Gross":54.6,"Movies#":4,"Person":"Paul Haggis","TotalGross($)":83.5,"#1Picture":"Crash","MovieAverage($)":20.9}
+{"_id":{"$oid":"5c982156e2939d069a838365"},"Gross":0.0807,"Movies#":1,"Person":"Don Hahn","TotalGross($)":0.0807,"#1Picture":"Waking Sleeping Beauty","MovieAverage($)":0.0807}
+{"_id":{"$oid":"5c982156e2939d069a838366"},"Gross":222.5,"Movies#":2,"Person":"Don Hall","TotalGross($)":249.2,"#1Picture":"Big Hero 6","MovieAverage($)":124.6}
+{"_id":{"$oid":"5c982156e2939d069a838367"},"Gross":9.5,"Movies#":1,"Person":"Jason Dean Hall","TotalGross($)":9.5,"#1Picture":"Thank You for Your Service (2017)","MovieAverage($)":9.5}
+{"_id":{"$oid":"5c982156e2939d069a838368"},"Gross":90.3,"Movies#":1,"Person":"Klay Hall","TotalGross($)":90.3,"#1Picture":"Planes","MovieAverage($)":90.3}
+{"_id":{"$oid":"5c982156e2939d069a838369"},"Gross":80.0,"Movies#":16,"Person":"Lasse Hallstrom","TotalGross($)":585.7,"#1Picture":"Dear John","MovieAverage($)":36.6}
+{"_id":{"$oid":"5c982156e2939d069a83836a"},"Gross":3.2,"Movies#":3,"Person":"Christopher Hampton","TotalGross($)":3.4,"#1Picture":"Carrington","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982156e2939d069a83836b"},"Gross":256.0,"Movies#":5,"Person":"John Lee Hancock","TotalGross($)":450.1,"#1Picture":"The Blind Side","MovieAverage($)":90.0}
+{"_id":{"$oid":"5c982156e2939d069a83836c"},"Gross":6.7,"Movies#":8,"Person":"Michael Haneke","TotalGross($)":15.4,"#1Picture":"Amour","MovieAverage($)":1.9}
+{"_id":{"$oid":"5c982156e2939d069a83836d"},"Gross":35.6,"Movies#":2,"Person":"Tom Hanks","TotalGross($)":61.5,"#1Picture":"Larry Crowne","MovieAverage($)":30.7}
+{"_id":{"$oid":"5c982156e2939d069a83836e"},"Gross":116.8,"Movies#":11,"Person":"Curtis Hanson","TotalGross($)":406.8,"#1Picture":"8 Mile","MovieAverage($)":37.0}
+{"_id":{"$oid":"5c982156e2939d069a83836f"},"Gross":192.8,"Movies#":8,"Person":"Catherine Hardwicke","TotalGross($)":300.1,"#1Picture":"Twilight","MovieAverage($)":37.5}
+{"_id":{"$oid":"5c982156e2939d069a838370"},"Gross":15.8,"Movies#":3,"Person":"Rob Hardy","TotalGross($)":17.8,"#1Picture":"The Gospel","MovieAverage($)":5.9}
+{"_id":{"$oid":"5c982156e2939d069a838371"},"Gross":1.3,"Movies#":3,"Person":"David Hare","TotalGross($)":2.3,"#1Picture":"Wetherby","MovieAverage($)":0.76}
+{"_id":{"$oid":"5c982156e2939d069a838372"},"Gross":117.5,"Movies#":16,"Person":"Renny Harlin","TotalGross($)":526.7,"#1Picture":"Die Hard 2","MovieAverage($)":32.9}
+{"_id":{"$oid":"5c982156e2939d069a838373"},"Gross":26.5,"Movies#":1,"Person":"Tom Harper","TotalGross($)":26.5,"#1Picture":"Woman in Black 2","MovieAverage($)":26.5}
+{"_id":{"$oid":"5c982156e2939d069a838374"},"Gross":0.229,"Movies#":1,"Person":"Dan Harris","TotalGross($)":0.229,"#1Picture":"Imaginary Heroes","MovieAverage($)":0.229}
+{"_id":{"$oid":"5c982156e2939d069a838375"},"Gross":20.2,"Movies#":2,"Person":"Ed Harris","TotalGross($)":28.8,"#1Picture":"Appaloosa","MovieAverage($)":14.4}
+{"_id":{"$oid":"5c982156e2939d069a838376"},"Gross":0.744,"Movies#":3,"Person":"Ethan Hawke","TotalGross($)":1.5,"#1Picture":"Seymour: An Introduction","MovieAverage($)":0.491}
+{"_id":{"$oid":"5c982156e2939d069a838377"},"Gross":154.5,"Movies#":3,"Person":"Jimmy Hayward","TotalGross($)":220.8,"#1Picture":"Horton Hears a Who!","MovieAverage($)":73.6}
+{"_id":{"$oid":"5c982156e2939d069a838378"},"Gross":44.7,"Movies#":3,"Person":"Michel Hazanavicius","TotalGross($)":45.1,"#1Picture":"The Artist","MovieAverage($)":15.0}
+{"_id":{"$oid":"5c982156e2939d069a838379"},"Gross":0.819,"Movies#":2,"Person":"Leslye Headland","TotalGross($)":1.3,"#1Picture":"Sleeping with Other People","MovieAverage($)":0.634}
+{"_id":{"$oid":"5c982156e2939d069a83837a"},"Gross":140.1,"Movies#":9,"Person":"Amy Heckerling","TotalGross($)":384.0,"#1Picture":"Look Who's Talking","MovieAverage($)":42.7}
+{"_id":{"$oid":"5c982156e2939d069a83837b"},"Gross":51.9,"Movies#":4,"Person":"Peter Hedges","TotalGross($)":105.7,"#1Picture":"The Odd Life of Timothy Green","MovieAverage($)":26.4}
+{"_id":{"$oid":"5c982156e2939d069a83837c"},"Gross":95.0,"Movies#":5,"Person":"Brian Helgeland","TotalGross($)":242.6,"#1Picture":"42","MovieAverage($)":48.5}
+{"_id":{"$oid":"5c982156e2939d069a83837d"},"Gross":24.4,"Movies#":3,"Person":"John Herzfeld","TotalGross($)":59.2,"#1Picture":"15 Minutes","MovieAverage($)":19.7}
+{"_id":{"$oid":"5c982156e2939d069a83837e"},"Gross":5.5,"Movies#":10,"Person":"Werner Herzog","TotalGross($)":17.9,"#1Picture":"Rescue Dawn","MovieAverage($)":1.8}
+{"_id":{"$oid":"5c982156e2939d069a83837f"},"Gross":75.4,"Movies#":6,"Person":"Peter Hewitt","TotalGross($)":171.9,"#1Picture":"Garfield","MovieAverage($)":28.7}
+{"_id":{"$oid":"5c982156e2939d069a838380"},"Gross":1.7,"Movies#":5,"Person":"George Hickenlooper","TotalGross($)":5.7,"#1Picture":"Factory Girl","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982156e2939d069a838381"},"Gross":60.5,"Movies#":7,"Person":"Scott Hicks","TotalGross($)":178.9,"#1Picture":"The Lucky One","MovieAverage($)":25.6}
+{"_id":{"$oid":"5c982156e2939d069a838382"},"Gross":7.4,"Movies#":1,"Person":"Jonah Hill","TotalGross($)":7.4,"#1Picture":"Mid90s","MovieAverage($)":7.4}
+{"_id":{"$oid":"5c982156e2939d069a838383"},"Gross":217.3,"Movies#":5,"Person":"Tim Hill","TotalGross($)":387.8,"#1Picture":"Alvin and the Chipmunks","MovieAverage($)":77.6}
+{"_id":{"$oid":"5c982156e2939d069a838384"},"Gross":80.8,"Movies#":17,"Person":"Walter Hill","TotalGross($)":395.0,"#1Picture":"Another 48 HRS.","MovieAverage($)":23.2}
+{"_id":{"$oid":"5c982156e2939d069a838385"},"Gross":37.4,"Movies#":4,"Person":"John Hillcoat","TotalGross($)":60.1,"#1Picture":"Lawless","MovieAverage($)":15.0}
+{"_id":{"$oid":"5c982156e2939d069a838386"},"Gross":56.1,"Movies#":6,"Person":"Gregory Hoblit","TotalGross($)":213.1,"#1Picture":"Primal Fear","MovieAverage($)":35.5}
+{"_id":{"$oid":"5c982156e2939d069a838387"},"Gross":18.4,"Movies#":1,"Person":"Dustin Hoffman","TotalGross($)":18.4,"#1Picture":"Quartet","MovieAverage($)":18.4}
+{"_id":{"$oid":"5c982156e2939d069a838388"},"Gross":46.2,"Movies#":10,"Person":"Michael Hoffman","TotalGross($)":151.1,"#1Picture":"One Fine Day","MovieAverage($)":15.1}
+{"_id":{"$oid":"5c982156e2939d069a838389"},"Gross":0.542,"Movies#":1,"Person":"Philip Seymour Hoffman","TotalGross($)":0.542,"#1Picture":"Jack Goes Boating","MovieAverage($)":0.542}
+{"_id":{"$oid":"5c982156e2939d069a83838a"},"Gross":127.1,"Movies#":4,"Person":"P.J. Hogan","TotalGross($)":235.0,"#1Picture":"My Best Friend's Wedding","MovieAverage($)":58.7}
+{"_id":{"$oid":"5c982156e2939d069a83838b"},"Gross":17.6,"Movies#":5,"Person":"Nicole Holofcener","TotalGross($)":40.5,"#1Picture":"Enough Said","MovieAverage($)":8.1}
+{"_id":{"$oid":"5c982156e2939d069a83838c"},"Gross":148.8,"Movies#":4,"Person":"Tom Hooper","TotalGross($)":299.2,"#1Picture":"Les Miserables","MovieAverage($)":74.8}
+{"_id":{"$oid":"5c982156e2939d069a83838d"},"Gross":0.0691,"Movies#":2,"Person":"Anthony Hopkins","TotalGross($)":0.078,"#1Picture":"August (1996)","MovieAverage($)":0.039}
+{"_id":{"$oid":"5c982156e2939d069a83838e"},"Gross":69.1,"Movies#":9,"Person":"Stephen Hopkins","TotalGross($)":247.9,"#1Picture":"Lost in Space","MovieAverage($)":27.5}
+{"_id":{"$oid":"5c982156e2939d069a83838f"},"Gross":260.0,"Movies#":25,"Person":"Ron Howard","TotalGross($)":2109.8,"#1Picture":"The Grinch","MovieAverage($)":84.4}
+{"_id":{"$oid":"5c982156e2939d069a838390"},"Gross":94.8,"Movies#":6,"Person":"Albert Hughes","TotalGross($)":214.6,"#1Picture":"The Book of Eli","MovieAverage($)":35.8}
+{"_id":{"$oid":"5c982156e2939d069a838391"},"Gross":94.8,"Movies#":6,"Person":"Allen Hughes","TotalGross($)":198.5,"#1Picture":"The Book of Eli","MovieAverage($)":33.1}
+{"_id":{"$oid":"5c982156e2939d069a838392"},"Gross":70.1,"Movies#":8,"Person":"John Hughes","TotalGross($)":329.5,"#1Picture":"Ferris Bueller's Day Off","MovieAverage($)":41.2}
+{"_id":{"$oid":"5c982156e2939d069a838393"},"Gross":75.5,"Movies#":3,"Person":"Patrick Hughes","TotalGross($)":114.8,"#1Picture":"The Hitman's Bodyguard","MovieAverage($)":38.3}
+{"_id":{"$oid":"5c982156e2939d069a838394"},"Gross":3.7,"Movies#":1,"Person":"Helen Hunt","TotalGross($)":3.7,"#1Picture":"Then She Found Me","MovieAverage($)":3.7}
+{"_id":{"$oid":"5c982156e2939d069a838395"},"Gross":20.7,"Movies#":3,"Person":"Nick Hurran","TotalGross($)":20.8,"#1Picture":"Little Black Book","MovieAverage($)":6.9}
+{"_id":{"$oid":"5c982156e2939d069a838396"},"Gross":57.0,"Movies#":2,"Person":"Jon Hurwitz","TotalGross($)":95.1,"#1Picture":"American Reunion","MovieAverage($)":47.6}
+{"_id":{"$oid":"5c982156e2939d069a838397"},"Gross":66.9,"Movies#":15,"Person":"Peter Hyams","TotalGross($)":341.8,"#1Picture":"End of Days","MovieAverage($)":22.8}
+{"_id":{"$oid":"5c982156e2939d069a838398"},"Gross":18.2,"Movies#":4,"Person":"Leon Ichaso","TotalGross($)":26.5,"#1Picture":"Sugar Hill","MovieAverage($)":6.6}
+{"_id":{"$oid":"5c982156e2939d069a838399"},"Gross":1.7,"Movies#":4,"Person":"Dan Ireland","TotalGross($)":2.6,"#1Picture":"Mrs. Palfrey at the Claremont","MovieAverage($)":0.66}
+{"_id":{"$oid":"5c982156e2939d069a83839a"},"Gross":85.4,"Movies#":2,"Person":"Dean Israelite","TotalGross($)":107.7,"#1Picture":"Power Rangers","MovieAverage($)":53.9}
+{"_id":{"$oid":"5c982156e2939d069a83839b"},"Gross":26.1,"Movies#":14,"Person":"James Ivory","TotalGross($)":103.8,"#1Picture":"Howards End","MovieAverage($)":7.4}
+{"_id":{"$oid":"5c982156e2939d069a83839c"},"Gross":377.8,"Movies#":13,"Person":"Peter Jackson","TotalGross($)":2152.3,"#1Picture":"Return of the King","MovieAverage($)":165.6}
+{"_id":{"$oid":"5c982156e2939d069a83839d"},"Gross":2.2,"Movies#":3,"Person":"Azazel Jacobs","TotalGross($)":3.0,"#1Picture":"The Lovers","MovieAverage($)":0.984}
+{"_id":{"$oid":"5c982156e2939d069a83839e"},"Gross":66.0,"Movies#":2,"Person":"Gregory Jacobs","TotalGross($)":66.9,"#1Picture":"Magic Mike XXL","MovieAverage($)":33.5}
+{"_id":{"$oid":"5c982156e2939d069a83839f"},"Gross":0.005,"Movies#":1,"Person":"Famke Janssen","TotalGross($)":0.005,"#1Picture":"Bringing Up Bobby","MovieAverage($)":0.005}
+{"_id":{"$oid":"5c982156e2939d069a8383a0"},"Gross":3.1,"Movies#":2,"Person":"Andrew Jarecki","TotalGross($)":3.7,"#1Picture":"Capturing the Friedmans","MovieAverage($)":1.9}
+{"_id":{"$oid":"5c982156e2939d069a8383a1"},"Gross":7.9,"Movies#":1,"Person":"Nicholas Jarecki","TotalGross($)":7.9,"#1Picture":"Arbitrage","MovieAverage($)":7.9}
+{"_id":{"$oid":"5c982156e2939d069a8383a2"},"Gross":13.7,"Movies#":12,"Person":"Jim Jarmusch","TotalGross($)":32.6,"#1Picture":"Broken Flowers","MovieAverage($)":2.7}
+{"_id":{"$oid":"5c982156e2939d069a8383a3"},"Gross":27.9,"Movies#":2,"Person":"Barry Jenkins","TotalGross($)":42.7,"#1Picture":"Moonlight","MovieAverage($)":21.4}
+{"_id":{"$oid":"5c982156e2939d069a8383a4"},"Gross":412.6,"Movies#":2,"Person":"Patty Jenkins","TotalGross($)":447.0,"#1Picture":"Wonder Woman","MovieAverage($)":223.5}
+{"_id":{"$oid":"5c982156e2939d069a8383a5"},"Gross":270.4,"Movies#":3,"Person":"Garth Jennings","TotalGross($)":323.3,"#1Picture":"Sing","MovieAverage($)":107.8}
+{"_id":{"$oid":"5c982156e2939d069a8383a6"},"Gross":267.7,"Movies#":3,"Person":"Vicky Jenson","TotalGross($)":434.9,"#1Picture":"Shrek","MovieAverage($)":145.0}
+{"_id":{"$oid":"5c982156e2939d069a8383a7"},"Gross":47.8,"Movies#":7,"Person":"Jean-Pierre Jeunet","TotalGross($)":92.5,"#1Picture":"Alien Resurrection","MovieAverage($)":13.2}
+{"_id":{"$oid":"5c982156e2939d069a8383a8"},"Gross":3.2,"Movies#":2,"Person":"Rowan Joffe","TotalGross($)":3.5,"#1Picture":"Before I Go To Sleep","MovieAverage($)":1.7}
+{"_id":{"$oid":"5c982156e2939d069a8383a9"},"Gross":116.9,"Movies#":2,"Person":"Clark Johnson","TotalGross($)":153.2,"#1Picture":"S.W.A.T.","MovieAverage($)":76.6}
+{"_id":{"$oid":"5c982156e2939d069a8383aa"},"Gross":5.3,"Movies#":2,"Person":"Craig Johnson","TotalGross($)":5.9,"#1Picture":"The Skeleton Twins","MovieAverage($)":3.0}
+{"_id":{"$oid":"5c982156e2939d069a8383ab"},"Gross":115.8,"Movies#":5,"Person":"Mark Steven Johnson","TotalGross($)":269.3,"#1Picture":"Ghost Rider","MovieAverage($)":53.9}
+{"_id":{"$oid":"5c982156e2939d069a8383ac"},"Gross":620.2,"Movies#":4,"Person":"Rian Johnson","TotalGross($)":692.3,"#1Picture":"Star Wars: The Last Jedi","MovieAverage($)":173.1}
+{"_id":{"$oid":"5c982156e2939d069a8383ad"},"Gross":177.4,"Movies#":4,"Person":"Tim Johnson","TotalGross($)":449.7,"#1Picture":"Home","MovieAverage($)":112.4}
+{"_id":{"$oid":"5c982156e2939d069a8383ae"},"Gross":181.2,"Movies#":9,"Person":"Joe Johnston","TotalGross($)":811.2,"#1Picture":"Jurassic Park III","MovieAverage($)":90.1}
+{"_id":{"$oid":"5c982156e2939d069a8383af"},"Gross":201.0,"Movies#":1,"Person":"Phil Johnston","TotalGross($)":201.0,"#1Picture":"Wreck-It Ralph 2","MovieAverage($)":201.0}
+{"_id":{"$oid":"5c982156e2939d069a8383b0"},"Gross":115.6,"Movies#":3,"Person":"Angelina Jolie","TotalGross($)":116.5,"#1Picture":"Unbroken","MovieAverage($)":38.8}
+{"_id":{"$oid":"5c982156e2939d069a8383b1"},"Gross":54.7,"Movies#":3,"Person":"Duncan Jones","TotalGross($)":107.1,"#1Picture":"Source Code","MovieAverage($)":35.7}
+{"_id":{"$oid":"5c982156e2939d069a8383b2"},"Gross":59.7,"Movies#":5,"Person":"Kirk Jones","TotalGross($)":182.0,"#1Picture":"My Big Fat Greek Wedding 2","MovieAverage($)":36.4}
+{"_id":{"$oid":"5c982156e2939d069a8383b3"},"Gross":5.0,"Movies#":2,"Person":"Tommy Lee Jones","TotalGross($)":7.5,"#1Picture":"The Three Burials of Melquiades Estrada","MovieAverage($)":3.7}
+{"_id":{"$oid":"5c982156e2939d069a8383b4"},"Gross":77.2,"Movies#":4,"Person":"Spike Jonze","TotalGross($)":148.2,"#1Picture":"Where the Wild Things Are","MovieAverage($)":37.0}
+{"_id":{"$oid":"5c982156e2939d069a8383b5"},"Gross":104.0,"Movies#":4,"Person":"Henry Joost","TotalGross($)":199.8,"#1Picture":"Paranormal Activity 3","MovieAverage($)":49.9}
+{"_id":{"$oid":"5c982156e2939d069a8383b6"},"Gross":105.3,"Movies#":17,"Person":"Neil Jordan","TotalGross($)":286.1,"#1Picture":"Interview with the Vampire","MovieAverage($)":16.8}
+{"_id":{"$oid":"5c982156e2939d069a8383b7"},"Gross":63.1,"Movies#":4,"Person":"Mike Judge","TotalGross($)":85.2,"#1Picture":"Beavis and Butt-Head Do America","MovieAverage($)":21.3}
+{"_id":{"$oid":"5c982156e2939d069a8383b8"},"Gross":3.9,"Movies#":2,"Person":"Miranda July","TotalGross($)":4.5,"#1Picture":"Me and You and Everyone We Know","MovieAverage($)":2.2}
+{"_id":{"$oid":"5c982156e2939d069a8383b9"},"Gross":6.6,"Movies#":10,"Person":"Wong Kar Wai","TotalGross($)":13.1,"#1Picture":"The Grandmaster","MovieAverage($)":1.3}
+{"_id":{"$oid":"5c982156e2939d069a8383ba"},"Gross":404.6,"Movies#":7,"Person":"Jake Kasdan","TotalGross($)":605.1,"#1Picture":"Jumanji (2017)","MovieAverage($)":86.4}
+{"_id":{"$oid":"5c982156e2939d069a8383bb"},"Gross":56.4,"Movies#":11,"Person":"Lawrence Kasdan","TotalGross($)":297.7,"#1Picture":"The Big Chill","MovieAverage($)":27.1}
+{"_id":{"$oid":"5c982156e2939d069a8383bc"},"Gross":18.7,"Movies#":1,"Person":"Ross Katz","TotalGross($)":18.7,"#1Picture":"The Choice","MovieAverage($)":18.7}
+{"_id":{"$oid":"5c982156e2939d069a8383bd"},"Gross":3.8,"Movies#":2,"Person":"Charlie Kaufman","TotalGross($)":6.8,"#1Picture":"Anomalisa","MovieAverage($)":3.4}
+{"_id":{"$oid":"5c982156e2939d069a8383be"},"Gross":21.2,"Movies#":2,"Person":"Philip Kaufman","TotalGross($)":31.2,"#1Picture":"The Right Stuff","MovieAverage($)":15.6}
+{"_id":{"$oid":"5c982156e2939d069a8383bf"},"Gross":0.365,"Movies#":4,"Person":"James Keach","TotalGross($)":0.581,"#1Picture":"Glen Campbell... I'll Be Me","MovieAverage($)":0.145}
+{"_id":{"$oid":"5c982156e2939d069a8383c0"},"Gross":36.1,"Movies#":2,"Person":"Diane Keaton","TotalGross($)":44.0,"#1Picture":"Hanging Up","MovieAverage($)":22.0}
+{"_id":{"$oid":"5c982156e2939d069a8383c1"},"Gross":0.348,"Movies#":1,"Person":"Michael Keaton","TotalGross($)":0.348,"#1Picture":"The Merry Gentleman","MovieAverage($)":0.348}
+{"_id":{"$oid":"5c982156e2939d069a8383c2"},"Gross":73.7,"Movies#":3,"Person":"Gil Kenan","TotalGross($)":129.0,"#1Picture":"Monster House","MovieAverage($)":43.0}
+{"_id":{"$oid":"5c982156e2939d069a8383c3"},"Gross":67.8,"Movies#":4,"Person":"Alex Kendrick","TotalGross($)":145.9,"#1Picture":"War Room","MovieAverage($)":36.5}
+{"_id":{"$oid":"5c982156e2939d069a8383c4"},"Gross":30.6,"Movies#":2,"Person":"Chris Kentis","TotalGross($)":43.4,"#1Picture":"Open Water","MovieAverage($)":21.7}
+{"_id":{"$oid":"5c982156e2939d069a8383c5"},"Gross":290.5,"Movies#":4,"Person":"Irvin Kershner","TotalGross($)":411.6,"#1Picture":"The Empire Strikes Back","MovieAverage($)":102.9}
+{"_id":{"$oid":"5c982156e2939d069a8383c6"},"Gross":69.6,"Movies#":2,"Person":"Callie Khouri","TotalGross($)":90.3,"#1Picture":"Ya-Ya Sisterhood","MovieAverage($)":45.1}
+{"_id":{"$oid":"5c982156e2939d069a8383c7"},"Gross":40.2,"Movies#":5,"Person":"Beeban Kidron","TotalGross($)":96.1,"#1Picture":"Bridget Jones 2","MovieAverage($)":19.2}
+{"_id":{"$oid":"5c982156e2939d069a8383c8"},"Gross":12.1,"Movies#":5,"Person":"Jee-woon Kim","TotalGross($)":12.9,"#1Picture":"The Last Stand","MovieAverage($)":2.6}
+{"_id":{"$oid":"5c982156e2939d069a8383c9"},"Gross":152.6,"Movies#":2,"Person":"Michael Patrick King","TotalGross($)":248.0,"#1Picture":"Sex and the City","MovieAverage($)":124.0}
+{"_id":{"$oid":"5c982156e2939d069a8383ca"},"Gross":76.3,"Movies#":2,"Person":"Paul King","TotalGross($)":117.2,"#1Picture":"Paddington","MovieAverage($)":58.6}
+{"_id":{"$oid":"5c982156e2939d069a8383cb"},"Gross":83.2,"Movies#":1,"Person":"Karey Kirkpatrick","TotalGross($)":83.2,"#1Picture":"Smallfoot","MovieAverage($)":83.2}
+{"_id":{"$oid":"5c982156e2939d069a8383cc"},"Gross":11.5,"Movies#":1,"Person":"Brian Klugman","TotalGross($)":11.5,"#1Picture":"The Words","MovieAverage($)":11.5}
+{"_id":{"$oid":"5c982156e2939d069a8383cd"},"Gross":8.5,"Movies#":3,"Person":"Steven Knight","TotalGross($)":10.0,"#1Picture":"Serenity (2019)","MovieAverage($)":3.3}
+{"_id":{"$oid":"5c982156e2939d069a8383ce"},"Gross":127.2,"Movies#":2,"Person":"Travis Knight","TotalGross($)":175.2,"#1Picture":"Bumblebee","MovieAverage($)":87.6}
+{"_id":{"$oid":"5c982156e2939d069a8383cf"},"Gross":48.0,"Movies#":6,"Person":"David Koepp","TotalGross($)":114.1,"#1Picture":"Secret Window","MovieAverage($)":19.0}
+{"_id":{"$oid":"5c982156e2939d069a8383d0"},"Gross":48.8,"Movies#":1,"Person":"Abby Kohn","TotalGross($)":48.8,"#1Picture":"I Feel Pretty","MovieAverage($)":48.8}
+{"_id":{"$oid":"5c982156e2939d069a8383d1"},"Gross":11.7,"Movies#":1,"Person":"Brian Koppelman","TotalGross($)":11.7,"#1Picture":"Knockaround Guys","MovieAverage($)":11.7}
+{"_id":{"$oid":"5c982156e2939d069a8383d2"},"Gross":75.6,"Movies#":5,"Person":"Baltasar Kormakur","TotalGross($)":217.1,"#1Picture":"2 Guns","MovieAverage($)":43.4}
+{"_id":{"$oid":"5c982156e2939d069a8383d3"},"Gross":172.1,"Movies#":3,"Person":"Joseph Kosinski","TotalGross($)":279.5,"#1Picture":"Tron Legacy","MovieAverage($)":93.2}
+{"_id":{"$oid":"5c982156e2939d069a8383d4"},"Gross":8.3,"Movies#":4,"Person":"Wayne Kramer","TotalGross($)":15.6,"#1Picture":"The Cooler","MovieAverage($)":3.9}
+{"_id":{"$oid":"5c982156e2939d069a8383d5"},"Gross":188.0,"Movies#":3,"Person":"John Krasinski","TotalGross($)":189.1,"#1Picture":"A Quiet Place","MovieAverage($)":63.0}
+{"_id":{"$oid":"5c982156e2939d069a8383d6"},"Gross":60.5,"Movies#":7,"Person":"Stanley Kubrick","TotalGross($)":245.2,"#1Picture":"2001: A Space Odyssey","MovieAverage($)":35.0}
+{"_id":{"$oid":"5c982156e2939d069a8383d7"},"Gross":45.6,"Movies#":5,"Person":"Roger Kumble","TotalGross($)":158.9,"#1Picture":"College Road Trip","MovieAverage($)":31.8}
+{"_id":{"$oid":"5c982156e2939d069a8383d8"},"Gross":80.2,"Movies#":2,"Person":"Alex Kurtzman","TotalGross($)":92.7,"#1Picture":"The Mummy (2017)","MovieAverage($)":46.3}
+{"_id":{"$oid":"5c982156e2939d069a8383d9"},"Gross":25.9,"Movies#":5,"Person":"Karyn Kusama","TotalGross($)":45.4,"#1Picture":"Aeon Flux","MovieAverage($)":9.1}
+{"_id":{"$oid":"5c982156e2939d069a8383da"},"Gross":94.0,"Movies#":9,"Person":"Ken Kwapis","TotalGross($)":244.0,"#1Picture":"He's Just Not That Into You","MovieAverage($)":27.1}
+{"_id":{"$oid":"5c982156e2939d069a8383db"},"Gross":42.7,"Movies#":9,"Person":"Neil LaBute","TotalGross($)":149.2,"#1Picture":"Death at a Funeral (2010)","MovieAverage($)":16.6}
+{"_id":{"$oid":"5c982156e2939d069a8383dc"},"Gross":53.7,"Movies#":6,"Person":"Richard LaGravenese","TotalGross($)":122.8,"#1Picture":"P.S. I Love You","MovieAverage($)":20.5}
+{"_id":{"$oid":"5c982156e2939d069a8383dd"},"Gross":57.5,"Movies#":5,"Person":"Mary Lambert","TotalGross($)":80.6,"#1Picture":"Pet Sematary","MovieAverage($)":16.1}
+{"_id":{"$oid":"5c982156e2939d069a8383de"},"Gross":34.5,"Movies#":3,"Person":"Peter Landesman","TotalGross($)":36.0,"#1Picture":"Concussion (2015)","MovieAverage($)":12.0}
+{"_id":{"$oid":"5c982156e2939d069a8383df"},"Gross":141.6,"Movies#":15,"Person":"John Landis","TotalGross($)":672.0,"#1Picture":"National Lampoon's Animal House","MovieAverage($)":44.8}
+{"_id":{"$oid":"5c982156e2939d069a8383e0"},"Gross":55.7,"Movies#":4,"Person":"Christopher B. Landon","TotalGross($)":119.7,"#1Picture":"Happy Death Day","MovieAverage($)":29.9}
+{"_id":{"$oid":"5c982156e2939d069a8383e1"},"Gross":14.0,"Movies#":4,"Person":"Pablo Larrain","TotalGross($)":17.3,"#1Picture":"Jackie","MovieAverage($)":4.3}
+{"_id":{"$oid":"5c982156e2939d069a8383e2"},"Gross":245.9,"Movies#":5,"Person":"John Lasseter","TotalGross($)":1036.0,"#1Picture":"Toy Story 2","MovieAverage($)":207.2}
+{"_id":{"$oid":"5c982156e2939d069a8383e3"},"Gross":12.8,"Movies#":1,"Person":"Laura Lau","TotalGross($)":12.8,"#1Picture":"Silent House","MovieAverage($)":12.8}
+{"_id":{"$oid":"5c982156e2939d069a8383e4"},"Gross":0.0423,"Movies#":1,"Person":"Melanie Laurent","TotalGross($)":0.0423,"#1Picture":"Breathe","MovieAverage($)":0.0423}
+{"_id":{"$oid":"5c982156e2939d069a8383e5"},"Gross":424.7,"Movies#":7,"Person":"Francis Lawrence","TotalGross($)":1481.5,"#1Picture":"Catching Fire","MovieAverage($)":211.6}
+{"_id":{"$oid":"5c982156e2939d069a8383e6"},"Gross":140.5,"Movies#":4,"Person":"Mimi Leder","TotalGross($)":239.9,"#1Picture":"Deep Impact","MovieAverage($)":60.0}
+{"_id":{"$oid":"5c982156e2939d069a8383e7"},"Gross":132.2,"Movies#":13,"Person":"Ang Lee","TotalGross($)":548.3,"#1Picture":"Hulk","MovieAverage($)":42.2}
+{"_id":{"$oid":"5c982156e2939d069a8383e8"},"Gross":8.9,"Movies#":2,"Person":"Benson Lee","TotalGross($)":9.2,"#1Picture":"Battle of the Year","MovieAverage($)":4.6}
+{"_id":{"$oid":"5c982156e2939d069a8383e9"},"Gross":400.7,"Movies#":1,"Person":"Jennifer Lee","TotalGross($)":400.7,"#1Picture":"Frozen","MovieAverage($)":400.7}
+{"_id":{"$oid":"5c982156e2939d069a8383ea"},"Gross":115.2,"Movies#":10,"Person":"Malcolm D. Lee","TotalGross($)":494.2,"#1Picture":"Girls Trip","MovieAverage($)":49.4}
+{"_id":{"$oid":"5c982156e2939d069a8383eb"},"Gross":5.7,"Movies#":1,"Person":"Sngmoo Lee","TotalGross($)":5.7,"#1Picture":"The Warrior's Way","MovieAverage($)":5.7}
+{"_id":{"$oid":"5c982156e2939d069a8383ec"},"Gross":88.5,"Movies#":22,"Person":"Spike Lee","TotalGross($)":429.1,"#1Picture":"Inside Man","MovieAverage($)":19.5}
+{"_id":{"$oid":"5c982156e2939d069a8383ed"},"Gross":42.7,"Movies#":9,"Person":"Michael Lehman","TotalGross($)":148.1,"#1Picture":"Because I Said So","MovieAverage($)":16.5}
+{"_id":{"$oid":"5c982156e2939d069a8383ee"},"Gross":13.4,"Movies#":11,"Person":"Mike Leigh","TotalGross($)":41.2,"#1Picture":"Secrets \u0026 Lies","MovieAverage($)":3.7}
+{"_id":{"$oid":"5c982156e2939d069a8383ef"},"Gross":324.6,"Movies#":3,"Person":"David Leitch","TotalGross($)":419.3,"#1Picture":"Deadpool 2","MovieAverage($)":139.8}
+{"_id":{"$oid":"5c982156e2939d069a8383f0"},"Gross":139.2,"Movies#":4,"Person":"Michael Lembeck","TotalGross($)":291.8,"#1Picture":"The Santa Clause 2","MovieAverage($)":73.0}
+{"_id":{"$oid":"5c982156e2939d069a8383f1"},"Gross":0.0088,"Movies#":1,"Person":"Thomas Lennon \u0026 Ben Garant","TotalGross($)":0.0088,"#1Picture":"Hell Baby","MovieAverage($)":0.0088}
+{"_id":{"$oid":"5c982156e2939d069a8383f2"},"Gross":84.3,"Movies#":3,"Person":"John R. Leonetti","TotalGross($)":134.5,"#1Picture":"Annabelle","MovieAverage($)":44.8}
+{"_id":{"$oid":"5c982156e2939d069a8383f3"},"Gross":64.3,"Movies#":1,"Person":"Peter Lepeniotis","TotalGross($)":64.3,"#1Picture":"The Nut Job","MovieAverage($)":64.3}
+{"_id":{"$oid":"5c982156e2939d069a8383f4"},"Gross":163.2,"Movies#":6,"Person":"Louis Leterrier","TotalGross($)":490.3,"#1Picture":"Clash of the Titans","MovieAverage($)":81.7}
+{"_id":{"$oid":"5c982156e2939d069a8383f5"},"Gross":18.6,"Movies#":2,"Person":"Asger Leth","TotalGross($)":18.7,"#1Picture":"Man on a Ledge","MovieAverage($)":9.3}
+{"_id":{"$oid":"5c982156e2939d069a8383f6"},"Gross":198.4,"Movies#":4,"Person":"Rob Letterman","TotalGross($)":482.1,"#1Picture":"Monsters Vs. Aliens","MovieAverage($)":120.5}
+{"_id":{"$oid":"5c982156e2939d069a8383f7"},"Gross":2.8,"Movies#":1,"Person":"Gregory Levasseur","TotalGross($)":2.8,"#1Picture":"The Pyramid","MovieAverage($)":2.8}
+{"_id":{"$oid":"5c982156e2939d069a8383f8"},"Gross":11.7,"Movies#":1,"Person":"David Levien","TotalGross($)":11.7,"#1Picture":"Knockaround Guys","MovieAverage($)":11.7}
+{"_id":{"$oid":"5c982156e2939d069a8383f9"},"Gross":66.4,"Movies#":5,"Person":"Jonathan Levine","TotalGross($)":192.4,"#1Picture":"Warm Bodies","MovieAverage($)":38.5}
+{"_id":{"$oid":"5c982156e2939d069a8383fa"},"Gross":172.8,"Movies#":22,"Person":"Barry Levinson","TotalGross($)":812.7,"#1Picture":"Rain Man","MovieAverage($)":36.9}
+{"_id":{"$oid":"5c982156e2939d069a8383fb"},"Gross":250.9,"Movies#":11,"Person":"Shawn Levy","TotalGross($)":1130.3,"#1Picture":"Night at the Museum","MovieAverage($)":102.8}
+{"_id":{"$oid":"5c982156e2939d069a8383fc"},"Gross":191.5,"Movies#":1,"Person":"Brad Lewis","TotalGross($)":191.5,"#1Picture":"Cars 2","MovieAverage($)":191.5}
+{"_id":{"$oid":"5c982156e2939d069a8383fd"},"Gross":191.2,"Movies#":5,"Person":"Jonathan Liebesman","TotalGross($)":430.5,"#1Picture":"Ninja Turtles","MovieAverage($)":86.1}
+{"_id":{"$oid":"5c982156e2939d069a8383fe"},"Gross":0.0415,"Movies#":1,"Person":"Matthew Lillard","TotalGross($)":0.0415,"#1Picture":"Fat Kid Rules the World","MovieAverage($)":0.0415}
+{"_id":{"$oid":"5c982156e2939d069a8383ff"},"Gross":186.3,"Movies#":9,"Person":"Doug Liman","TotalGross($)":572.6,"#1Picture":"Mr. \u0026 Mrs. Smith","MovieAverage($)":63.6}
+{"_id":{"$oid":"5c982156e2939d069a838400"},"Gross":238.7,"Movies#":8,"Person":"Justin Lin","TotalGross($)":845.9,"#1Picture":"Fast \u0026 Furious 6","MovieAverage($)":105.7}
+{"_id":{"$oid":"5c982156e2939d069a838401"},"Gross":4.9,"Movies#":1,"Person":"Todd Lincoln","TotalGross($)":4.9,"#1Picture":"The Apparition","MovieAverage($)":4.9}
+{"_id":{"$oid":"5c982156e2939d069a838402"},"Gross":0.203,"Movies#":1,"Person":"Jamie Linden","TotalGross($)":0.203,"#1Picture":"10 Years","MovieAverage($)":0.203}
+{"_id":{"$oid":"5c982156e2939d069a838403"},"Gross":81.3,"Movies#":18,"Person":"Richard Linklater","TotalGross($)":203.9,"#1Picture":"School of Rock","MovieAverage($)":11.3}
+{"_id":{"$oid":"5c982156e2939d069a838404"},"Gross":33.0,"Movies#":3,"Person":"Steven Lisberger","TotalGross($)":37.2,"#1Picture":"Tron","MovieAverage($)":12.4}
+{"_id":{"$oid":"5c982156e2939d069a838405"},"Gross":48.8,"Movies#":7,"Person":"Richard Loncraine","TotalGross($)":79.8,"#1Picture":"Firewall","MovieAverage($)":11.4}
+{"_id":{"$oid":"5c982156e2939d069a838406"},"Gross":47.7,"Movies#":3,"Person":"Kenneth Lonergan","TotalGross($)":56.9,"#1Picture":"Manchester by the Sea","MovieAverage($)":19.0}
+{"_id":{"$oid":"5c982156e2939d069a838407"},"Gross":106.8,"Movies#":2,"Person":"Peter Lord","TotalGross($)":137.9,"#1Picture":"Chicken Run","MovieAverage($)":68.9}
+{"_id":{"$oid":"5c982156e2939d069a838408"},"Gross":257.8,"Movies#":4,"Person":"Phil Lord","TotalGross($)":712.8,"#1Picture":"The LEGO Movie","MovieAverage($)":178.2}
+{"_id":{"$oid":"5c982156e2939d069a838409"},"Gross":35.8,"Movies#":1,"Person":"Robert Lorenz","TotalGross($)":35.8,"#1Picture":"Trouble with the Curve","MovieAverage($)":35.8}
+{"_id":{"$oid":"5c982156e2939d069a83840a"},"Gross":474.5,"Movies#":6,"Person":"George Lucas","TotalGross($)":1743.9,"#1Picture":"The Phantom Menace","MovieAverage($)":290.7}
+{"_id":{"$oid":"5c982156e2939d069a83840b"},"Gross":113.3,"Movies#":3,"Person":"Jon Lucas","TotalGross($)":211.1,"#1Picture":"Bad Moms","MovieAverage($)":70.4}
+{"_id":{"$oid":"5c982156e2939d069a83840c"},"Gross":57.7,"Movies#":3,"Person":"John Luessenhop","TotalGross($)":92.5,"#1Picture":"Takers","MovieAverage($)":30.8}
+{"_id":{"$oid":"5c982156e2939d069a83840d"},"Gross":144.8,"Movies#":5,"Person":"Baz Luhrmann","TotalGross($)":309.9,"#1Picture":"The Great Gatsby","MovieAverage($)":62.0}
+{"_id":{"$oid":"5c982156e2939d069a83840e"},"Gross":96.5,"Movies#":7,"Person":"Robert Luketic","TotalGross($)":421.0,"#1Picture":"Legally Blonde","MovieAverage($)":60.1}
+{"_id":{"$oid":"5c982156e2939d069a83840f"},"Gross":5.6,"Movies#":1,"Person":"Diego Luna","TotalGross($)":5.6,"#1Picture":"Cesar Chavez","MovieAverage($)":5.6}
+{"_id":{"$oid":"5c982156e2939d069a838410"},"Gross":18.2,"Movies#":5,"Person":"Rod Lurie","TotalGross($)":49.8,"#1Picture":"Last Castle","MovieAverage($)":10.0}
+{"_id":{"$oid":"5c982156e2939d069a838411"},"Gross":51.5,"Movies#":3,"Person":"Patrick Lussier","TotalGross($)":95.3,"#1Picture":"My Bloody Valentine 3-D","MovieAverage($)":31.8}
+{"_id":{"$oid":"5c982156e2939d069a838412"},"Gross":30.9,"Movies#":9,"Person":"David Lynch","TotalGross($)":98.1,"#1Picture":"Dune","MovieAverage($)":10.9}
+{"_id":{"$oid":"5c982157e2939d069a838413"},"Gross":37.0,"Movies#":10,"Person":"Kevin Macdonald","TotalGross($)":84.8,"#1Picture":"State of Play","MovieAverage($)":8.5}
+{"_id":{"$oid":"5c982157e2939d069a838414"},"Gross":218.8,"Movies#":3,"Person":"Seth MacFarlane","TotalGross($)":343.4,"#1Picture":"Ted","MovieAverage($)":114.5}
+{"_id":{"$oid":"5c982157e2939d069a838415"},"Gross":0.0583,"Movies#":2,"Person":"William H. Macy","TotalGross($)":0.0958,"#1Picture":"Rudderless","MovieAverage($)":0.0479}
+{"_id":{"$oid":"5c982157e2939d069a838416"},"Gross":100.3,"Movies#":11,"Person":"John Madden","TotalGross($)":257.5,"#1Picture":"Shakespeare in Love","MovieAverage($)":23.4}
+{"_id":{"$oid":"5c982157e2939d069a838417"},"Gross":0.583,"Movies#":2,"Person":"Madonna","TotalGross($)":0.606,"#1Picture":"W.E.","MovieAverage($)":0.303}
+{"_id":{"$oid":"5c982157e2939d069a838418"},"Gross":71.5,"Movies#":3,"Person":"Sharon Maguire","TotalGross($)":95.8,"#1Picture":"Bridget Jones's Diary","MovieAverage($)":31.9}
+{"_id":{"$oid":"5c982157e2939d069a838419"},"Gross":36.4,"Movies#":8,"Person":"Terrence Malick","TotalGross($)":67.5,"#1Picture":"Thin Red Line","MovieAverage($)":8.4}
+{"_id":{"$oid":"5c982157e2939d069a83841a"},"Gross":23.5,"Movies#":10,"Person":"David Mamet","TotalGross($)":60.0,"#1Picture":"Heist","MovieAverage($)":6.0}
+{"_id":{"$oid":"5c982157e2939d069a83841b"},"Gross":226.3,"Movies#":10,"Person":"James Mangold","TotalGross($)":782.4,"#1Picture":"Logan","MovieAverage($)":78.2}
+{"_id":{"$oid":"5c982157e2939d069a83841c"},"Gross":101.0,"Movies#":11,"Person":"Michael Mann","TotalGross($)":524.1,"#1Picture":"Collateral","MovieAverage($)":47.6}
+{"_id":{"$oid":"5c982157e2939d069a83841d"},"Gross":2.8,"Movies#":1,"Person":"Dustin Marcellino","TotalGross($)":2.8,"#1Picture":"The Identical","MovieAverage($)":2.8}
+{"_id":{"$oid":"5c982157e2939d069a83841e"},"Gross":62.3,"Movies#":1,"Person":"Mars Marlind","TotalGross($)":62.3,"#1Picture":"Underworld Awakening","MovieAverage($)":62.3}
+{"_id":{"$oid":"5c982157e2939d069a83841f"},"Gross":81.6,"Movies#":4,"Person":"Frank Marshall","TotalGross($)":252.6,"#1Picture":"Eight Below","MovieAverage($)":63.1}
+{"_id":{"$oid":"5c982157e2939d069a838420"},"Gross":178.4,"Movies#":18,"Person":"Garry Marshall","TotalGross($)":1023.4,"#1Picture":"Pretty Woman","MovieAverage($)":56.9}
+{"_id":{"$oid":"5c982157e2939d069a838421"},"Gross":115.2,"Movies#":7,"Person":"Penny Marshall","TotalGross($)":407.3,"#1Picture":"Big","MovieAverage($)":58.2}
+{"_id":{"$oid":"5c982157e2939d069a838422"},"Gross":241.1,"Movies#":6,"Person":"Rob Marshall","TotalGross($)":788.7,"#1Picture":"Pirates of the Caribbean 4","MovieAverage($)":131.5}
+{"_id":{"$oid":"5c982157e2939d069a838423"},"Gross":0.255,"Movies#":1,"Person":"Demetri Martin","TotalGross($)":0.255,"#1Picture":"Dean","MovieAverage($)":0.255}
+{"_id":{"$oid":"5c982157e2939d069a838424"},"Gross":1.0,"Movies#":1,"Person":"Michael Mayer","TotalGross($)":1.0,"#1Picture":"A Home at the End of the World","MovieAverage($)":1.0}
+{"_id":{"$oid":"5c982157e2939d069a838425"},"Gross":25.9,"Movies#":2,"Person":"Craig Mazin","TotalGross($)":25.9,"#1Picture":"Superhero Movie","MovieAverage($)":12.9}
+{"_id":{"$oid":"5c982157e2939d069a838426"},"Gross":45.1,"Movies#":4,"Person":"Tom McCarthy","TotalGross($)":70.4,"#1Picture":"Spotlight","MovieAverage($)":17.6}
+{"_id":{"$oid":"5c982157e2939d069a838427"},"Gross":70.0,"Movies#":1,"Person":"Mike McCoy","TotalGross($)":70.0,"#1Picture":"Act of Valor","MovieAverage($)":70.0}
+{"_id":{"$oid":"5c982157e2939d069a838428"},"Gross":5.4,"Movies#":2,"Person":"John Michael McDonagh","TotalGross($)":9.0,"#1Picture":"The Guard","MovieAverage($)":4.5}
+{"_id":{"$oid":"5c982157e2939d069a838429"},"Gross":125.3,"Movies#":6,"Person":"McG","TotalGross($)":480.5,"#1Picture":"Terminator Salvation","MovieAverage($)":80.1}
+{"_id":{"$oid":"5c982157e2939d069a83842a"},"Gross":22.2,"Movies#":5,"Person":"Douglas McGrath","TotalGross($)":34.8,"#1Picture":"Emma","MovieAverage($)":7.0}
+{"_id":{"$oid":"5c982157e2939d069a83842b"},"Gross":216.4,"Movies#":5,"Person":"Tom McGrath","TotalGross($)":913.4,"#1Picture":"Madagascar 3","MovieAverage($)":182.7}
+{"_id":{"$oid":"5c982157e2939d069a83842c"},"Gross":0.544,"Movies#":1,"Person":"Ewan McGregor","TotalGross($)":0.544,"#1Picture":"American Pastoral","MovieAverage($)":0.544}
+{"_id":{"$oid":"5c982157e2939d069a83842d"},"Gross":148.2,"Movies#":7,"Person":"Adam McKay","TotalGross($)":698.6,"#1Picture":"Talladega Nights","MovieAverage($)":99.8}
+{"_id":{"$oid":"5c982157e2939d069a83842e"},"Gross":25.1,"Movies#":1,"Person":"Gary McKendry","TotalGross($)":25.1,"#1Picture":"Killer Elite","MovieAverage($)":25.1}
+{"_id":{"$oid":"5c982157e2939d069a83842f"},"Gross":69.5,"Movies#":1,"Person":"Gerard McMurray","TotalGross($)":69.5,"#1Picture":"The First Purge","MovieAverage($)":69.5}
+{"_id":{"$oid":"5c982157e2939d069a838430"},"Gross":43.9,"Movies#":5,"Person":"Sean McNamara","TotalGross($)":74.9,"#1Picture":"Soul Surfer","MovieAverage($)":15.0}
+{"_id":{"$oid":"5c982157e2939d069a838431"},"Gross":220.2,"Movies#":4,"Person":"Christopher McQuarrie","TotalGross($)":501.3,"#1Picture":"Mission: Impossible 6","MovieAverage($)":125.3}
+{"_id":{"$oid":"5c982157e2939d069a838432"},"Gross":56.7,"Movies#":4,"Person":"Steve McQueen (II)","TotalGross($)":103.1,"#1Picture":"12 Years a Slave","MovieAverage($)":25.8}
+{"_id":{"$oid":"5c982157e2939d069a838433"},"Gross":70.5,"Movies#":4,"Person":"James McTeigue","TotalGross($)":171.5,"#1Picture":"V for Vendetta","MovieAverage($)":42.9}
+{"_id":{"$oid":"5c982157e2939d069a838434"},"Gross":122.0,"Movies#":11,"Person":"John McTiernan","TotalGross($)":610.9,"#1Picture":"Hunt for Red October","MovieAverage($)":55.5}
+{"_id":{"$oid":"5c982157e2939d069a838435"},"Gross":19.2,"Movies#":6,"Person":"Peter Medak","TotalGross($)":27.2,"#1Picture":"Species II","MovieAverage($)":4.5}
+{"_id":{"$oid":"5c982157e2939d069a838436"},"Gross":139.9,"Movies#":4,"Person":"Olivier Megaton","TotalGross($)":297.5,"#1Picture":"Taken 2","MovieAverage($)":74.4}
+{"_id":{"$oid":"5c982157e2939d069a838437"},"Gross":169.6,"Movies#":2,"Person":"Theodore Melfi","TotalGross($)":213.7,"#1Picture":"Hidden Figures","MovieAverage($)":106.9}
+{"_id":{"$oid":"5c982157e2939d069a838438"},"Gross":304.4,"Movies#":7,"Person":"Sam Mendes","TotalGross($)":834.0,"#1Picture":"Skyfall","MovieAverage($)":119.1}
+{"_id":{"$oid":"5c982157e2939d069a838439"},"Gross":182.8,"Movies#":6,"Person":"Nancy Meyers","TotalGross($)":625.6,"#1Picture":"What Women Want","MovieAverage($)":104.3}
+{"_id":{"$oid":"5c982157e2939d069a83843a"},"Gross":1.1,"Movies#":2,"Person":"David Michod","TotalGross($)":2.2,"#1Picture":"The Rover","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982157e2939d069a83843b"},"Gross":75.6,"Movies#":3,"Person":"Bennett Miller","TotalGross($)":116.5,"#1Picture":"Moneyball","MovieAverage($)":38.8}
+{"_id":{"$oid":"5c982157e2939d069a83843c"},"Gross":322.7,"Movies#":2,"Person":"Chris Miller","TotalGross($)":472.0,"#1Picture":"Shrek the Third","MovieAverage($)":236.0}
+{"_id":{"$oid":"5c982157e2939d069a83843d"},"Gross":74.1,"Movies#":3,"Person":"Frank Miller","TotalGross($)":107.7,"#1Picture":"Sin City","MovieAverage($)":35.9}
+{"_id":{"$oid":"5c982157e2939d069a83843e"},"Gross":198.0,"Movies#":10,"Person":"George Miller","TotalGross($)":603.5,"#1Picture":"Happy Feet","MovieAverage($)":60.4}
+{"_id":{"$oid":"5c982157e2939d069a83843f"},"Gross":52.5,"Movies#":1,"Person":"Sam Miller","TotalGross($)":52.5,"#1Picture":"No Good Deed","MovieAverage($)":52.5}
+{"_id":{"$oid":"5c982157e2939d069a838440"},"Gross":257.8,"Movies#":4,"Person":"Chris Miller (II)","TotalGross($)":712.8,"#1Picture":"The LEGO Movie","MovieAverage($)":178.2}
+{"_id":{"$oid":"5c982157e2939d069a838441"},"Gross":5.8,"Movies#":3,"Person":"Mike Mills","TotalGross($)":12.8,"#1Picture":"Beginners","MovieAverage($)":4.3}
+{"_id":{"$oid":"5c982157e2939d069a838442"},"Gross":95.6,"Movies#":6,"Person":"Anthony Minghella","TotalGross($)":261.2,"#1Picture":"Cold Mountain","MovieAverage($)":43.5}
+{"_id":{"$oid":"5c982157e2939d069a838443"},"Gross":422.8,"Movies#":7,"Person":"Rob Minkoff","TotalGross($)":867.2,"#1Picture":"Lion King","MovieAverage($)":123.9}
+{"_id":{"$oid":"5c982157e2939d069a838444"},"Gross":3.1,"Movies#":4,"Person":"John Cameron Mitchell","TotalGross($)":7.4,"#1Picture":"Hedwig and the Angry Inch","MovieAverage($)":1.8}
+{"_id":{"$oid":"5c982157e2939d069a838445"},"Gross":238.7,"Movies#":8,"Person":"Mike Mitchell","TotalGross($)":933.0,"#1Picture":"Shrek Forever After","MovieAverage($)":116.6}
+{"_id":{"$oid":"5c982157e2939d069a838446"},"Gross":0.0485,"Movies#":1,"Person":"Goro Miyazaki","TotalGross($)":0.0485,"#1Picture":"Tales from Earthsea","MovieAverage($)":0.0485}
+{"_id":{"$oid":"5c982157e2939d069a838447"},"Gross":15.7,"Movies#":7,"Person":"Hayao Miyazaki","TotalGross($)":43.6,"#1Picture":"Ponyo","MovieAverage($)":6.2}
+{"_id":{"$oid":"5c982157e2939d069a838448"},"Gross":0.0161,"Movies#":2,"Person":"William Monahan","TotalGross($)":0.0243,"#1Picture":"London Boulevard","MovieAverage($)":0.0122}
+{"_id":{"$oid":"5c982157e2939d069a838449"},"Gross":8.1,"Movies#":2,"Person":"Alejandro Monteverde","TotalGross($)":14.6,"#1Picture":"Bella","MovieAverage($)":7.3}
+{"_id":{"$oid":"5c982157e2939d069a83844a"},"Gross":87.0,"Movies#":2,"Person":"Jason Moore","TotalGross($)":152.0,"#1Picture":"Sisters","MovieAverage($)":76.0}
+{"_id":{"$oid":"5c982157e2939d069a83844b"},"Gross":67.3,"Movies#":5,"Person":"John Moore","TotalGross($)":242.5,"#1Picture":"A Good Day to Die Hard","MovieAverage($)":48.5}
+{"_id":{"$oid":"5c982157e2939d069a83844c"},"Gross":119.2,"Movies#":10,"Person":"Michael Moore","TotalGross($)":197.6,"#1Picture":"Fahrenheit 9/11","MovieAverage($)":19.8}
+{"_id":{"$oid":"5c982157e2939d069a83844d"},"Gross":341.3,"Movies#":3,"Person":"Rich Moore","TotalGross($)":731.7,"#1Picture":"Zootopia","MovieAverage($)":243.9}
+{"_id":{"$oid":"5c982157e2939d069a83844e"},"Gross":113.3,"Movies#":3,"Person":"Scott Moore","TotalGross($)":211.1,"#1Picture":"Bad Moms","MovieAverage($)":70.4}
+{"_id":{"$oid":"5c982157e2939d069a83844f"},"Gross":145.0,"Movies#":5,"Person":"Pierre Morel","TotalGross($)":216.4,"#1Picture":"Taken","MovieAverage($)":43.3}
+{"_id":{"$oid":"5c982157e2939d069a838450"},"Gross":4.2,"Movies#":8,"Person":"Errol Morris","TotalGross($)":10.1,"#1Picture":"The Fog of War","MovieAverage($)":1.3}
+{"_id":{"$oid":"5c982157e2939d069a838451"},"Gross":121.5,"Movies#":5,"Person":"Greg Mottola","TotalGross($)":191.9,"#1Picture":"Superbad","MovieAverage($)":38.4}
+{"_id":{"$oid":"5c982157e2939d069a838452"},"Gross":1.1,"Movies#":3,"Person":"Oren Moverman","TotalGross($)":2.2,"#1Picture":"The Messenger","MovieAverage($)":0.75}
+{"_id":{"$oid":"5c982157e2939d069a838453"},"Gross":163.6,"Movies#":5,"Person":"Gabriele Muccino","TotalGross($)":247.9,"#1Picture":"The Pursuit of Happyness","MovieAverage($)":49.6}
+{"_id":{"$oid":"5c982157e2939d069a838454"},"Gross":0.0135,"Movies#":1,"Person":"Kieran Mulroney","TotalGross($)":0.0135,"#1Picture":"Paper Man","MovieAverage($)":0.0135}
+{"_id":{"$oid":"5c982157e2939d069a838455"},"Gross":0.0135,"Movies#":1,"Person":"Michele Mulroney","TotalGross($)":0.0135,"#1Picture":"Paper Man","MovieAverage($)":0.0135}
+{"_id":{"$oid":"5c982157e2939d069a838456"},"Gross":54.1,"Movies#":2,"Person":"Kevin Munroe","TotalGross($)":55.3,"#1Picture":"TMNT","MovieAverage($)":27.7}
+{"_id":{"$oid":"5c982157e2939d069a838457"},"Gross":80.6,"Movies#":2,"Person":"Ryan Murphy","TotalGross($)":87.6,"#1Picture":"Eat Pray Love","MovieAverage($)":43.8}
+{"_id":{"$oid":"5c982157e2939d069a838458"},"Gross":106.6,"Movies#":2,"Person":"Noam Murro","TotalGross($)":116.1,"#1Picture":"300: Rise of An Empire","MovieAverage($)":58.0}
+{"_id":{"$oid":"5c982157e2939d069a838459"},"Gross":327.5,"Movies#":2,"Person":"Andres Muschietti","TotalGross($)":399.1,"#1Picture":"It","MovieAverage($)":199.6}
+{"_id":{"$oid":"5c982157e2939d069a83845a"},"Gross":0.213,"Movies#":1,"Person":"Mike Myers","TotalGross($)":0.213,"#1Picture":"Supermensch: The Legend of Shep Gordon","MovieAverage($)":0.213}
+{"_id":{"$oid":"5c982157e2939d069a83845b"},"Gross":14.0,"Movies#":1,"Person":"Mark Mylod","TotalGross($)":14.0,"#1Picture":"What's Your Number?","MovieAverage($)":14.0}
+{"_id":{"$oid":"5c982157e2939d069a83845c"},"Gross":16.1,"Movies#":10,"Person":"Mira Nair","TotalGross($)":83.6,"#1Picture":"Vanity Fair","MovieAverage($)":8.4}
+{"_id":{"$oid":"5c982157e2939d069a83845d"},"Gross":17.0,"Movies#":2,"Person":"Vincenzo Natali","TotalGross($)":17.5,"#1Picture":"Splice","MovieAverage($)":8.8}
+{"_id":{"$oid":"5c982157e2939d069a83845e"},"Gross":35.3,"Movies#":4,"Person":"Gregory Nava","TotalGross($)":60.0,"#1Picture":"Selena","MovieAverage($)":15.0}
+{"_id":{"$oid":"5c982157e2939d069a83845f"},"Gross":51.8,"Movies#":4,"Person":"Mark Neveldine","TotalGross($)":113.8,"#1Picture":"Ghost Rider 2","MovieAverage($)":28.5}
+{"_id":{"$oid":"5c982157e2939d069a838460"},"Gross":290.2,"Movies#":14,"Person":"Mike Newell","TotalGross($)":582.0,"#1Picture":"Harry Potter / Goblet of Fire","MovieAverage($)":41.6}
+{"_id":{"$oid":"5c982157e2939d069a838461"},"Gross":0.896,"Movies#":1,"Person":"Paul Newman","TotalGross($)":0.896,"#1Picture":"The Glass Menagerie","MovieAverage($)":0.896}
+{"_id":{"$oid":"5c982157e2939d069a838462"},"Gross":37.5,"Movies#":6,"Person":"Andrew Niccol","TotalGross($)":110.8,"#1Picture":"In Time","MovieAverage($)":18.5}
+{"_id":{"$oid":"5c982157e2939d069a838463"},"Gross":21.6,"Movies#":5,"Person":"Jeff Nichols","TotalGross($)":34.8,"#1Picture":"Mud","MovieAverage($)":7.0}
+{"_id":{"$oid":"5c982157e2939d069a838464"},"Gross":124.1,"Movies#":16,"Person":"Mike Nichols","TotalGross($)":722.5,"#1Picture":"Birdcage","MovieAverage($)":45.2}
+{"_id":{"$oid":"5c982157e2939d069a838465"},"Gross":0.785,"Movies#":1,"Person":"William Nicholson","TotalGross($)":0.785,"#1Picture":"Firelight","MovieAverage($)":0.785}
+{"_id":{"$oid":"5c982157e2939d069a838466"},"Gross":36.1,"Movies#":1,"Person":"Neil Nightingale","TotalGross($)":36.1,"#1Picture":"Walking with Dinosaurs","MovieAverage($)":36.1}
+{"_id":{"$oid":"5c982157e2939d069a838467"},"Gross":80.6,"Movies#":4,"Person":"Marcus Nispel","TotalGross($)":177.1,"#1Picture":"Texas Chainsaw Massacre","MovieAverage($)":44.3}
+{"_id":{"$oid":"5c982157e2939d069a838468"},"Gross":24.0,"Movies#":1,"Person":"Troy Nixey","TotalGross($)":24.0,"#1Picture":"Don't Be Afraid of the Dark","MovieAverage($)":24.0}
+{"_id":{"$oid":"5c982157e2939d069a838469"},"Gross":0.792,"Movies#":4,"Person":"Gaspar Noe","TotalGross($)":2.1,"#1Picture":"Irreversible","MovieAverage($)":0.528}
+{"_id":{"$oid":"5c982157e2939d069a83846a"},"Gross":535.2,"Movies#":11,"Person":"Christopher Nolan","TotalGross($)":2006.7,"#1Picture":"The Dark Knight","MovieAverage($)":182.4}
+{"_id":{"$oid":"5c982157e2939d069a83846b"},"Gross":62.5,"Movies#":2,"Person":"George Nolfi","TotalGross($)":69.4,"#1Picture":"The Adjustment Bureau","MovieAverage($)":34.7}
+{"_id":{"$oid":"5c982157e2939d069a83846c"},"Gross":54.7,"Movies#":2,"Person":"Nima Nourizadeh","TotalGross($)":69.2,"#1Picture":"Project X","MovieAverage($)":34.6}
+{"_id":{"$oid":"5c982157e2939d069a83846d"},"Gross":122.2,"Movies#":13,"Person":"Phillip Noyce","TotalGross($)":567.2,"#1Picture":"Clear and Present Danger","MovieAverage($)":43.6}
+{"_id":{"$oid":"5c982157e2939d069a83846e"},"Gross":11.9,"Movies#":3,"Person":"Joe Nussbaum","TotalGross($)":31.5,"#1Picture":"Sydney White","MovieAverage($)":10.5}
+{"_id":{"$oid":"5c982157e2939d069a83846f"},"Gross":0.0158,"Movies#":1,"Person":"Lonzo Nzekwe","TotalGross($)":0.0158,"#1Picture":"Anchor Baby","MovieAverage($)":0.0158}
+{"_id":{"$oid":"5c982157e2939d069a838470"},"Gross":86.3,"Movies#":6,"Person":"Gavin O'Connor","TotalGross($)":182.9,"#1Picture":"The Accountant","MovieAverage($)":30.5}
+{"_id":{"$oid":"5c982157e2939d069a838471"},"Gross":108.4,"Movies#":4,"Person":"Steve Oedekerk","TotalGross($)":241.5,"#1Picture":"When Nature Calls","MovieAverage($)":60.4}
+{"_id":{"$oid":"5c982157e2939d069a838472"},"Gross":90.6,"Movies#":4,"Person":"Kenny Ortega","TotalGross($)":205.0,"#1Picture":"High School Musical 3","MovieAverage($)":51.2}
+{"_id":{"$oid":"5c982157e2939d069a838473"},"Gross":71.1,"Movies#":12,"Person":"Frank Oz","TotalGross($)":575.4,"#1Picture":"The Score","MovieAverage($)":48.0}
+{"_id":{"$oid":"5c982157e2939d069a838474"},"Gross":58.6,"Movies#":6,"Person":"Jose Padilha","TotalGross($)":62.3,"#1Picture":"RoboCop","MovieAverage($)":10.4}
+{"_id":{"$oid":"5c982157e2939d069a838475"},"Gross":100.8,"Movies#":12,"Person":"Alan J. Pakula","TotalGross($)":413.8,"#1Picture":"Pelican Brief","MovieAverage($)":34.5}
+{"_id":{"$oid":"5c982157e2939d069a838476"},"Gross":13.7,"Movies#":1,"Person":"David Palmer","TotalGross($)":13.7,"#1Picture":"Hit and Run","MovieAverage($)":13.7}
+{"_id":{"$oid":"5c982157e2939d069a838477"},"Gross":110.3,"Movies#":4,"Person":"Dean Parisot","TotalGross($)":245.6,"#1Picture":"Fun with Dick and Jane","MovieAverage($)":61.4}
+{"_id":{"$oid":"5c982157e2939d069a838478"},"Gross":18.5,"Movies#":5,"Person":"Oliver Parker","TotalGross($)":38.8,"#1Picture":"Ideal Husband","MovieAverage($)":7.8}
+{"_id":{"$oid":"5c982157e2939d069a838479"},"Gross":52.0,"Movies#":3,"Person":"Trey Parker","TotalGross($)":85.4,"#1Picture":"South Park - Bigger, Longer and Uncut","MovieAverage($)":28.5}
+{"_id":{"$oid":"5c982157e2939d069a83847a"},"Gross":82.6,"Movies#":7,"Person":"Alexander Payne","TotalGross($)":276.4,"#1Picture":"The Descendants","MovieAverage($)":39.5}
+{"_id":{"$oid":"5c982157e2939d069a83847b"},"Gross":6.7,"Movies#":1,"Person":"Drew Pearce","TotalGross($)":6.7,"#1Picture":"Hotel Artemis","MovieAverage($)":6.7}
+{"_id":{"$oid":"5c982157e2939d069a83847c"},"Gross":176.0,"Movies#":2,"Person":"Jordan Peele","TotalGross($)":246.3,"#1Picture":"Get Out","MovieAverage($)":123.1}
+{"_id":{"$oid":"5c982157e2939d069a83847d"},"Gross":35.3,"Movies#":3,"Person":"Kimberly Peirce","TotalGross($)":57.7,"#1Picture":"Carrie","MovieAverage($)":19.2}
+{"_id":{"$oid":"5c982157e2939d069a83847e"},"Gross":107.9,"Movies#":2,"Person":"Oren Peli","TotalGross($)":107.9,"#1Picture":"Paranormal Activity","MovieAverage($)":54.0}
+{"_id":{"$oid":"5c982157e2939d069a83847f"},"Gross":35.7,"Movies#":7,"Person":"Mark Pellington","TotalGross($)":64.4,"#1Picture":"Mothman Prophecies","MovieAverage($)":9.2}
+{"_id":{"$oid":"5c982157e2939d069a838480"},"Gross":18.4,"Movies#":2,"Person":"Sean Penn","TotalGross($)":19.2,"#1Picture":"Into the Wild","MovieAverage($)":9.6}
+{"_id":{"$oid":"5c982157e2939d069a838481"},"Gross":0.116,"Movies#":2,"Person":"Zak Penn","TotalGross($)":0.153,"#1Picture":"The Grand","MovieAverage($)":0.0767}
+{"_id":{"$oid":"5c982157e2939d069a838482"},"Gross":24.8,"Movies#":5,"Person":"Jesse Peretz","TotalGross($)":31.6,"#1Picture":"Our Idiot Brother","MovieAverage($)":6.3}
+{"_id":{"$oid":"5c982157e2939d069a838483"},"Gross":0.2,"Movies#":4,"Person":"Alex Ross Perry","TotalGross($)":0.352,"#1Picture":"Listen Up Philip","MovieAverage($)":0.0881}
+{"_id":{"$oid":"5c982157e2939d069a838484"},"Gross":90.5,"Movies#":20,"Person":"Tyler Perry","TotalGross($)":1005.2,"#1Picture":"Madea Goes to Jail","MovieAverage($)":50.3}
+{"_id":{"$oid":"5c982157e2939d069a838485"},"Gross":182.6,"Movies#":10,"Person":"Wolfgang Petersen","TotalGross($)":775.1,"#1Picture":"Perfect Storm","MovieAverage($)":77.5}
+{"_id":{"$oid":"5c982157e2939d069a838486"},"Gross":293.0,"Movies#":1,"Person":"Bob Peterson","TotalGross($)":293.0,"#1Picture":"Up","MovieAverage($)":293.0}
+{"_id":{"$oid":"5c982157e2939d069a838487"},"Gross":155.2,"Movies#":5,"Person":"Brad Peyton","TotalGross($)":408.5,"#1Picture":"San Andreas","MovieAverage($)":81.7}
+{"_id":{"$oid":"5c982157e2939d069a838488"},"Gross":23.0,"Movies#":1,"Person":"Wally Pfister","TotalGross($)":23.0,"#1Picture":"Transcendence","MovieAverage($)":23.0}
+{"_id":{"$oid":"5c982157e2939d069a838489"},"Gross":277.3,"Movies#":10,"Person":"Todd Phillips","TotalGross($)":1038.1,"#1Picture":"The Hangover","MovieAverage($)":103.8}
+{"_id":{"$oid":"5c982157e2939d069a83848a"},"Gross":50.3,"Movies#":4,"Person":"Steve Pink","TotalGross($)":147.6,"#1Picture":"Hot Tub Time Machine","MovieAverage($)":36.9}
+{"_id":{"$oid":"5c982157e2939d069a83848b"},"Gross":55.7,"Movies#":3,"Person":"Gregory Plotkin","TotalGross($)":85.1,"#1Picture":"Happy Death Day","MovieAverage($)":28.4}
+{"_id":{"$oid":"5c982157e2939d069a83848c"},"Gross":8.5,"Movies#":1,"Person":"John Pogue","TotalGross($)":8.5,"#1Picture":"The Quiet Ones","MovieAverage($)":8.5}
+{"_id":{"$oid":"5c982157e2939d069a83848d"},"Gross":101.3,"Movies#":4,"Person":"Sidney Poitier","TotalGross($)":138.6,"#1Picture":"Stir Crazy","MovieAverage($)":34.7}
+{"_id":{"$oid":"5c982157e2939d069a83848e"},"Gross":32.6,"Movies#":13,"Person":"Roman Polanski","TotalGross($)":147.2,"#1Picture":"The Pianist","MovieAverage($)":11.3}
+{"_id":{"$oid":"5c982157e2939d069a83848f"},"Gross":177.2,"Movies#":13,"Person":"Sydney Pollack","TotalGross($)":774.5,"#1Picture":"Tootsie","MovieAverage($)":59.6}
+{"_id":{"$oid":"5c982157e2939d069a838490"},"Gross":4.6,"Movies#":3,"Person":"Sarah Polley","TotalGross($)":7.4,"#1Picture":"Away from Her","MovieAverage($)":2.5}
+{"_id":{"$oid":"5c982157e2939d069a838491"},"Gross":20.5,"Movies#":5,"Person":"James Ponsoldt","TotalGross($)":30.8,"#1Picture":"The Circle","MovieAverage($)":6.2}
+{"_id":{"$oid":"5c982157e2939d069a838492"},"Gross":0.572,"Movies#":1,"Person":"Natalie Portman","TotalGross($)":0.572,"#1Picture":"A Tale of Love and Darkness","MovieAverage($)":0.572}
+{"_id":{"$oid":"5c982157e2939d069a838493"},"Gross":37.8,"Movies#":3,"Person":"Gina Prince-Bythewood","TotalGross($)":79.8,"#1Picture":"The Secret Life of Bees","MovieAverage($)":26.6}
+{"_id":{"$oid":"5c982157e2939d069a838494"},"Gross":144.8,"Movies#":6,"Person":"Alex Proyas","TotalGross($)":321.0,"#1Picture":"I, Robot","MovieAverage($)":53.5}
+{"_id":{"$oid":"5c982157e2939d069a838495"},"Gross":47.6,"Movies#":3,"Person":"Steven Quale","TotalGross($)":99.2,"#1Picture":"Into The Storm","MovieAverage($)":33.1}
+{"_id":{"$oid":"5c982157e2939d069a838496"},"Gross":21.8,"Movies#":7,"Person":"Michael Radford","TotalGross($)":38.5,"#1Picture":"Il Postino","MovieAverage($)":5.5}
+{"_id":{"$oid":"5c982157e2939d069a838497"},"Gross":0.327,"Movies#":2,"Person":"Josh Radnor","TotalGross($)":0.543,"#1Picture":"Liberal Arts","MovieAverage($)":0.272}
+{"_id":{"$oid":"5c982157e2939d069a838498"},"Gross":403.7,"Movies#":14,"Person":"Sam Raimi","TotalGross($)":1526.7,"#1Picture":"Spider-Man","MovieAverage($)":109.0}
+{"_id":{"$oid":"5c982157e2939d069a838499"},"Gross":106.9,"Movies#":11,"Person":"Harold Ramis","TotalGross($)":435.7,"#1Picture":"Analyze This","MovieAverage($)":39.6}
+{"_id":{"$oid":"5c982157e2939d069a83849a"},"Gross":2.5,"Movies#":4,"Person":"Lynne Ramsay","TotalGross($)":4.8,"#1Picture":"You Were Never Really Here","MovieAverage($)":1.2}
+{"_id":{"$oid":"5c982157e2939d069a83849b"},"Gross":234.4,"Movies#":10,"Person":"Brett Ratner","TotalGross($)":1130.8,"#1Picture":"X-Men: The Last Stand","MovieAverage($)":113.1}
+{"_id":{"$oid":"5c982157e2939d069a83849c"},"Gross":33.2,"Movies#":3,"Person":"Billy Ray","TotalGross($)":55.6,"#1Picture":"Breach","MovieAverage($)":18.5}
+{"_id":{"$oid":"5c982157e2939d069a83849d"},"Gross":75.4,"Movies#":9,"Person":"Robert Redford","TotalGross($)":274.8,"#1Picture":"Horse Whisperer","MovieAverage($)":30.5}
+{"_id":{"$oid":"5c982157e2939d069a83849e"},"Gross":216.6,"Movies#":6,"Person":"Peyton Reed","TotalGross($)":701.9,"#1Picture":"Ant-Man and the Wasp","MovieAverage($)":117.0}
+{"_id":{"$oid":"5c982157e2939d069a83849f"},"Gross":0.1,"Movies#":1,"Person":"Keanu Reeves","TotalGross($)":0.1,"#1Picture":"Man of Tai Chi","MovieAverage($)":0.1}
+{"_id":{"$oid":"5c982157e2939d069a8384a0"},"Gross":208.5,"Movies#":5,"Person":"Matt Reeves","TotalGross($)":453.3,"#1Picture":"Dawn of the Planet of the Apes","MovieAverage($)":90.7}
+{"_id":{"$oid":"5c982157e2939d069a8384a1"},"Gross":35.1,"Movies#":5,"Person":"Nicolas Winding Refn","TotalGross($)":37.3,"#1Picture":"Drive (2011)","MovieAverage($)":7.5}
+{"_id":{"$oid":"5c982157e2939d069a8384a2"},"Gross":1.1,"Movies#":6,"Person":"Kelly Reichardt","TotalGross($)":3.5,"#1Picture":"Certain Women","MovieAverage($)":0.578}
+{"_id":{"$oid":"5c982157e2939d069a8384a3"},"Gross":141.3,"Movies#":20,"Person":"Rob Reiner","TotalGross($)":679.4,"#1Picture":"A Few Good Men","MovieAverage($)":34.0}
+{"_id":{"$oid":"5c982157e2939d069a8384a4"},"Gross":242.2,"Movies#":15,"Person":"Ivan Reitman","TotalGross($)":1099.6,"#1Picture":"Ghostbusters","MovieAverage($)":73.3}
+{"_id":{"$oid":"5c982157e2939d069a8384a5"},"Gross":143.5,"Movies#":8,"Person":"Jason Reitman","TotalGross($)":293.9,"#1Picture":"Juno","MovieAverage($)":36.7}
+{"_id":{"$oid":"5c982157e2939d069a8384a6"},"Gross":368.4,"Movies#":4,"Person":"Chris Renaud","TotalGross($)":1202.0,"#1Picture":"The Secret Life of Pets","MovieAverage($)":300.5}
+{"_id":{"$oid":"5c982157e2939d069a8384a7"},"Gross":84.4,"Movies#":4,"Person":"John Requa","TotalGross($)":163.3,"#1Picture":"Crazy, Stupid, Love.","MovieAverage($)":40.8}
+{"_id":{"$oid":"5c982157e2939d069a8384a8"},"Gross":165.5,"Movies#":9,"Person":"Kevin Reynolds","TotalGross($)":365.9,"#1Picture":"Robin Hood: Prince of Thieves","MovieAverage($)":40.7}
+{"_id":{"$oid":"5c982157e2939d069a8384a9"},"Gross":0.558,"Movies#":1,"Person":"Alan Rickman","TotalGross($)":0.558,"#1Picture":"A Little Chaos","MovieAverage($)":0.558}
+{"_id":{"$oid":"5c982157e2939d069a8384aa"},"Gross":0.341,"Movies#":2,"Person":"John Ridley","TotalGross($)":0.346,"#1Picture":"Jimi: All Is By My Side","MovieAverage($)":0.173}
+{"_id":{"$oid":"5c982157e2939d069a8384ab"},"Gross":7.9,"Movies#":6,"Person":"Adam Rifkin","TotalGross($)":12.2,"#1Picture":"The Chase","MovieAverage($)":2.0}
+{"_id":{"$oid":"5c982157e2939d069a8384ac"},"Gross":38.4,"Movies#":1,"Person":"Carl Rinsch","TotalGross($)":38.4,"#1Picture":"47 Ronin","MovieAverage($)":38.4}
+{"_id":{"$oid":"5c982157e2939d069a8384ad"},"Gross":209.0,"Movies#":9,"Person":"Guy Ritchie","TotalGross($)":521.0,"#1Picture":"Sherlock Holmes","MovieAverage($)":57.9}
+{"_id":{"$oid":"5c982157e2939d069a8384ae"},"Gross":279.3,"Movies#":9,"Person":"Jay Roach","TotalGross($)":1095.4,"#1Picture":"Meet the Fockers","MovieAverage($)":121.7}
+{"_id":{"$oid":"5c982157e2939d069a8384af"},"Gross":95.7,"Movies#":10,"Person":"Brian Robbins","TotalGross($)":329.4,"#1Picture":"Norbit","MovieAverage($)":32.9}
+{"_id":{"$oid":"5c982157e2939d069a8384b0"},"Gross":39.4,"Movies#":3,"Person":"Tim Robbins","TotalGross($)":46.7,"#1Picture":"Dead Man Walking","MovieAverage($)":15.6}
+{"_id":{"$oid":"5c982157e2939d069a8384b1"},"Gross":0.194,"Movies#":1,"Person":"Jordan Roberts","TotalGross($)":0.194,"#1Picture":"Around the Bend","MovieAverage($)":0.194}
+{"_id":{"$oid":"5c982157e2939d069a8384b2"},"Gross":3.1,"Movies#":2,"Person":"Gillian Robespierre","TotalGross($)":4.1,"#1Picture":"Obvious Child","MovieAverage($)":2.0}
+{"_id":{"$oid":"5c982157e2939d069a8384b3"},"Gross":63.0,"Movies#":2,"Person":"Julie Anne Robinson","TotalGross($)":89.4,"#1Picture":"The Last Song","MovieAverage($)":44.7}
+{"_id":{"$oid":"5c982157e2939d069a8384b4"},"Gross":38.1,"Movies#":3,"Person":"Chris Rock","TotalGross($)":76.0,"#1Picture":"Head of State","MovieAverage($)":25.3}
+{"_id":{"$oid":"5c982157e2939d069a8384b5"},"Gross":112.7,"Movies#":17,"Person":"Robert Rodriguez","TotalGross($)":790.1,"#1Picture":"Spy Kids","MovieAverage($)":46.5}
+{"_id":{"$oid":"5c982157e2939d069a8384b6"},"Gross":101.5,"Movies#":2,"Person":"Seth Rogen","TotalGross($)":107.6,"#1Picture":"This is the End","MovieAverage($)":53.8}
+{"_id":{"$oid":"5c982157e2939d069a8384b7"},"Gross":31.6,"Movies#":2,"Person":"Mark Romanek","TotalGross($)":34.0,"#1Picture":"One Hour Photo","MovieAverage($)":17.0}
+{"_id":{"$oid":"5c982157e2939d069a8384b8"},"Gross":172.6,"Movies#":2,"Person":"Joachim Ronning","TotalGross($)":174.1,"#1Picture":"Pirates of the Caribbean 5","MovieAverage($)":87.0}
+{"_id":{"$oid":"5c982157e2939d069a8384b9"},"Gross":36.8,"Movies#":4,"Person":"Don Roos","TotalGross($)":44.0,"#1Picture":"Bounce","MovieAverage($)":11.0}
+{"_id":{"$oid":"5c982157e2939d069a8384ba"},"Gross":10.7,"Movies#":3,"Person":"Michael Roskam","TotalGross($)":10.9,"#1Picture":"The Drop","MovieAverage($)":3.6}
+{"_id":{"$oid":"5c982157e2939d069a8384bb"},"Gross":408.0,"Movies#":5,"Person":"Gary Ross","TotalGross($)":729.9,"#1Picture":"The Hunger Games","MovieAverage($)":146.0}
+{"_id":{"$oid":"5c982157e2939d069a8384bc"},"Gross":68.5,"Movies#":7,"Person":"Eli Roth","TotalGross($)":195.9,"#1Picture":"House With A Clock In Its Walls","MovieAverage($)":28.0}
+{"_id":{"$oid":"5c982157e2939d069a8384bd"},"Gross":93.6,"Movies#":6,"Person":"Joe Roth","TotalGross($)":213.2,"#1Picture":"America's Sweethearts","MovieAverage($)":35.5}
+{"_id":{"$oid":"5c982157e2939d069a8384be"},"Gross":101.6,"Movies#":9,"Person":"Joseph Ruben","TotalGross($)":282.7,"#1Picture":"Sleeping with the Enemy","MovieAverage($)":31.4}
+{"_id":{"$oid":"5c982157e2939d069a8384bf"},"Gross":0.0138,"Movies#":1,"Person":"Mark Ruffalo","TotalGross($)":0.0138,"#1Picture":"Sympathy for Delicious","MovieAverage($)":0.0138}
+{"_id":{"$oid":"5c982157e2939d069a8384c0"},"Gross":150.1,"Movies#":8,"Person":"David O. Russell","TotalGross($)":521.8,"#1Picture":"American Hustle","MovieAverage($)":65.2}
+{"_id":{"$oid":"5c982157e2939d069a8384c1"},"Gross":74.5,"Movies#":5,"Person":"Jay Russell","TotalGross($)":168.8,"#1Picture":"Ladder 49","MovieAverage($)":33.8}
+{"_id":{"$oid":"5c982157e2939d069a8384c2"},"Gross":678.8,"Movies#":5,"Person":"Anthony Russo","TotalGross($)":1422.6,"#1Picture":"Avengers: Infinity War","MovieAverage($)":284.5}
+{"_id":{"$oid":"5c982157e2939d069a8384c3"},"Gross":678.8,"Movies#":5,"Person":"Joe Russo","TotalGross($)":1422.6,"#1Picture":"Avengers: Infinity War","MovieAverage($)":284.5}
+{"_id":{"$oid":"5c982157e2939d069a8384c4"},"Gross":196.6,"Movies#":8,"Person":"Carlos Saldanha","TotalGross($)":1056.1,"#1Picture":"Ice Age 3","MovieAverage($)":132.0}
+{"_id":{"$oid":"5c982157e2939d069a8384c5"},"Gross":0.584,"Movies#":1,"Person":"Shane Salerno","TotalGross($)":0.584,"#1Picture":"Salinger","MovieAverage($)":0.584}
+{"_id":{"$oid":"5c982157e2939d069a8384c6"},"Gross":37.9,"Movies#":4,"Person":"Victor Salva","TotalGross($)":108.4,"#1Picture":"Jeepers Creepers","MovieAverage($)":27.1}
+{"_id":{"$oid":"5c982157e2939d069a8384c7"},"Gross":102.1,"Movies#":2,"Person":"David F. Sandberg","TotalGross($)":169.4,"#1Picture":"Annabelle 2","MovieAverage($)":84.7}
+{"_id":{"$oid":"5c982157e2939d069a8384c8"},"Gross":172.6,"Movies#":2,"Person":"Espen Sandberg","TotalGross($)":174.1,"#1Picture":"Pirates of the Caribbean 5","MovieAverage($)":87.0}
+{"_id":{"$oid":"5c982157e2939d069a8384c9"},"Gross":46.7,"Movies#":2,"Person":"Ari Sandel","TotalGross($)":80.7,"#1Picture":"Goosebumps 2","MovieAverage($)":40.4}
+{"_id":{"$oid":"5c982157e2939d069a8384ca"},"Gross":217.6,"Movies#":3,"Person":"Chris Sanders","TotalGross($)":550.5,"#1Picture":"How to Train Your Dragon","MovieAverage($)":183.5}
+{"_id":{"$oid":"5c982157e2939d069a8384cb"},"Gross":155.3,"Movies#":2,"Person":"Rupert Sanders","TotalGross($)":195.9,"#1Picture":"Snow White and the Huntsman","MovieAverage($)":97.9}
+{"_id":{"$oid":"5c982157e2939d069a8384cc"},"Gross":3.2,"Movies#":2,"Person":"Jeremy Saulnier","TotalGross($)":3.5,"#1Picture":"Green Room","MovieAverage($)":1.7}
+{"_id":{"$oid":"5c982157e2939d069a8384cd"},"Gross":56.4,"Movies#":3,"Person":"Geoffrey Sax","TotalGross($)":57.8,"#1Picture":"White Noise","MovieAverage($)":19.3}
+{"_id":{"$oid":"5c982157e2939d069a8384ce"},"Gross":7.1,"Movies#":2,"Person":"Lorene Scafaria","TotalGross($)":11.3,"#1Picture":"Seeking a Friend for the End of the World","MovieAverage($)":5.7}
+{"_id":{"$oid":"5c982157e2939d069a8384cf"},"Gross":268.5,"Movies#":1,"Person":"Dan Scanlon","TotalGross($)":268.5,"#1Picture":"Monsters University","MovieAverage($)":268.5}
+{"_id":{"$oid":"5c982157e2939d069a8384d0"},"Gross":22.5,"Movies#":1,"Person":"Don Scardino","TotalGross($)":22.5,"#1Picture":"Burt Wonderstone","MovieAverage($)":22.5}
+{"_id":{"$oid":"5c982157e2939d069a8384d1"},"Gross":35.4,"Movies#":3,"Person":"Akiva Schaffer","TotalGross($)":58.9,"#1Picture":"The Watch","MovieAverage($)":19.6}
+{"_id":{"$oid":"5c982157e2939d069a8384d2"},"Gross":17.8,"Movies#":1,"Person":"Jeff Schaffer","TotalGross($)":17.8,"#1Picture":"Eurotrip","MovieAverage($)":17.8}
+{"_id":{"$oid":"5c982157e2939d069a8384d3"},"Gross":13.8,"Movies#":5,"Person":"Lone Scherfig","TotalGross($)":30.3,"#1Picture":"One Day","MovieAverage($)":6.1}
+{"_id":{"$oid":"5c982157e2939d069a8384d4"},"Gross":57.0,"Movies#":2,"Person":"Hayden Schlossberg","TotalGross($)":95.1,"#1Picture":"American Reunion","MovieAverage($)":47.6}
+{"_id":{"$oid":"5c982157e2939d069a8384d5"},"Gross":6.0,"Movies#":6,"Person":"Julian Schnabel","TotalGross($)":16.0,"#1Picture":"The Diving Bell and the Butterfly","MovieAverage($)":2.7}
+{"_id":{"$oid":"5c982157e2939d069a8384d6"},"Gross":22.7,"Movies#":15,"Person":"Paul Schrader","TotalGross($)":63.3,"#1Picture":"American Gigolo","MovieAverage($)":4.2}
+{"_id":{"$oid":"5c982157e2939d069a8384d7"},"Gross":32.0,"Movies#":2,"Person":"Jake Schreier","TotalGross($)":35.3,"#1Picture":"Paper Towns","MovieAverage($)":17.7}
+{"_id":{"$oid":"5c982157e2939d069a8384d8"},"Gross":48.0,"Movies#":9,"Person":"Barbet Schroeder","TotalGross($)":136.7,"#1Picture":"Single White Female","MovieAverage($)":15.2}
+{"_id":{"$oid":"5c982157e2939d069a8384d9"},"Gross":104.0,"Movies#":4,"Person":"Ariel Schulman","TotalGross($)":199.8,"#1Picture":"Paranormal Activity 3","MovieAverage($)":49.9}
+{"_id":{"$oid":"5c982157e2939d069a8384da"},"Gross":51.4,"Movies#":6,"Person":"John Schultz","TotalGross($)":122.4,"#1Picture":"Like Mike","MovieAverage($)":20.4}
+{"_id":{"$oid":"5c982157e2939d069a8384db"},"Gross":184.0,"Movies#":22,"Person":"Joel Schumacher","TotalGross($)":963.0,"#1Picture":"Batman Forever","MovieAverage($)":43.8}
+{"_id":{"$oid":"5c982157e2939d069a8384dc"},"Gross":9.4,"Movies#":1,"Person":"Josh Schwartz","TotalGross($)":9.4,"#1Picture":"Fun Size","MovieAverage($)":9.4}
+{"_id":{"$oid":"5c982157e2939d069a8384dd"},"Gross":130.2,"Movies#":7,"Person":"Robert Schwentke","TotalGross($)":473.6,"#1Picture":"Insurgent","MovieAverage($)":67.7}
+{"_id":{"$oid":"5c982157e2939d069a8384de"},"Gross":6.0,"Movies#":2,"Person":"David Schwimmer","TotalGross($)":6.1,"#1Picture":"Run Fat Boy Run","MovieAverage($)":3.1}
+{"_id":{"$oid":"5c982157e2939d069a8384df"},"Gross":132.4,"Movies#":24,"Person":"Martin Scorsese","TotalGross($)":1027.9,"#1Picture":"The Departed","MovieAverage($)":42.8}
+{"_id":{"$oid":"5c982157e2939d069a8384e0"},"Gross":30.7,"Movies#":3,"Person":"Ken Scott","TotalGross($)":41.2,"#1Picture":"Delivery Man","MovieAverage($)":13.7}
+{"_id":{"$oid":"5c982157e2939d069a8384e1"},"Gross":228.4,"Movies#":24,"Person":"Ridley Scott","TotalGross($)":1661.1,"#1Picture":"The Martian","MovieAverage($)":69.2}
+{"_id":{"$oid":"5c982157e2939d069a8384e2"},"Gross":179.8,"Movies#":16,"Person":"Tony Scott","TotalGross($)":1092.6,"#1Picture":"Top Gun","MovieAverage($)":68.3}
+{"_id":{"$oid":"5c982157e2939d069a8384e3"},"Gross":158.1,"Movies#":10,"Person":"Peter Segal","TotalGross($)":843.5,"#1Picture":"The Longest Yard","MovieAverage($)":84.4}
+{"_id":{"$oid":"5c982157e2939d069a8384e4"},"Gross":75.3,"Movies#":4,"Person":"Henry Selick","TotalGross($)":184.7,"#1Picture":"Coraline","MovieAverage($)":46.2}
+{"_id":{"$oid":"5c982157e2939d069a8384e5"},"Gross":48.5,"Movies#":5,"Person":"Aaron Seltzer","TotalGross($)":177.4,"#1Picture":"Date Movie","MovieAverage($)":35.5}
+{"_id":{"$oid":"5c982157e2939d069a8384e6"},"Gross":21.6,"Movies#":3,"Person":"David Seltzer","TotalGross($)":50.9,"#1Picture":"Shining Through","MovieAverage($)":17.0}
+{"_id":{"$oid":"5c982157e2939d069a8384e7"},"Gross":101.6,"Movies#":5,"Person":"Dominic Sena","TotalGross($)":208.9,"#1Picture":"Gone in 60 Seconds","MovieAverage($)":41.8}
+{"_id":{"$oid":"5c982157e2939d069a8384e8"},"Gross":0.49,"Movies#":1,"Person":"Andy Serkis","TotalGross($)":0.49,"#1Picture":"Breathe (2017)","MovieAverage($)":0.49}
+{"_id":{"$oid":"5c982157e2939d069a8384e9"},"Gross":242.8,"Movies#":8,"Person":"Tom Shadyac","TotalGross($)":892.7,"#1Picture":"Bruce Almighty","MovieAverage($)":111.6}
+{"_id":{"$oid":"5c982157e2939d069a8384ea"},"Gross":132.7,"Movies#":9,"Person":"Adam Shankman","TotalGross($)":751.6,"#1Picture":"Bringing Down the House","MovieAverage($)":83.5}
+{"_id":{"$oid":"5c982157e2939d069a8384eb"},"Gross":1.6,"Movies#":6,"Person":"Lynn Shelton","TotalGross($)":3.2,"#1Picture":"Your Sister's Sister","MovieAverage($)":0.537}
+{"_id":{"$oid":"5c982157e2939d069a8384ec"},"Gross":17.5,"Movies#":1,"Person":"Larry Sher","TotalGross($)":17.5,"#1Picture":"Father Figures","MovieAverage($)":17.5}
+{"_id":{"$oid":"5c982157e2939d069a8384ed"},"Gross":31.0,"Movies#":8,"Person":"Jim Sheridan","TotalGross($)":143.7,"#1Picture":"Get Rich or Die Tryin'","MovieAverage($)":18.0}
+{"_id":{"$oid":"5c982157e2939d069a8384ee"},"Gross":56.3,"Movies#":1,"Person":"Gary Shore","TotalGross($)":56.3,"#1Picture":"Dracula Untold","MovieAverage($)":56.3}
+{"_id":{"$oid":"5c982157e2939d069a8384ef"},"Gross":293.5,"Movies#":12,"Person":"M. Night Shyamalan","TotalGross($)":1344.4,"#1Picture":"Sixth Sense","MovieAverage($)":112.0}
+{"_id":{"$oid":"5c982157e2939d069a8384f0"},"Gross":89.3,"Movies#":7,"Person":"Charles Shyer","TotalGross($)":249.7,"#1Picture":"Father of the Bride","MovieAverage($)":35.7}
+{"_id":{"$oid":"5c982157e2939d069a8384f1"},"Gross":104.9,"Movies#":2,"Person":"Trish Sie","TotalGross($)":119.8,"#1Picture":"Pitch Perfect 3","MovieAverage($)":59.9}
+{"_id":{"$oid":"5c982157e2939d069a8384f2"},"Gross":0.235,"Movies#":1,"Person":"Robert D. Siegel","TotalGross($)":0.235,"#1Picture":"Big Fan","MovieAverage($)":0.235}
+{"_id":{"$oid":"5c982157e2939d069a8384f3"},"Gross":118.6,"Movies#":6,"Person":"Brad Silberling","TotalGross($)":354.0,"#1Picture":"Lemony Snicket","MovieAverage($)":59.0}
+{"_id":{"$oid":"5c982157e2939d069a8384f4"},"Gross":0.577,"Movies#":3,"Person":"Sebastián Silva","TotalGross($)":0.678,"#1Picture":"The Maid","MovieAverage($)":0.226}
+{"_id":{"$oid":"5c982157e2939d069a8384f5"},"Gross":13.3,"Movies#":2,"Person":"Scott Silver","TotalGross($)":13.3,"#1Picture":"Mod Squad","MovieAverage($)":6.7}
+{"_id":{"$oid":"5c982157e2939d069a8384f6"},"Gross":289.9,"Movies#":3,"Person":"David Silverman","TotalGross($)":523.9,"#1Picture":"Monsters, Inc.","MovieAverage($)":174.6}
+{"_id":{"$oid":"5c982157e2939d069a8384f7"},"Gross":48.8,"Movies#":1,"Person":"Marc Silverstein","TotalGross($)":48.8,"#1Picture":"I Feel Pretty","MovieAverage($)":48.8}
+{"_id":{"$oid":"5c982157e2939d069a8384f8"},"Gross":233.9,"Movies#":10,"Person":"Bryan Singer","TotalGross($)":1358.1,"#1Picture":"X-Men: Days of Future Past","MovieAverage($)":135.8}
+{"_id":{"$oid":"5c982157e2939d069a8384f9"},"Gross":127.2,"Movies#":9,"Person":"John Singleton","TotalGross($)":465.2,"#1Picture":"2 Fast 2 Furious","MovieAverage($)":51.7}
+{"_id":{"$oid":"5c982157e2939d069a8384fa"},"Gross":300.5,"Movies#":3,"Person":"David Slade","TotalGross($)":341.1,"#1Picture":"The Twilight Saga: Eclipse","MovieAverage($)":113.7}
+{"_id":{"$oid":"5c982157e2939d069a8384fb"},"Gross":0.17,"Movies#":1,"Person":"John Slattery","TotalGross($)":0.17,"#1Picture":"God's Pocket","MovieAverage($)":0.17}
+{"_id":{"$oid":"5c982157e2939d069a8384fc"},"Gross":32.0,"Movies#":1,"Person":"Jim Field Smith","TotalGross($)":32.0,"#1Picture":"She's Out of My League","MovieAverage($)":32.0}
+{"_id":{"$oid":"5c982157e2939d069a8384fd"},"Gross":44.9,"Movies#":11,"Person":"Kevin Smith","TotalGross($)":206.7,"#1Picture":"Cop Out","MovieAverage($)":18.8}
+{"_id":{"$oid":"5c982157e2939d069a8384fe"},"Gross":46.5,"Movies#":1,"Person":"Sarah Smith","TotalGross($)":46.5,"#1Picture":"Arthur Christmas","MovieAverage($)":46.5}
+{"_id":{"$oid":"5c982157e2939d069a8384ff"},"Gross":126.6,"Movies#":2,"Person":"Simon J. Smith","TotalGross($)":210.0,"#1Picture":"Bee Movie","MovieAverage($)":105.0}
+{"_id":{"$oid":"5c982157e2939d069a838500"},"Gross":330.4,"Movies#":8,"Person":"Zack Snyder","TotalGross($)":1319.6,"#1Picture":"Batman v Superman","MovieAverage($)":165.0}
+{"_id":{"$oid":"5c982157e2939d069a838501"},"Gross":183.4,"Movies#":28,"Person":"Steven Soderbergh","TotalGross($)":1074.9,"#1Picture":"Ocean's Eleven","MovieAverage($)":38.4}
+{"_id":{"$oid":"5c982157e2939d069a838502"},"Gross":50.3,"Movies#":6,"Person":"Iain Softley","TotalGross($)":139.2,"#1Picture":"K-PAX","MovieAverage($)":23.2}
+{"_id":{"$oid":"5c982157e2939d069a838503"},"Gross":16.3,"Movies#":3,"Person":"Courtney Solomon","TotalGross($)":42.0,"#1Picture":"An American Haunting","MovieAverage($)":14.0}
+{"_id":{"$oid":"5c982157e2939d069a838504"},"Gross":0.21,"Movies#":1,"Person":"Ed Solomon","TotalGross($)":0.21,"#1Picture":"Levity","MovieAverage($)":0.21}
+{"_id":{"$oid":"5c982157e2939d069a838505"},"Gross":4.6,"Movies#":8,"Person":"Todd Solondz","TotalGross($)":9.8,"#1Picture":"Welcome to the Dollhouse","MovieAverage($)":1.2}
+{"_id":{"$oid":"5c982157e2939d069a838506"},"Gross":202.0,"Movies#":8,"Person":"Stephen Sommers","TotalGross($)":706.3,"#1Picture":"Mummy Returns","MovieAverage($)":88.3}
+{"_id":{"$oid":"5c982157e2939d069a838507"},"Gross":250.7,"Movies#":11,"Person":"Barry Sonnenfeld","TotalGross($)":1078.3,"#1Picture":"Men in Black","MovieAverage($)":98.0}
+{"_id":{"$oid":"5c982157e2939d069a838508"},"Gross":83.0,"Movies#":2,"Person":"David Soren","TotalGross($)":156.9,"#1Picture":"Turbo","MovieAverage($)":78.5}
+{"_id":{"$oid":"5c982157e2939d069a838509"},"Gross":28.8,"Movies#":1,"Person":"Aaron Sorkin","TotalGross($)":28.8,"#1Picture":"Molly's Game","MovieAverage($)":28.8}
+{"_id":{"$oid":"5c982157e2939d069a83850a"},"Gross":118.6,"Movies#":3,"Person":"Will Speck","TotalGross($)":201.1,"#1Picture":"Blades of Glory","MovieAverage($)":67.0}
+{"_id":{"$oid":"5c982157e2939d069a83850b"},"Gross":35.1,"Movies#":1,"Person":"Scott Speer","TotalGross($)":35.1,"#1Picture":"Step Up Revolution","MovieAverage($)":35.1}
+{"_id":{"$oid":"5c982157e2939d069a83850c"},"Gross":59.7,"Movies#":1,"Person":"Christopher Spencer","TotalGross($)":59.7,"#1Picture":"Son of God","MovieAverage($)":59.7}
+{"_id":{"$oid":"5c982157e2939d069a83850d"},"Gross":121.7,"Movies#":5,"Person":"Penelope Spheeris","TotalGross($)":263.1,"#1Picture":"Wayne's World","MovieAverage($)":52.6}
+{"_id":{"$oid":"5c982157e2939d069a83850e"},"Gross":435.1,"Movies#":33,"Person":"Steven Spielberg","TotalGross($)":4672.2,"#1Picture":"E.T.","MovieAverage($)":141.6}
+{"_id":{"$oid":"5c982157e2939d069a83850f"},"Gross":28.9,"Movies#":6,"Person":"Morgan Spurlock","TotalGross($)":41.5,"#1Picture":"One Direction: This is Us","MovieAverage($)":6.9}
+{"_id":{"$oid":"5c982157e2939d069a838510"},"Gross":8.5,"Movies#":1,"Person":"Dan St. Pierre","TotalGross($)":8.5,"#1Picture":"Legends of Oz: Dorothy's Return","MovieAverage($)":8.5}
+{"_id":{"$oid":"5c982157e2939d069a838511"},"Gross":50.8,"Movies#":1,"Person":"Anthony Stacchi","TotalGross($)":50.8,"#1Picture":"The Boxtrolls","MovieAverage($)":50.8}
+{"_id":{"$oid":"5c982157e2939d069a838512"},"Gross":92.0,"Movies#":2,"Person":"Chad Stahelski","TotalGross($)":135.1,"#1Picture":"John Wick 2","MovieAverage($)":67.5}
+{"_id":{"$oid":"5c982157e2939d069a838513"},"Gross":127.9,"Movies#":8,"Person":"Sylvester Stallone","TotalGross($)":626.3,"#1Picture":"Rocky IV","MovieAverage($)":78.3}
+{"_id":{"$oid":"5c982157e2939d069a838514"},"Gross":41.0,"Movies#":1,"Person":"Daniel Stamm","TotalGross($)":41.0,"#1Picture":"The Last Exorcism","MovieAverage($)":41.0}
+{"_id":{"$oid":"5c982157e2939d069a838515"},"Gross":486.3,"Movies#":4,"Person":"Andrew Stanton","TotalGross($)":1164.0,"#1Picture":"Finding Dory","MovieAverage($)":291.0}
+{"_id":{"$oid":"5c982157e2939d069a838516"},"Gross":64.2,"Movies#":4,"Person":"Burr Steers","TotalGross($)":111.0,"#1Picture":"17 Again","MovieAverage($)":27.8}
+{"_id":{"$oid":"5c982157e2939d069a838517"},"Gross":62.3,"Movies#":1,"Person":"Bjorn Stein","TotalGross($)":62.3,"#1Picture":"Underworld Awakening","MovieAverage($)":62.3}
+{"_id":{"$oid":"5c982157e2939d069a838518"},"Gross":18.7,"Movies#":4,"Person":"James D. Stern","TotalGross($)":20.4,"#1Picture":"Michael Jordan (IMAX)","MovieAverage($)":5.1}
+{"_id":{"$oid":"5c982157e2939d069a838519"},"Gross":16.3,"Movies#":2,"Person":"Joshua Michael Stern","TotalGross($)":32.4,"#1Picture":"Swing Vote","MovieAverage($)":16.2}
+{"_id":{"$oid":"5c982157e2939d069a83851a"},"Gross":0.319,"Movies#":1,"Person":"Josh Sternfeld","TotalGross($)":0.319,"#1Picture":"Winter Solstice","MovieAverage($)":0.319}
+{"_id":{"$oid":"5c982157e2939d069a83851b"},"Gross":11.5,"Movies#":1,"Person":"Lee Sternthal","TotalGross($)":11.5,"#1Picture":"The Words","MovieAverage($)":11.5}
+{"_id":{"$oid":"5c982157e2939d069a83851c"},"Gross":40.2,"Movies#":3,"Person":"Scott Charles Stewart","TotalGross($)":86.7,"#1Picture":"Legion","MovieAverage($)":28.9}
+{"_id":{"$oid":"5c982157e2939d069a83851d"},"Gross":110.5,"Movies#":6,"Person":"Ben Stiller","TotalGross($)":324.0,"#1Picture":"Tropic Thunder","MovieAverage($)":54.0}
+{"_id":{"$oid":"5c982157e2939d069a83851e"},"Gross":14.0,"Movies#":6,"Person":"Whit Stillman","TotalGross($)":28.3,"#1Picture":"Love \u0026 Friendship","MovieAverage($)":4.7}
+{"_id":{"$oid":"5c982157e2939d069a83851f"},"Gross":40.4,"Movies#":5,"Person":"John Stockwell","TotalGross($)":83.2,"#1Picture":"Blue Crush","MovieAverage($)":16.6}
+{"_id":{"$oid":"5c982157e2939d069a838520"},"Gross":40.4,"Movies#":3,"Person":"Chris Stokes","TotalGross($)":44.0,"#1Picture":"You Got Served","MovieAverage($)":14.7}
+{"_id":{"$oid":"5c982157e2939d069a838521"},"Gross":150.2,"Movies#":6,"Person":"Nick Stoller","TotalGross($)":431.3,"#1Picture":"Neighbors","MovieAverage($)":71.9}
+{"_id":{"$oid":"5c982157e2939d069a838522"},"Gross":138.5,"Movies#":19,"Person":"Oliver Stone","TotalGross($)":766.0,"#1Picture":"Platoon","MovieAverage($)":40.3}
+{"_id":{"$oid":"5c982157e2939d069a838523"},"Gross":56.4,"Movies#":5,"Person":"Charles Stone III","TotalGross($)":123.8,"#1Picture":"Drumline","MovieAverage($)":24.8}
+{"_id":{"$oid":"5c982157e2939d069a838524"},"Gross":154.7,"Movies#":8,"Person":"Tim Story","TotalGross($)":781.9,"#1Picture":"Fantastic Four (2005)","MovieAverage($)":97.7}
+{"_id":{"$oid":"5c982157e2939d069a838525"},"Gross":41.8,"Movies#":2,"Person":"Greg Strause","TotalGross($)":63.2,"#1Picture":"Aliens Vs. Predator - Requiem","MovieAverage($)":31.6}
+{"_id":{"$oid":"5c982157e2939d069a838526"},"Gross":47.5,"Movies#":2,"Person":"Todd Strauss-Schulson","TotalGross($)":82.6,"#1Picture":"Isn't It Romantic","MovieAverage($)":41.3}
+{"_id":{"$oid":"5c982157e2939d069a838527"},"Gross":74.8,"Movies#":3,"Person":"Barbra Streisand","TotalGross($)":156.1,"#1Picture":"The Prince of Tides","MovieAverage($)":52.0}
+{"_id":{"$oid":"5c982157e2939d069a838528"},"Gross":241.4,"Movies#":1,"Person":"Robert Stromberg","TotalGross($)":241.4,"#1Picture":"Maleficent","MovieAverage($)":241.4}
+{"_id":{"$oid":"5c982157e2939d069a838529"},"Gross":0.378,"Movies#":1,"Person":"Danny Strong","TotalGross($)":0.378,"#1Picture":"Rebel in the Rye","MovieAverage($)":0.378}
+{"_id":{"$oid":"5c982157e2939d069a83852a"},"Gross":125.0,"Movies#":2,"Person":"Michael Sucsy","TotalGross($)":131.1,"#1Picture":"The Vow","MovieAverage($)":65.6}
+{"_id":{"$oid":"5c982157e2939d069a83852b"},"Gross":33.4,"Movies#":2,"Person":"John Sullivan","TotalGross($)":47.9,"#1Picture":"2016 Obama's America","MovieAverage($)":23.9}
+{"_id":{"$oid":"5c982157e2939d069a83852c"},"Gross":0.383,"Movies#":1,"Person":"Spencer Susser","TotalGross($)":0.383,"#1Picture":"Hesher","MovieAverage($)":0.383}
+{"_id":{"$oid":"5c982157e2939d069a83852d"},"Gross":0.109,"Movies#":1,"Person":"Kiefer Sutherland","TotalGross($)":0.109,"#1Picture":"Truth or Consequences, N.M.","MovieAverage($)":0.109}
+{"_id":{"$oid":"5c982157e2939d069a83852e"},"Gross":0.343,"Movies#":5,"Person":"Joe Swanberg","TotalGross($)":0.521,"#1Picture":"Drinking Buddies","MovieAverage($)":0.104}
+{"_id":{"$oid":"5c982157e2939d069a83852f"},"Gross":3.1,"Movies#":1,"Person":"Damian Szifron","TotalGross($)":3.1,"#1Picture":"Wild Tales","MovieAverage($)":3.1}
+{"_id":{"$oid":"5c982157e2939d069a838530"},"Gross":9.6,"Movies#":2,"Person":"Jorma Taccone","TotalGross($)":18.2,"#1Picture":"Popstar","MovieAverage($)":9.1}
+{"_id":{"$oid":"5c982157e2939d069a838531"},"Gross":160.9,"Movies#":8,"Person":"Lee Tamahori","TotalGross($)":322.5,"#1Picture":"Die Another Day","MovieAverage($)":40.3}
+{"_id":{"$oid":"5c982157e2939d069a838532"},"Gross":162.8,"Movies#":9,"Person":"Quentin Tarantino","TotalGross($)":649.2,"#1Picture":"Django Unchained","MovieAverage($)":72.1}
+{"_id":{"$oid":"5c982157e2939d069a838533"},"Gross":83.5,"Movies#":5,"Person":"Tarsem","TotalGross($)":224.3,"#1Picture":"Immortals","MovieAverage($)":44.9}
+{"_id":{"$oid":"5c982157e2939d069a838534"},"Gross":206.4,"Movies#":2,"Person":"Alan Taylor","TotalGross($)":296.1,"#1Picture":"Thor: The Dark World","MovieAverage($)":148.1}
+{"_id":{"$oid":"5c982157e2939d069a838535"},"Gross":51.8,"Movies#":4,"Person":"Brian Taylor","TotalGross($)":113.8,"#1Picture":"Ghost Rider 2","MovieAverage($)":28.5}
+{"_id":{"$oid":"5c982157e2939d069a838536"},"Gross":169.7,"Movies#":4,"Person":"Tate Taylor","TotalGross($)":275.8,"#1Picture":"The Help","MovieAverage($)":69.0}
+{"_id":{"$oid":"5c982157e2939d069a838537"},"Gross":166.2,"Movies#":2,"Person":"Sam Taylor-Johnson","TotalGross($)":167.6,"#1Picture":"Fifty Shades of Grey","MovieAverage($)":83.8}
+{"_id":{"$oid":"5c982157e2939d069a838538"},"Gross":25.9,"Movies#":4,"Person":"Julie Taymor","TotalGross($)":52.8,"#1Picture":"Frida","MovieAverage($)":13.2}
+{"_id":{"$oid":"5c982157e2939d069a838539"},"Gross":179.5,"Movies#":9,"Person":"Andy Tennant","TotalGross($)":598.0,"#1Picture":"Hitch","MovieAverage($)":66.4}
+{"_id":{"$oid":"5c982157e2939d069a83853a"},"Gross":1.2,"Movies#":1,"Person":"Chris Terrio","TotalGross($)":1.2,"#1Picture":"Heights","MovieAverage($)":1.2}
+{"_id":{"$oid":"5c982157e2939d069a83853b"},"Gross":219.6,"Movies#":7,"Person":"Betty Thomas","TotalGross($)":563.3,"#1Picture":"Alvin and the Chipmunks 2","MovieAverage($)":80.5}
+{"_id":{"$oid":"5c982157e2939d069a83853c"},"Gross":0.0148,"Movies#":1,"Person":"Billy Bob Thornton","TotalGross($)":0.0148,"#1Picture":"Jayne Mansfield's Car","MovieAverage($)":0.0148}
+{"_id":{"$oid":"5c982157e2939d069a83853d"},"Gross":150.4,"Movies#":5,"Person":"Rawson Marshall Thurber","TotalGross($)":460.7,"#1Picture":"We're the Millers","MovieAverage($)":92.1}
+{"_id":{"$oid":"5c982157e2939d069a83853e"},"Gross":163.0,"Movies#":1,"Person":"Paul Tibbitt","TotalGross($)":163.0,"#1Picture":"SpongeBob","MovieAverage($)":163.0}
+{"_id":{"$oid":"5c982157e2939d069a83853f"},"Gross":40.0,"Movies#":3,"Person":"Michael Tiddes","TotalGross($)":69.1,"#1Picture":"A Haunted House","MovieAverage($)":23.0}
+{"_id":{"$oid":"5c982157e2939d069a838540"},"Gross":48.8,"Movies#":7,"Person":"George Tillman, Jr.","TotalGross($)":220.3,"#1Picture":"Men of Honor","MovieAverage($)":31.5}
+{"_id":{"$oid":"5c982157e2939d069a838541"},"Gross":0.0573,"Movies#":1,"Person":"Peter Tolan","TotalGross($)":0.0573,"#1Picture":"Finding Amanda","MovieAverage($)":0.0573}
+{"_id":{"$oid":"5c982157e2939d069a838542"},"Gross":31.6,"Movies#":1,"Person":"Mark Tonderai","TotalGross($)":31.6,"#1Picture":"House at the End of The Street","MovieAverage($)":31.6}
+{"_id":{"$oid":"5c982157e2939d069a838543"},"Gross":64.6,"Movies#":2,"Person":"Josh Trank","TotalGross($)":120.7,"#1Picture":"Chronicle","MovieAverage($)":60.3}
+{"_id":{"$oid":"5c982157e2939d069a838544"},"Gross":72.3,"Movies#":3,"Person":"Pete Travis","TotalGross($)":85.7,"#1Picture":"Vantage Point","MovieAverage($)":28.6}
+{"_id":{"$oid":"5c982157e2939d069a838545"},"Gross":117.2,"Movies#":4,"Person":"Jeff Tremaine","TotalGross($)":356.3,"#1Picture":"Jackass 3-D","MovieAverage($)":89.1}
+{"_id":{"$oid":"5c982157e2939d069a838546"},"Gross":652.3,"Movies#":3,"Person":"Colin Trevorrow","TotalGross($)":660.8,"#1Picture":"Jurassic World","MovieAverage($)":220.3}
+{"_id":{"$oid":"5c982157e2939d069a838547"},"Gross":12.0,"Movies#":5,"Person":"Stanley Tucci","TotalGross($)":15.1,"#1Picture":"Big Night","MovieAverage($)":3.0}
+{"_id":{"$oid":"5c982157e2939d069a838548"},"Gross":220.0,"Movies#":11,"Person":"Jon Turteltaub","TotalGross($)":1052.8,"#1Picture":"National Treasure: Book of Secrets","MovieAverage($)":95.7}
+{"_id":{"$oid":"5c982157e2939d069a838549"},"Gross":57.8,"Movies#":6,"Person":"David Twohy","TotalGross($)":169.2,"#1Picture":"The Chronicles of Riddick","MovieAverage($)":28.2}
+{"_id":{"$oid":"5c982157e2939d069a83854a"},"Gross":27.1,"Movies#":8,"Person":"Tom Tykwer","TotalGross($)":68.2,"#1Picture":"Cloud Atlas","MovieAverage($)":8.5}
+{"_id":{"$oid":"5c982157e2939d069a83854b"},"Gross":100.0,"Movies#":4,"Person":"Morten Tyldum","TotalGross($)":192.5,"#1Picture":"Passengers","MovieAverage($)":48.1}
+{"_id":{"$oid":"5c982157e2939d069a83854c"},"Gross":124.0,"Movies#":7,"Person":"Ron Underwood","TotalGross($)":243.2,"#1Picture":"City Slickers","MovieAverage($)":34.7}
+{"_id":{"$oid":"5c982157e2939d069a83854d"},"Gross":415.0,"Movies#":5,"Person":"Lee Unkrich","TotalGross($)":1541.3,"#1Picture":"Toy Story 3","MovieAverage($)":308.3}
+{"_id":{"$oid":"5c982157e2939d069a83854e"},"Gross":37.9,"Movies#":4,"Person":"Jean-Marc Vallee","TotalGross($)":78.2,"#1Picture":"Wild (2014)","MovieAverage($)":19.5}
+{"_id":{"$oid":"5c982157e2939d069a83854f"},"Gross":21.7,"Movies#":1,"Person":"Jean-Claude Van Damme","TotalGross($)":21.7,"#1Picture":"The Quest","MovieAverage($)":21.7}
+{"_id":{"$oid":"5c982157e2939d069a838550"},"Gross":138.4,"Movies#":17,"Person":"Gus Van Sant","TotalGross($)":289.4,"#1Picture":"Good Will Hunting","MovieAverage($)":17.0}
+{"_id":{"$oid":"5c982157e2939d069a838551"},"Gross":2.5,"Movies#":1,"Person":"James Vanderbilt","TotalGross($)":2.5,"#1Picture":"Truth","MovieAverage($)":2.5}
+{"_id":{"$oid":"5c982157e2939d069a838552"},"Gross":0.011,"Movies#":1,"Person":"Nia Vardalos","TotalGross($)":0.011,"#1Picture":"I Hate Valentine's Day","MovieAverage($)":0.011}
+{"_id":{"$oid":"5c982157e2939d069a838553"},"Gross":80.3,"Movies#":3,"Person":"Tom Vaughan","TotalGross($)":92.6,"#1Picture":"What Happens in Vegas","MovieAverage($)":30.9}
+{"_id":{"$oid":"5c982157e2939d069a838554"},"Gross":146.4,"Movies#":6,"Person":"Matthew Vaughn","TotalGross($)":464.0,"#1Picture":"X-Men: First Class","MovieAverage($)":77.3}
+{"_id":{"$oid":"5c982157e2939d069a838555"},"Gross":0.103,"Movies#":2,"Person":"Malcolm Venville","TotalGross($)":0.142,"#1Picture":"Henry's Crime","MovieAverage($)":0.0708}
+{"_id":{"$oid":"5c982157e2939d069a838556"},"Gross":423.3,"Movies#":10,"Person":"Gore Verbinski","TotalGross($)":1529.4,"#1Picture":"Dead Man's Chest","MovieAverage($)":152.9}
+{"_id":{"$oid":"5c982157e2939d069a838557"},"Gross":119.4,"Movies#":9,"Person":"Paul Verhoeven","TotalGross($)":445.7,"#1Picture":"Total Recall","MovieAverage($)":49.5}
+{"_id":{"$oid":"5c982157e2939d069a838558"},"Gross":441.2,"Movies#":4,"Person":"Conrad Vernon","TotalGross($)":953.7,"#1Picture":"Shrek 2","MovieAverage($)":238.4}
+{"_id":{"$oid":"5c982157e2939d069a838559"},"Gross":100.5,"Movies#":7,"Person":"Denis Villeneuve","TotalGross($)":303.8,"#1Picture":"Arrival","MovieAverage($)":43.4}
+{"_id":{"$oid":"5c982157e2939d069a83855a"},"Gross":168.1,"Movies#":2,"Person":"Jordan Vogt-Roberts","TotalGross($)":169.4,"#1Picture":"Kong: Skull Island","MovieAverage($)":84.7}
+{"_id":{"$oid":"5c982157e2939d069a83855b"},"Gross":281.6,"Movies#":7,"Person":"Lilly \u0026 Lana Wachowski","TotalGross($)":714.6,"#1Picture":"The Matrix Reloaded","MovieAverage($)":102.1}
+{"_id":{"$oid":"5c982157e2939d069a83855c"},"Gross":0.0095,"Movies#":2,"Person":"Stewart Wade","TotalGross($)":0.0139,"#1Picture":"Tru Loved","MovieAverage($)":0.0069}
+{"_id":{"$oid":"5c982157e2939d069a83855d"},"Gross":41.4,"Movies#":4,"Person":"Jeff Wadlow","TotalGross($)":105.1,"#1Picture":"Truth or Dare","MovieAverage($)":26.3}
+{"_id":{"$oid":"5c982157e2939d069a83855e"},"Gross":67.3,"Movies#":4,"Person":"David Wain","TotalGross($)":85.8,"#1Picture":"Role Models","MovieAverage($)":21.5}
+{"_id":{"$oid":"5c982157e2939d069a83855f"},"Gross":315.1,"Movies#":5,"Person":"Taika Waititi","TotalGross($)":324.2,"#1Picture":"Thor: Ragnarok","MovieAverage($)":64.8}
+{"_id":{"$oid":"5c982157e2939d069a838560"},"Gross":91.4,"Movies#":4,"Person":"Randall Wallace","TotalGross($)":286.2,"#1Picture":"Heaven is for Real","MovieAverage($)":71.6}
+{"_id":{"$oid":"5c982157e2939d069a838561"},"Gross":0.0626,"Movies#":1,"Person":"Melisa Wallack","TotalGross($)":0.0626,"#1Picture":"Meet Bill","MovieAverage($)":0.0626}
+{"_id":{"$oid":"5c982157e2939d069a838562"},"Gross":353.0,"Movies#":9,"Person":"James Wan","TotalGross($)":1147.4,"#1Picture":"Furious 7","MovieAverage($)":127.5}
+{"_id":{"$oid":"5c982157e2939d069a838563"},"Gross":57.7,"Movies#":3,"Person":"Denzel Washington","TotalGross($)":109.0,"#1Picture":"Fences","MovieAverage($)":36.3}
+{"_id":{"$oid":"5c982157e2939d069a838564"},"Gross":110.2,"Movies#":10,"Person":"Mark S. Waters","TotalGross($)":475.9,"#1Picture":"Freaky Friday","MovieAverage($)":47.6}
+{"_id":{"$oid":"5c982157e2939d069a838565"},"Gross":54.3,"Movies#":3,"Person":"James Watkins","TotalGross($)":54.4,"#1Picture":"The Woman in Black","MovieAverage($)":18.1}
+{"_id":{"$oid":"5c982157e2939d069a838566"},"Gross":42.9,"Movies#":1,"Person":"Ric Roman Waugh","TotalGross($)":42.9,"#1Picture":"Snitch","MovieAverage($)":42.9}
+{"_id":{"$oid":"5c982157e2939d069a838567"},"Gross":70.0,"Movies#":3,"Person":"Scott Waugh","TotalGross($)":113.6,"#1Picture":"Act of Valor","MovieAverage($)":37.9}
+{"_id":{"$oid":"5c982157e2939d069a838568"},"Gross":157.0,"Movies#":6,"Person":"Keenen Ivory Wayans","TotalGross($)":400.2,"#1Picture":"Scary Movie","MovieAverage($)":66.7}
+{"_id":{"$oid":"5c982157e2939d069a838569"},"Gross":262.0,"Movies#":5,"Person":"Marc Webb","TotalGross($)":522.7,"#1Picture":"The Amazing Spider-Man","MovieAverage($)":104.5}
+{"_id":{"$oid":"5c982157e2939d069a83856a"},"Gross":176.4,"Movies#":4,"Person":"Chris Wedge","TotalGross($)":445.5,"#1Picture":"Ice Age","MovieAverage($)":111.4}
+{"_id":{"$oid":"5c982157e2939d069a83856b"},"Gross":2.8,"Movies#":1,"Person":"Robert B. Weide","TotalGross($)":2.8,"#1Picture":"How to Lose Friends and Alienate People","MovieAverage($)":2.8}
+{"_id":{"$oid":"5c982157e2939d069a83856c"},"Gross":125.6,"Movies#":10,"Person":"Peter Weir","TotalGross($)":454.0,"#1Picture":"Truman Show","MovieAverage($)":45.4}
+{"_id":{"$oid":"5c982157e2939d069a83856d"},"Gross":296.6,"Movies#":6,"Person":"Chris Weitz","TotalGross($)":491.7,"#1Picture":"New Moon","MovieAverage($)":81.9}
+{"_id":{"$oid":"5c982157e2939d069a83856e"},"Gross":148.4,"Movies#":11,"Person":"Paul Weitz","TotalGross($)":449.0,"#1Picture":"Little Fockers","MovieAverage($)":40.8}
+{"_id":{"$oid":"5c982157e2939d069a83856f"},"Gross":37.7,"Movies#":3,"Person":"John Wells","TotalGross($)":55.8,"#1Picture":"August: Osage County","MovieAverage($)":18.6}
+{"_id":{"$oid":"5c982157e2939d069a838570"},"Gross":101.4,"Movies#":6,"Person":"Simon Wells","TotalGross($)":222.5,"#1Picture":"Prince of Egypt","MovieAverage($)":37.1}
+{"_id":{"$oid":"5c982157e2939d069a838571"},"Gross":4.9,"Movies#":2,"Person":"Richard Wenk","TotalGross($)":5.4,"#1Picture":"Vamp","MovieAverage($)":2.7}
+{"_id":{"$oid":"5c982157e2939d069a838572"},"Gross":131.2,"Movies#":7,"Person":"Simon West","TotalGross($)":497.3,"#1Picture":"Tomb Raider","MovieAverage($)":71.0}
+{"_id":{"$oid":"5c982157e2939d069a838573"},"Gross":0.101,"Movies#":6,"Person":"Ti West","TotalGross($)":0.348,"#1Picture":"The House of the Devil","MovieAverage($)":0.0581}
+{"_id":{"$oid":"5c982158e2939d069a838574"},"Gross":18.8,"Movies#":5,"Person":"Wash Westmoreland","TotalGross($)":26.4,"#1Picture":"Still Alice","MovieAverage($)":5.3}
+{"_id":{"$oid":"5c982158e2939d069a838575"},"Gross":52.2,"Movies#":2,"Person":"Leigh Whannell","TotalGross($)":64.2,"#1Picture":"Insidious Chapter 3","MovieAverage($)":32.1}
+{"_id":{"$oid":"5c982158e2939d069a838576"},"Gross":623.4,"Movies#":4,"Person":"Joss Whedon","TotalGross($)":1112.2,"#1Picture":"The Avengers","MovieAverage($)":278.1}
+{"_id":{"$oid":"5c982158e2939d069a838577"},"Gross":67.1,"Movies#":3,"Person":"Forest Whitaker","TotalGross($)":136.2,"#1Picture":"Waiting to Exhale","MovieAverage($)":45.4}
+{"_id":{"$oid":"5c982158e2939d069a838578"},"Gross":24.7,"Movies#":1,"Person":"Erik White","TotalGross($)":24.7,"#1Picture":"Lottery Ticket","MovieAverage($)":24.7}
+{"_id":{"$oid":"5c982158e2939d069a838579"},"Gross":2.1,"Movies#":2,"Person":"Mike White","TotalGross($)":3.7,"#1Picture":"Brad's Status","MovieAverage($)":1.8}
+{"_id":{"$oid":"5c982158e2939d069a83857a"},"Gross":50.9,"Movies#":1,"Person":"Stiles White","TotalGross($)":50.9,"#1Picture":"Ouija","MovieAverage($)":50.9}
+{"_id":{"$oid":"5c982158e2939d069a83857b"},"Gross":29.0,"Movies#":3,"Person":"Susanna White","TotalGross($)":32.2,"#1Picture":"Nanny McPhee Returns","MovieAverage($)":10.7}
+{"_id":{"$oid":"5c982158e2939d069a83857c"},"Gross":70.2,"Movies#":6,"Person":"John Whitesell","TotalGross($)":213.5,"#1Picture":"Big Momma's House 2","MovieAverage($)":35.6}
+{"_id":{"$oid":"5c982158e2939d069a83857d"},"Gross":25.3,"Movies#":2,"Person":"Gene Wilder","TotalGross($)":33.3,"#1Picture":"The Woman in Red","MovieAverage($)":16.7}
+{"_id":{"$oid":"5c982158e2939d069a83857e"},"Gross":222.5,"Movies#":2,"Person":"Chris Williams","TotalGross($)":336.6,"#1Picture":"Big Hero 6","MovieAverage($)":168.3}
+{"_id":{"$oid":"5c982158e2939d069a83857f"},"Gross":0.0118,"Movies#":1,"Person":"Ryan Piers Williams","TotalGross($)":0.0118,"#1Picture":"The Dry Land","MovieAverage($)":0.0118}
+{"_id":{"$oid":"5c982158e2939d069a838580"},"Gross":84.8,"Movies#":3,"Person":"Tod Williams","TotalGross($)":88.7,"#1Picture":"Paranormal Activity 2","MovieAverage($)":29.6}
+{"_id":{"$oid":"5c982158e2939d069a838581"},"Gross":1.1,"Movies#":2,"Person":"Jim Wilson","TotalGross($)":1.1,"#1Picture":"50 to 1","MovieAverage($)":0.548}
+{"_id":{"$oid":"5c982158e2939d069a838582"},"Gross":0.127,"Movies#":1,"Person":"Luke Wilson","TotalGross($)":0.127,"#1Picture":"The Wendell Baker Story","MovieAverage($)":0.127}
+{"_id":{"$oid":"5c982158e2939d069a838583"},"Gross":18.5,"Movies#":2,"Person":"Kurt Wimmer","TotalGross($)":19.7,"#1Picture":"Ultraviolet","MovieAverage($)":9.9}
+{"_id":{"$oid":"5c982158e2939d069a838584"},"Gross":33.0,"Movies#":1,"Person":"Jason Winer","TotalGross($)":33.0,"#1Picture":"Arthur (2011)","MovieAverage($)":33.0}
+{"_id":{"$oid":"5c982158e2939d069a838585"},"Gross":20.8,"Movies#":3,"Person":"Adam Wingard","TotalGross($)":39.6,"#1Picture":"Blair Witch","MovieAverage($)":13.2}
+{"_id":{"$oid":"5c982158e2939d069a838586"},"Gross":83.0,"Movies#":7,"Person":"Gary Winick","TotalGross($)":255.2,"#1Picture":"Charlotte's Web","MovieAverage($)":36.5}
+{"_id":{"$oid":"5c982158e2939d069a838587"},"Gross":50.7,"Movies#":7,"Person":"Irwin Winkler","TotalGross($)":118.0,"#1Picture":"The Net","MovieAverage($)":16.9}
+{"_id":{"$oid":"5c982158e2939d069a838588"},"Gross":9.2,"Movies#":21,"Person":"Michael Winterbottom","TotalGross($)":21.2,"#1Picture":"A Mighty Heart","MovieAverage($)":1.0}
+{"_id":{"$oid":"5c982158e2939d069a838589"},"Gross":55.7,"Movies#":2,"Person":"Tommy Wirkola","TotalGross($)":55.8,"#1Picture":"Hansel and Gretel","MovieAverage($)":27.9}
+{"_id":{"$oid":"5c982158e2939d069a83858a"},"Gross":134.5,"Movies#":4,"Person":"Len Wiseman","TotalGross($)":307.7,"#1Picture":"Live Free or Die Hard","MovieAverage($)":76.9}
+{"_id":{"$oid":"5c982158e2939d069a83858b"},"Gross":48.2,"Movies#":2,"Person":"Fred Wolf","TotalGross($)":54.8,"#1Picture":"The House Bunny","MovieAverage($)":27.4}
+{"_id":{"$oid":"5c982158e2939d069a83858c"},"Gross":54.1,"Movies#":4,"Person":"James Wong","TotalGross($)":160.7,"#1Picture":"Final Destination 3","MovieAverage($)":40.2}
+{"_id":{"$oid":"5c982158e2939d069a83858d"},"Gross":215.4,"Movies#":7,"Person":"John Woo","TotalGross($)":526.4,"#1Picture":"Mission: Impossible II","MovieAverage($)":75.2}
+{"_id":{"$oid":"5c982158e2939d069a83858e"},"Gross":36.4,"Movies#":4,"Person":"Bille Woodruff","TotalGross($)":93.7,"#1Picture":"Beauty Shop","MovieAverage($)":23.4}
+{"_id":{"$oid":"5c982158e2939d069a83858f"},"Gross":5.7,"Movies#":1,"Person":"Dean Wright","TotalGross($)":5.7,"#1Picture":"For Greater Glory","MovieAverage($)":5.7}
+{"_id":{"$oid":"5c982158e2939d069a838590"},"Gross":107.8,"Movies#":5,"Person":"Edgar Wright","TotalGross($)":202.5,"#1Picture":"Baby Driver","MovieAverage($)":40.5}
+{"_id":{"$oid":"5c982158e2939d069a838591"},"Gross":56.5,"Movies#":7,"Person":"Joe Wright","TotalGross($)":265.7,"#1Picture":"Darkest Hour","MovieAverage($)":38.0}
+{"_id":{"$oid":"5c982158e2939d069a838592"},"Gross":176.8,"Movies#":4,"Person":"Rupert Wyatt","TotalGross($)":215.7,"#1Picture":"Rise of the Planet of the Apes","MovieAverage($)":53.9}
+{"_id":{"$oid":"5c982158e2939d069a838593"},"Gross":115.7,"Movies#":7,"Person":"Boaz Yakin","TotalGross($)":221.9,"#1Picture":"Remember the Titans","MovieAverage($)":31.7}
+{"_id":{"$oid":"5c982158e2939d069a838594"},"Gross":1.1,"Movies#":1,"Person":"Bob Yari","TotalGross($)":1.1,"#1Picture":"Papa: Hemingway in Cuba","MovieAverage($)":1.1}
+{"_id":{"$oid":"5c982158e2939d069a838595"},"Gross":381.2,"Movies#":7,"Person":"David Yates","TotalGross($)":1791.8,"#1Picture":"Harry Potter / Deathly Hallows (P2)","MovieAverage($)":256.0}
+{"_id":{"$oid":"5c982158e2939d069a838596"},"Gross":53.7,"Movies#":16,"Person":"Zhang Yimou","TotalGross($)":131.0,"#1Picture":"Hero","MovieAverage($)":8.2}
+{"_id":{"$oid":"5c982158e2939d069a838597"},"Gross":82.6,"Movies#":5,"Person":"Ronny Yu","TotalGross($)":151.4,"#1Picture":"Freddy Vs. Jason","MovieAverage($)":30.3}
+{"_id":{"$oid":"5c982158e2939d069a838598"},"Gross":165.2,"Movies#":3,"Person":"Jennifer Yuh Nelson","TotalGross($)":321.5,"#1Picture":"Kung Fu Panda 2","MovieAverage($)":107.2}
+{"_id":{"$oid":"5c982158e2939d069a838599"},"Gross":21.8,"Movies#":1,"Person":"Justin Zackham","TotalGross($)":21.8,"#1Picture":"The Big Wedding","MovieAverage($)":21.8}
+{"_id":{"$oid":"5c982158e2939d069a83859a"},"Gross":56.7,"Movies#":3,"Person":"Steven Zaillian","TotalGross($)":71.2,"#1Picture":"A Civil Action","MovieAverage($)":23.7}
+{"_id":{"$oid":"5c982158e2939d069a83859b"},"Gross":12.8,"Movies#":1,"Person":"Benh Zeitlin","TotalGross($)":12.8,"#1Picture":"Beasts of the Southern Wild","MovieAverage($)":12.8}
+{"_id":{"$oid":"5c982158e2939d069a83859c"},"Gross":330.3,"Movies#":19,"Person":"Robert Zemeckis","TotalGross($)":2104.3,"#1Picture":"Forrest Gump","MovieAverage($)":110.8}
+{"_id":{"$oid":"5c982158e2939d069a83859d"},"Gross":58.3,"Movies#":6,"Person":"Rob Zombie","TotalGross($)":123.3,"#1Picture":"Halloween (2007)","MovieAverage($)":20.5}
+{"_id":{"$oid":"5c982158e2939d069a83859e"},"Gross":110.0,"Movies#":10,"Person":"David Zucker","TotalGross($)":571.5,"#1Picture":"Scary Movie 3","MovieAverage($)":57.2}
+{"_id":{"$oid":"5c982158e2939d069a83859f"},"Gross":217.6,"Movies#":6,"Person":"Jerry Zucker","TotalGross($)":487.4,"#1Picture":"Ghost","MovieAverage($)":81.2}
+{"_id":{"$oid":"5c982158e2939d069a8385a0"},"Gross":176.6,"Movies#":5,"Person":"Harald Zwart","TotalGross($)":297.9,"#1Picture":"The Karate Kid","MovieAverage($)":59.6}
+{"_id":{"$oid":"5c982158e2939d069a8385a1"},"Gross":111.1,"Movies#":12,"Person":"Edward Zwick","TotalGross($)":524.3,"#1Picture":"The Last Samurai","MovieAverage($)":43.7}
